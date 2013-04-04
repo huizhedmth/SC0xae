@@ -1,0 +1,34 @@
+function result = boosted_DT(trainsetX,trainsetY,testsetX)
+
+%% initialization
+T_ = 10;      % number of iteration
+k_ = 0.5;
+beta_ = 0.5;
+C_ = 0.2;
+alpha_ = zeros(T,1);
+result_ = zeros(size(testsetX,1),1);
+%% weak learner initialization
+D = ones(length(trainsetX),1) / length(trainsetX);
+y = trainsetY.*2 - 1;
+
+
+%% -----------------  boosting  -----------------%
+for t = 1:T
+    [output_, BDT] = tree_learner(trainsetX,trainsetY,[],D);
+    hx = output_.*2 - 1;
+   
+    % compute the error function     
+    error = sum(D.*(output_ ~= trainsetY));
+    alpha(t) = k*log(beta*(1-error)/error);
+
+    % update distribution
+    D = D.*exp(-C*alpha(t).*y.*hx);
+    D = D ./ sum(D);
+    
+    [output_boost] = tree_learner(testsetX,[], BDT);
+    output_boost = output_boost.*alpha(t);
+    result = result + output_boost;
+end
+result = (result ./ sum(alpha))>0.5;
+
+

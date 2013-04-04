@@ -1,0 +1,56 @@
+clear all;close all;
+load 'spamdata.mat';
+
+%% initialization
+T = 10;      % number of iteration
+
+%% weak learner initialization
+subsetX = trainsetX; subsetY = trainsetY;
+N = length(subsetX);
+D = ones(N,1) / N;
+alpha = 0;
+y = trainsetY.*2 - 1;
+F = 0.05;   % reducing factor
+
+%% -----------------  boosting  -----------------%
+for t = 1:T
+    
+    % apply model
+    [output, phi_y, phi_one, phi_zero] = bayes_learner(subsetX, subsetY);
+    hx = output.*2 - 1;
+    
+    % compute the error function
+    error = 0;
+    error = error + sum(D.*(output ~= subsetY));
+    alpha = 0.5.*log((1-error)/error);
+    
+    % update distribution
+    D = D.*exp((-1).*alpha.*y.*hx);
+    
+    % repick samples to retrain parameters using new samples 
+    tmp = sort(D);
+    threshold = tmp(floor(N*F));
+    idx = find(D > threshold);
+    dif = floor(N*(1-F)) - length(idx);
+    if dif > 0
+        tmp_idx = find(D <= threshold);
+        tmp_idx = tmp_idx(1:dif);
+        idx = [idx;tmp_idx];
+    end
+    subsetX = subsetX(idx,:); subsetY = subsetY(idx,:);
+    N = length(subsetX);
+    D = D(idx);
+    y = y(idx);
+end
+%% keep record of tuned parameters
+
+bayes_phi_y = phi_y; 
+bayes_phi_one = phi_one; 
+bayes_phi_zero = phi_zero;
+
+%% test performance 
+[output1] = bayes_learner(testsetX, testsetY, bayes_phi_y, bayes_phi_one, bayes_phi_zero);
+[output2] = bayes_learner(testsetX, testsetY);
+error_rate_boost = sum(output1 ~= testsetY) / length(testsetY);
+error_rate = sum(output2 ~= testsetY) / length(testsetY);
+

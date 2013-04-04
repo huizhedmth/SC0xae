@@ -1,0 +1,1941 @@
+Consists of 19941 words.
+[that, shape, conversation, and, their, for, computational, susan, brennan, department, of, psycholo
+gy, state, university, new, york, stony, abstract, experimental, interactive, language, use, have, l
+ight, on, the, cognitive, interpersonal, corpora, are, emergent, these, will, survey, speech, metali
+nguistic, such, affect, how, communication, media, suggest, some, introduction, not, by, but, also, 
+medium, in, which, it, until, little, been, to, be, secondary, importance, many, anyone, who, tape, 
+herself, spoken, quite, different, from, written, those, messy, fact, psychological, comprehension, 
+production, see, fox, still, make, up, most, so, much, what, we, know, about, sentence, ideal, form,
+ no, one, field, taken, an, made-up, now, base, test, since, ldc, elra, large, them, available, natu
+ral, recognition, internet, usage, huge, text, or, resemble, practice, known, long, time, interactio
+n, own, although, at, first, coordinate, with, each, other, joint, turn, enough, inspire, computer, 
+human-computer, attention, naturalistic, important, keep, mind, between, within, analyze, textual, t
+here, ample, evidence, experience, side, independent, people, intend, understand, why, they, provide
+, task, do, communicative, well, when, partner, combination, information, were, discourse, underlie,
+ someone, rapid, moment, dialog, should, open, paper, start, example, identify, distinctive, then, d
+escribe, several, generate, conclude, desiderata, two, search, perspective, consider, conversational
+, interchange, laboratory, experiment, referential, director, matcher, could, another, get, identica
+l, picture, same, right, top, square, diagonal, like, bottom, uh, apparent, fluent, her, twice, seco
+nd, she, description, confirm, commitment, lack, though, target, both, end, once, en, acceptance, ob
+ject, would, if, had, over, instant, visual, next, bear, implicit, ignore, must, either, more, befor
+e, research, agenda, disfluent, assumption, disfluency, tree, per, silent, rate, lower, due, part, u
+tterance, higher, longer, where, tend, shorter, than, often, because, dialogue, take, average, speak
+er, may, imperfect, plan, good, can, adapt, bad, otherwise, goal, human, exclusive, done, contextual
+, earliest, et, sort, architecture, ambiguity, resolution, complete, few, handle, core, nakatani, ps
+ycholinguistic, throw, into, question, harder, lickley, bard, found, deaf, reparandum, order, shribe
+rg, distinguish, rest, while, slow, particular, seem, subsequent, might, broken, three, chosen, moni
+tor, covert, point, internal, loop, output, formulation, phase, articulation, overt, problem, after,
+ via, external, signal, main, interruption, halt, soon, detect, data, word, situation, listener, opp
+ortunity, develop, say, drawn, addressee, watch, display, he, command, yellow, highlight, produce, s
+imple, compare, impact, interrupt, useful, able, find, faster, comprehend, imagine, refer, name, way
+, clue, recognize, relative, move, orange, material, equal, length, control, began, location, silenc
+e, onset, repair, color, response, made, fewer, incorrect, respond, edit, interval, did, mid-word, p
+ause, expense, without, whether, interpretation, alignment, content, self-speech, serve, account, cl
+ark, put, answer, smith, fok, out, filler, latency, correct, later, multiple, choice, non-answer, kn
+owledge, accurate, likelihood, hold, generation, system, indicate, confidence, message, interpret, m
+achine, fashion, critical, cue, incremental, approach, better, provisional, again, exchange, mutual,
+ set, very, went, even, shorten, continue, mark, revert, basic, level, feedback, depict, lead, conce
+ptual, initial, social, face, worth, converge, our, of-oz, adopt, toward, entrainment, native, engli
+sh, ratify, non-native, design, future, include, index, track, help, solve, current, begin, delay, i
+ntention, behind, far, ground, linguistic, hand, face-management, easy, actual, balance, trade, off,
+ context, person, car, icon, spot, talk, language-action, estimate, thought, sample, distance, visib
+le, time-distance, shown, got, closer, steady, distinct, elbow, horizontal, away, park, sufficient, 
+reasonable, meant, establish, region, correspond, schaefer, show, gave, verbal, withheld, adjustment
+, screen, every, total, figure, plot, matcher-director, document, course, flexible, shift, responsib
+ility, whomever, pay, cost, least, collaborative, effort, study, held, chat, sent, three-person, rea
+ch, complex, movie, clip, half, additional, therefore, require, intonation, just, electronic, remote
+, cease, care, management, meet, primary, model, number, methodological, feature, systematic, body, 
+accomplish, all, ever, error, recovery, flexibility, support, issue, propositional, non-propositiona
+l, expression, invite, minor, interface, major, coordination, record, agent, common, cahn, best, str
+ucture, upon, work, national, science, foundation, under, thank, michael, schober, helpful, grammati
+cal, gernsbacher, handbook, academic, acquisition, idiomatic, manuscript, lexical, acoustical, socie
+ty, vocabulary, luperfoy, mit, compensate, memory, prosody, metacognitive, fall, symposium, north, f
+alse, deterministic, syntactic, association, self-repair, conference, detection, correction, phonolo
+gical, fromkin, convergence, group, simplest, organization, international, automatic, darpa, worksho
+p, morgan, integration, generic, nlp, extraction, junichi, tsujii, faculty, japan, centre, uk, signi
+ficant, traction, cross-lingual, retrieval, interact, store, retrieve, decade, development, tistical
+, rather, structural, combine, elaborate, tical, ment, expect, argument, against, throughout, applic
+ation, european, mt, theoretical, clean, japanese, institute, telephone, translation, consortium, pr
+ivate, ministry, post, direction, stage, trend, practical, statistical, stead, sentential, simpler, 
+bust, finite-state, neither, presume, explicit, representation, domain, failure, alone, cannot, whol
+e, range, ai, strong, contribute, modular, syntax, offer, complementary, guistic, contention, think,
+ tential, amount, parse, choose, cause, result, fragile, behavior, case, rent, finite, become, preve
+nt, cation, project, five-year, promotion, september, tokyo, technology, kyoto, myself, software, tr
+ucture, efficient, ontology, responsible, ir, integrate, feasibility, genome, query, expansion, inte
+lligent, ie, full-parser, parser, demand, portion, construct, tion, biological, evant, teraction, am
+ong, participate, ultimate, partial, vide, infrastructure, ogy, versatile, scheme, invention, ture, 
+allow, reentrancy, concise, declarative, instead, non-terminal, characterize, tic, richer, me, entro
+py, probabilistic, potential, yet, inefficiency, fragility, remove, efficiency, cient, grammar, wide
+, coverage, real, world, robust, algorithm, lar, extension, log, engine, execute, definite, clause, 
+similar, treat, nite, diverse, scale, biguation, module, already, performance, tem, lkb, stanford, n
+aive, cky, any, filter, unnecessary, examination, fication, four, built-in, facilitate, fast, sumpti
+on, comparison, benefit, almost, version, instruction, translatable, code, pentium, improvement, exe
+cution, sophistication, outperform, mitsuishi, lingo, view, pennsylvania, xtag, framework, assume, m
+ar, wide-coverage, slung, property, hpsg, obtain, give, loose, individual, over-generate, wrong, ant
+ee, rigid, strict, prepare, specify, spirit, specific, item, strategy, effective, successful, edr, h
+igh, sec, single, sible, statistic, method, program, lect, around, dependency, satisfiability, expen
+sive, avoid, unification, ware, devise, reduction, chose, reduce, necessary, given, cfg, skeleton, o
+riginal, duce, possible, skeletal, local, constituent, proportion, gain, compilation, technique, xhp
+sg, deep, proach, sound, transparent, limit, ity, achievable, pattern, recall, cover, surface, reali
+zation, widen, improve, precision, whose, nullify, appeal, simplicity, ciency, problematic, complexi
+ty, ferent, preliminary, shallow, unlike, constraint, engcg, impossible, cal, medline, further, enti
+ty, tool, cyk, old, relevant, appear, extract, idea, match, compete, tern, exist, above, vent, wider
+, separate, general, predicate, hidden, markov, nehmm, generalizable, sgml, marked-up, belong, stoch
+astic, sion, kind, semantic, itself, eralizable, ical, character, come, nobata, comment, biochemistr
+y, irregular, extensive, ular, ber, ery, area, dna, spite, dardize, nificant, synonymy, ten, protein
+, akt, cross-over, rna, despite, proven, powerful, line, achieve, score, metric, evaluation, dry-run
+, train, larger, incorporate, marking-up, extra, constrain, assignment, aid, event, annotation, cons
+titute, tegral, investigation, essential, sign, clear, reveal, tween, trivial, empirical, ination, a
+bility, learn, ne, pear, typical, inspection, feasible, decision, dictionary, spection, evitable, st
+ep, determine, flect, collection, mathematical, magnitude, reaction, transcription, blood, mation, t
+ry, protein-protein, health, database, csndb, type, read, week, tract, key, yield, april, sification
+, classification, terminology, eu, galen, mesh, built, purpose, differ, coarse, sociative, logical, 
+appropriate, build, play, former, define, attempt, essary, background, nological, conventional, eral
+, size, together, lection, tematic, gene, hpsg-style, coling-acl, stract, special, journal, cambridg
+e, tomatic, term, identification, biology, ural, pacific, rim, molecular, productivity, ventionality
+, domain-independent, frame, bsc, go, roger, moore, ltd, recent, seen, dramatic, ken, niche, swept, 
+consumer, high-street, icant, population, possibility, increase, desktop, availability, vast, instit
+ution, public, fundamental, slower, high-level, elusive, prosodic, linkage, acoustic, illuminate, st
+ephan, vogel, hermann, ney, lehrstuhl, fur, informatik, rwth, aachen, germany, convert, bilingual, l
+ation, category, difference, transform, construction, last, section, overview, device, channel, stre
+am, transition, net, represent, input, symbol, empty, final, matic, gual, pair, source, transducer, 
+prefix, propagate, root, ducer, coalesce, route, generalization, chunk, regular-expression, gory, eg
+ory, label, kept, parallel, option, eration, write, select, runtime, fix, respect, verse, identity, 
+versmobil, date, translate, small, table, seven, compound, verb, relationship, division, five, boil,
+ down, substitution, list, proper, tagger, tagset, alternative, induce, implementation, crude, manua
+l, preference, encode, exponential, negative, zero, unseen, cascade, graph, left, edge, perform, tra
+versal, node, aber, der, vierte, tolerant, proximative, too, deletion, insertion, ror, threshold, ti
+onal, drawback, substiution, error-tolerant, confusion, matrix, recognizer, transliteration, cumulat
+ive, direct, fourth, path, through, factor, effect, summary, versmosil, trigram, perplexity, longest
+, sixteen, examiner, ent, baseline, ditional, tence, short, brought, ple, pp, np, sloppy, occur, alt
+er, default, vert, paramount, middle, transfer, tial, young, hierarchical, korean, selection, pbmt, 
+expand, propose, phrase-length, hybrid, exact, straint, ond, phrase, morphological, raise, accuracy,
+ became, sentence-length, dagan, collocation, sense, difficult, representative, mono-lingual, headwo
+rd, glish, locational, divide, noun, hyponym, nym, lul, duction, ter, abe, na-nun, si-lul, chom, muk
+-ko, nan, um-e, ssu-go, want, poem, hyponymy, quire, collocational, subject-verb, relation, verb-obj
+ect, regard, frequent, to-go, struction, lr, gorithm, prune, glr, frequency, cational, prefer, penal
+ty, ure, sum, child, sc, prefence, function, ec, let, seo, ii, ison, iment, age, ntt, govern, ernor,
+ ratio, restoration, two-level, tactic, adjective-noun, verb-adverb, peter, stephen, vincent, della,
+ annual, putational, ido, alon, ambiguation, lingual, nari, yung, taek, guity, korean-english, hyun,
+ jong, gil, chang, monolingual, chine, jong-hyeok, jung-in, gijoo, dania, chunghye, fei, kwang-joon,
+ kluwer, hideo, koichi, maximum, divergence, george, foster, universite, de, montreal, ca, equivalen
+t, memd, probability, termine, standard, composition, prior, bayesian, proportionality, optimum, equ
+ation, investigate, alternate, rect, chain-rule, itl, conditional, sition, precede, motivation, posi
+tion, extend, transtype, translator, bution, disparate, linear, vice, theory, noisy, sibility, chain
+, rule, alent, evaluate, plication, large-scale, ibm, generative, pick, plete, em, lihood, parameter
+, estimation, true, distribution, weak, guidance, aim, contain, free, word-pair, cooccur, inadvisabl
+e, inclusion, formation, degree, log-likelihood, highest, berger, sideration, reference, gst, sure, 
+presence, remedy, uniform, asterisk, low, valuable, split, disjoint, plexity, indicator, mi, smaller
+, drop, percentage, ear, full, dictive, assign, reliable, latter, measure, gram, predictor, valid, n
+oise, beyond, speculate, advantage, observable, boolean, somewhat, mechanism, discussion, tribution,
+ noisy-channel, fruitful, explore, yaser, jan, kevin, john, dan, franz-josef, david, noah, jhu, tech
+nical, center, adam, tropy, christopher, neural, robert, rameter, random, nical, report, pierre, tar
+get-text, mum, acl, sparse, gelsema, dependent, interpolation, philippe, sebastien, elliott, guy, fr
+anz, josef, christoph, mann, college, imum, ronald, adaptive, michel, align, compositional, yuval, k
+rymolowski, bar-ilan, ramat, israel, subset, variety, free-text, bod, magerman, ratnaparkhi, sekine,
+ lot, ramshaw, cardie, single-word, higher-level, rial, trainable, tension, composite, nature, plici
+ty, skut, church, space, tural, argamon, hereafter, mbsl, raw-data, decide, instance, inference, fla
+t, vp, remainder, suppose, nn, cc, rb, vbz, dt, jj, candidate, boundary, sequence, positive, appeara
+nce, weaker, count, hence, stand, neg, inner, reflect, ence, tile, entire, note, collect, stance, co
+nlen, maximal, trie, certain, arc, along, outline, shortest, overlap, fc, minsize, stronger, dence, 
+lexicographic, grand-total, else, num, extent, reliability, mon, strate, noun-phrase, clude, here, r
+ise, nomenon, minimal, tribute, quantity, totalratio, flat-version, fect, tjong, kim, sang, seperate
+, exploit, ful, attractive, scha, thorough, sub-constituent, bottom-up, create, dop, share, plenty, 
+idence, intuition, tackle, grishman, apple, pie, lie, app, denominator, heavy, raw, biguate, tag, va
+in, buchholz, enrich, gap, jorn, sabine, khalil, walter, antal, van, bosch, error-driven, treebank, 
+kenneth, gregory, window, ohio, hindle, penn, remko, imental, tection, den, tree-gram, induction, ti
+lburg, spuistraat, vb, portant, disambiguation, enrichment, head-lexicalization, literature, nonterm
+inal, head, parent, children, bilexical, context-free, exhibit, capture, crucial, ate, pizza, unclea
+r, resolve, nor, taste, complement, terminal, dominance, bitrary, apart, formal, fluential, percolat
+e, parse-tree, novel, subcat, mentary, head-driven, wall, street, introduce, pre-head, variant, non-
+leaf, bel, phrasal, pos-tag, head-word, procedure, mother, thereby, cooccurrence, rewrite, rewrite-s
+tep, present, thereof, general-form, easier, t-gram, head-role, left-dependent, role, right-dependen
+t, head-child, derivation, stituent, tree-structure, stop, sj, iff, nill, pt, owal, subtree, took, p
+lace, return, leaf, met, erate, independence, polynomial, tractable, bank, maximum-likelihood, argue
+, mate, probable, scope, associate, complement-child, whenever, wsj-label, wsj, held-out, tune, viol
+ate, upperbound, smooth, ilar, cap, first-letter, fulfill, parse-space, review, jelinek, decision-tr
+ee, niak, scfg, deal, except, lexical-dependency, parable, midway, noteworthy, column, markovian, pa
+th-length, height, gold, f-score, semi-lexical, heigher, remo, bonnema, black, ary, phd, illc-disser
+tation, paul, dekker, gwen, amsterdam, tute, partment, artificial, menlo, aaai, rhode, nology, compe
+tence, computertoepassingen, lexical-functional, lfg-dop, verbmobil, monte, carlo, estimator, worse,
+ operate, tree-substitution, tree-insertion, kaplan, flickinger, montague, fragment, reestimation, e
+xpectation-maximization, derive, homecentre, accordance, lfg, consist, notion, accessibility, decomp
+osition, satisfy, ation, coherence, bresnan, correspondence, precise, definition, convenient, orgina
+l, c-structure, outside, f-structure, numsgg, two-way, connection, subject, frontier, third, delete,
+ attribute-value, operation, leftmost, recursive, iterative, call, composable, competition, conditio
+n, off-line, validity, computation, bag, tree-dop, definitionon, refinement, turing-good, compact, c
+hart, chappelier, rajman, goodman, hoogweg, chart-entry, maintain, unify, coherent, subderivation, i
+ncomplete, compute, never, heuristic, pcfg-reduction, beneficial, viterbi, optimization, xerox, indi
+cation, depth, well-known, parseval, phrase-structure, unit, rf, contribution, slight, consistent, p
+henomenon, functional, remarkable, conclusion, virtual, storage, corpus-driven, np-hard, maximizatio
+n, lecture, une, approche, pour, harvard, disjunctive, neumann, dfki, martin, utrecht, temporal, ind
+erjeet, mani, wilson, mitre, sunset, road, virginia, print, broadcast, machine-learnt, considerable,
+ win, biography, history, multimedia, contrast, indexical, annotate, iso, optional, zone, calendric,
+ format, ww, year, day, receive, val, november, value, june, pm, timex, addition, hour, non-specific
+, primitive, partee, force, compatible, inferential, overall, context-dependent, dp, offset, positio
+nal, action, bare, month, tense, look, backward, forward, thursday, past, earlier, iraqi, agency, sa
+id, shipment, oil, tanker, nearby, january, voice, america, cleaner, typographical, greater, frozen,
+ abc, cnn, community, conduct, annotator, nyt, adjust, came, numeric, correctable, tonight, lexicali
+zation, none, biggest, calendar, fiscal, seasonal, spent, great, party, granularity, broader, digit,
+ inflection, quotation, thru, predictive, learnt, classifier, borne, mention, anywhere, chronology, 
+cohen, reichenbachian, tuple, inter-event, component, taggable, modal, event-aligner, advance, event
+-alignment, assessment, chronological, irrelevant, cluster, time-line, event-orderer, aligner, crite
+rion, delicate, propagation, illustrative, definitive, dealt, schedule, historical, piece, toxic, ma
+intenance, event-time, f-measure, muc, event-dependent, fixed-format, copyright, steedman, hope, mix
+, euro, financial, volume, service, appointment, narrative, ksl-time, seventh, symbolic, newswire, n
+inth, artifical, intelligence, unknown, lia, lim, aix-marseille, lexica, monde, concentrate, moderat
+e, oov, grow, salient, occurrence, newspaper, le, comparable, regular, criteria, lexicon, mat, ask, 
+eight, fore, yes-no, formula, impurity, below, bility, mantic, discriminate, discriminant, quality, 
+sct, discriminance, minimum, det, prep, gouvernement, directoire, close, criminance, curve, toolkit,
+ smada, commission, inant, believe, finer, tant, update, entry, tance, sult, bit, ative, classify, s
+ubtask, back, keyword, reestimate, poor, remain, sify, disapear, taitement, automatique, la, quetage
+, probabiliste, prenominal, malouf, alfa, informatica, rijksuniversiteit, groningen, adjectival, str
+addle, perennial, lem, accept, matical, tactical, generator, writer, reason, opposition, american, a
+djective, odd, worst, convey, thumb, lend, bigram, langkilde, lattice, knight, applicable, cific, mi
+ne, inal, ble, est, dataset, million, british, cmu-cambridge, prediction, curacy, ticular, rare, que
+nce, twenty, file, carroll, pursue, roll, tegrate, shaw, hatzivassiloglou, bnc, majority, strength, 
+cur, cut, token, significance, timate, arose, trade-off, racy, opinion, nificance, decrease, straigh
+tforward, implement, impressive, involve, overcome, inherent, generalize, transitivity, difficulty, 
+transitive, alongside, tify, pose, weight, chance, pare, fail, prove, back-offbigrammodel, degrade, 
+jective, similarity, jority, nearest, solution, ilarity, pretation, unable, propriate, fier, wisdom,
+ readable, wordnet, necessity, fraction, predict, vector, timbl, theoretic, relevance, sensitivity, 
+vant, depend, ety, suffer, tive, resource, recommend, ought, mbl, modest, upper, bound, underestimat
+e, perfect, mental, set-up, room, sue, realistic, exception, distributional, nique, worthwhile, ense
+mble, abney, broad, draw, absence, syntagmatic, augment, hand-built, am, carol, ann, guido, school, 
+behavioral, steven, yoram, lou, guide, oxford, victor, philip, clarkson, backpropagation, syllabific
+ation, connectionism, jakub, ko, ilk, approximate, irene, fernando, naftali, lilian, randolf, sidney
+, geoffrey, brief, lege, roy, joelle, pineau, sebastian, thrun, carnegie, mellon, pa, demonstrate, p
+omdp, manager, mdp, real-world, human-machine, levin, maximise, reward, restrict, flight, travel, bo
+ok, principal, ager, e-mail, concern, mobile, robot, speaker-independent, act, infer, audio, bile, t
+hropomorphic, man, imi, singh, concept, heart, observability, user, unobservable, nition, logue, opt
+imal, policy, optimality, ology, lent, ward, blind, parr, cassandra, full-blown, pomdp-style, naviga
+tion, scription, compression, belief, belief-space, intuitive, icy, planner, recover, interpreter, u
+ncertainty, servable, carry, non-zero, respective, observation, behaviour, mal, near-optimal, domain
+-specific, household, confuse, tv, nel, request, summarise, florence, nightingale, prototype, home, 
+flo, sphinx, festival, inquire, medication, motion, ule, reinforcement, illustrate, utility, spond, 
+clarification, confirmation, nonsense, undesirable, leave, left-most, microphone, on-board, nal, rec
+ogniser, ric, run, cycle, observation-action, dra, solver, weather, notice, imate, fastest, msec, li
+fetime, deviation, verification, told, word-accuracy, unusual, acquire, tation, traditional, inferra
+ble, alogue, ial, mean, ventional, ulation, commit, liberal, ification, non-static, sensitive, scrat
+ch, add, dent, satisfaction, tom, mitchell, advice, lenzo, mathur, ravishankar, bug, tony, assistanc
+e, nursebot, team, telligent, recherche, harald, aust, anthony, nevin, san, leslie, pack, thony, est
+her, roberto, wieland, yasuhisa, niimi, yutaka, stuart, coastal, satinder, diane, marilyn, jeanne, s
+hrikanth, sheryl, prepositional, attachment, alberta, canada, site, mary, salad, preposition, fork, 
+eat, adverbial, altmann, utilize, co-occurrence, backed-off, non-statistical, brill, resnik, claim, 
+art, word-sense, bake, sleep, fry, freeze, enjoy, smoke, harvest, love, chop, sprinkle, chew, dish, 
+vegetable, cheese, dessert, entree, bread, meat, chicken, rice, seafood, cake, steak, noodle, bean, 
+disambiguate, unique, lin, minipar, saw, dog, refine, iteration, roth, back-off, cast, bold, diagram
+, cohort, row, intersection, approximation, wish, mixture, initialization, certainty, break, near, c
+ouncil, grant, scholarship, non-compositional, principar, on-line, arpa, hong, basenp, endong, xun, 
+microsoft, china, zhichun, haidian, district, zhou, n-best, global, non-recursive, vbg, etc, huang, 
+bourigault, voutilainen, justeson, katz, transformation, bracket, subsequence, pierce, driven, dynam
+ic, detail, notation, inside, vbd, rbr, principle, examine, basenp-sequence, pos-sequence, furthermo
+re, cd, dash, yesterday, calculate, calculation, identifier, denote, beat, validation, summarize, x-
+coordinate, treebank-ramshaw, msbl, neglect, dependant, lance, march, santorini, cost-efficient, gra
+ce, ngai, yarowsky, md, comprehensive, active, cross-modal, son, labor, encounter, investment, fort,
+ money, multi-factor, exposition, pirical, facto, contrastive, redundant, ligent, learner, uncertain
+, pool, vote, disagreement, algorithmic, batch, tate, spend, variation, n-fold, f-complement, boost,
+ self, sistency, sential, enable, lab, network, communicate, real-time, comfortable, tor, shall, ser
+ver, script, web, perl, placement, bersome, onto, paradigm, dard, boy, singleton, mouse, click, trac
+e, formance, mance, annotation-driven, immediate, six, favor, fuller, variable, careful, rank, noise
+r, monetary, vary, port, consistency, non-expert, growth, load, resume, tight, successive, grasp, sh
+rink, viable, sistent, change, scenario, environment, unavailable, normal, fective, invest, fourteen
+th, ral, eighth, belgian-dutch, supplement, alexander, yeh, burlington, ma, usa, gr, mg, ball, corpo
+ration, marc, vilain, warren, greiff, randomization-type, ran, jun, wu, christine, doran, henderson,
+ sparkle, layer, kernel, intermediate, complication, ferro, differentiate, modifier, fine, different
+iation, ait-mokhtar, chanod, finder, holz, palmer, hwa, blank, replace, noticeable, uneven, tendency
+, merger, map, element, iab, iac, ni, iaq, segmentation, er, repeat, absolute, sessive, subtle, fere
+nce, wonder, halteren, combiner, union, rerun, iau, leverage, dency, unsure, package, wesley, sity, 
+pora, milward, sri, mill, lane, you, ance, london, suitable, slot, concrete, instantiation, liable, 
+classic, nl, style, resent, boston, heathrow, don, destination, assert, ternative, d-theory, gument,
+ tradition, davidson, meta-level, recursion, hut, tice, span, cremental, categorial, cle, follow, si
+der, corner, departure-time, departure, arrival, intransitive, sertion, sation, leaver, sortal, utt,
+ tual, arrival-time, terial, statement, over-ride, arrive, simplify, automate, hierarchy, minimise, 
+however, operator, negation, null, preserve, constituency, extreme, defeasible, air, traffic, specia
+lisation, noord, pendent, largest, peak, erz, implausible, plausible, thrown, hypothesise, bil, expl
+oitation, underspecification, slot-value, pinkal, radical, reconfigurability, troduction, dition, mo
+rphology, city, html, redundancy, one-best, rection, wizard, oz, phone, conservative, inadequate, re
+strictive, uhm, evesham, mere, reconstruction, akin, ungrammatical, recreate, trindi, ian, robin, st
+eve, bob, rob, massimo, poesio, defence, toby, hudson, enquiry, mixed-initiative, mehodological, sho
+p, versity, architectural, sational, bi-lexical, multi-lexeme, leuven, improper, treatment, nominal,
+ pamela, jordan, pittsburgh, pothesize, tentional, intentional, coconut, my, task-relevant, municati
+ve, dale, reiter, pression, gle, anaphoric, collaborate, furniture, negotiate, priority, sofa, attri
+bute, rug, hearer, agree, relaxation, cide, price, lamp, risk, blue, floor, your, older, subproblem,
+ agreement, buy, proposal, redescription, verify, erty, correlational, allowable, intersect, invalid
+, explain, decidable, unconditional, achievement, ner, intercoder, mitment, persuasion, posal, check
+, ready, cheaper, exclusion, exclude, sponse, pairwise, smallest, lsd, cate, member, tification, iin
+f, relational, expectation, tukey, rinf, economy, tain, jean, edinburgh, herbert, edward, tificial, 
+ehud, gricean, barbara, di, hanna, richmond, thirty-sixth, sociation, mond, johanna, human-human, ja
+son, repetition, chapter, initiative, kathleen, megan, moser, rebecca, antentional, matthew, stone, 
+bonnie, informational, whittaker, phil, expert, client, influence, giuseppe, carenini, buccleuch, ev
+aluative, gauge, scalability, stimulate, eugenio, porter, quantitative, mckeown, causal, korb, paid,
+ dislike, online, personal, assistant, sake, argumentation, golden, argumentative, additive, multiat
+tribute, conceptualization, amvf, pronominalization, scalar, estate, objective, preferability, neigh
+borhood, mile, aspect, proportional, nonleaf, opposite, real-estate, experimenter, exploration, chua
+h, visualization, manipulation, refiner, assure, hot, persuade, preferable, questionnaire, attitude,
+ rationale, zanna, influential, understood, judge, hotlist, behavioural, attitudinal, pace, house, h
+ypothesize, pilot, tailored-verbose, tailored-concise, lesser, barron, rancer, cognition, petty, fil
+led-out, self-report, z-score, no-argument, grey, beside, verbose, pertinent, cogent, tell, autobrie
+f, kerpedjiev, conati, mitzpe, duxbury, multi-attribute, organizational, explanation, attentional-pr
+obabilistic, attitude-behavior, maxim, multi-agent, kumiko, tanaka-ishii, hongo, bunkyo-ku, frank, e
+lect, rot, echnical, tsukuba, ibaraki, struct, soccer, tary, nation, commentary, low-level, procedur
+al, decompose, centrate, inter-agent, protocol, cup, game, tent, happen, excellent, high-quality, of
+ficial, simulation, robotic, ease, broadest, trum, multi-agency, magazine, robocup, priori, hard, fi
+cial, tiple, panel, panellist, etruscan, byzantian, observe, converse, tener, isolation, self-praise
+, praise, scribe, video, nhk, fill, announcer, whilst, speak, manage, single-agent, ageable, cer, co
+mmentator, live, atmosphere, mike, player, analyse, voronoi, analyser, defensive, manipulate, profes
+sional, proposition, yser, trol, to-speech, synthesiser, dectalk, sic, quent, topic, transmit, manag
+eable, oldest, premise, send, passage, nouncer, solid, izontal, ruption, abbreviation, modification,
+ viation, lence, period, digest, female, male, australia, hungary, pert, familiar, elicit, ual, emot
+ion, surface-level, nlg, favourable, measurable, superiority, switch, real-life, league, challenge, 
+csli, sinclair, reactive, spanish, antonio, peral, alicante, carretera, vicente, spain, pronominal, 
+anaphora, pronoun, italian, compulsory, nakaiwa, shirai, employ, morphologic, okumura, tamura, disca
+rd, inefficient, morpho-syntactic, mitkov, lappin, kennedy, boguraev, imperative, dispose, omission,
+ zero-pronoun, gender, feminine, proximity, anaphor, closest, restriction, antecedent, masculine, pa
+rallelism, supar, french, sole, feel, applicability, remark, non-detection, impersonal, inaccuracy, 
+unavoidable, lexesp, exophoric, occupy, usual, cataphoric, adaptation, grosz, strube, hahn, itai, ad
+aptable, genre, author, manuel, palomar, lidia, moreno, jerry, cristopher, bran, shalom, herb, rusla
+n, hiromi, satoshi, deictic, manabu, kouji, interlingual, coreference, udo, morton, erence, pin, ge,
+ unrealistic, behave, of-speech, detector, reynar, kenizer, continuation, basal, look-back, corefere
+nt, tecedent, fer, pleonastic, binary, teract, company, honorific, corporate, designator, determinat
+ion, lowest, ten-fold, cross-validation, locality, referent, erent, hitachi, modify, suspect, hurt, 
+reader, vieira, string-equivalent, resilient, appositive, tention, adjacent, inaccessible, confident
+, desire, pensive, non-referential, reciprocal, and-answer, spread, die, jaundice, philharmonic, get
+-well, gift, rization, saliha, breck, baldwin, namic, jeff, adwait, joseph, anoop, vania, amit, mich
+iel, model-theoretic, non-pronominal, walker, avenue, florham, nj, conut, surprise, central, nominal
+-expression, excerpt, lution, conversant, owner, recency, near-minimal, pact, given-new, erator, qua
+ntify, greedy, if-then, participant, ticipant, sive, budget, sentation, segment, power, cant, negoti
+ation, motivate, trast, indicative, consideration, generality, speaker-pair, accent, cue-word, allen
+, draft, markup, non-concatenative, beesley, lauri, karttunen, europe, grenoble, chemin, meylan, fra
+nce, compiler, malay, full-stem, reduplication, arabic, stem, inter, concatenative, agglutinative, a
+ymara, average-length, turkish, koskenniemi, himself, infixation, utamankapxarakiwa, mannyittunya, q
+uate, limitation, concatenation, plementation, automata, implementation-neutral, natural-language, f
+st, commercial, thographical, morphophonemic, vey, first-person, payer, metalanguage, projection, up
+ward, citation, linguist, plural, downward, paie, guage, creation, big, bigger, epsilon, gemination,
+ epenthetical, bol, classical, gether, morphotactic, prefixation, suffixation, tach, semitic, interd
+igitation, compile-replace, con, eaten, rithm, recursive-descent, limiter, copy, crossproduct, origi
+n, capable, tagalog, variable-length, indonesian, number-neutral, pluralization, dictable, whatever,
+ pelabuhan, productive, context-sensitive, lower-side, elegant, delimiter, overt-plural, suffix, vid
+ual, reduplicate, phenomena, surround, upper-side, guist, ential, autosegmental, all-consonant, ktb,
+ consonant-vowel, template, vocalization, vowel, morpheme, bine, cvcvc, calization, cvvcvc, ui, kay,
+ mccarthy, multi-level, wrote, multi-tape, kiraz, kataja, itation, dependence, insight, analyzer, co
+mpile, sun, tra, merge, plate, ordinary, instantiate, cessful, consonant, infinite, rox, non-commuta
+tive, consonantal, cv, substantive, katab, designate, vocalism, tripartite, alternation, rich, prefi
+x-suffix, idiosyncratic, derivational, xml, lexc, competent, criticism, photactic, evan, pc-ki, proc
+essor, mer, annie, laura, kimmo, ancient, nonconcatenative, anton, word-form, alan, reduplicative, o
+ccasional, richard, anne, roeck, essex, kuwait, substitute, adamson, boreham, two-stage, canonisatio
+n, inflectional, tri-lateral, fedaghi, al-anzi, al, appendix, al-shalabi, el-sadany, hashish, hmeidi
+, al-kharashi, ubu-salem, datr, strand, letter, re-implementation, deployment, modern, orthographic,
+ regional, interference, affix, sizeable, circumvent, furnish, dimension, accommodate, western, stri
+p, conflate, confine, acceptable, frugality, co-efficient, removal, spectrum, al-raya, fifth, watan,
+ political, link, rijsbergen, sought, multi-word, benchmark, subjective, stringent, infix, incidence
+, popovic, willet, interfere, bi-gram, wqf, differential, precedence, fool, proof, harman, par, non-
+weak, n-gram, curtail, capacity, mask, suit, dice, jaccard, single-link, ensure, disappearance, qwm,
+ stood, unsuccessful, cut-off, multi, outcome, arrangement, authority, education, constructive, nuts
+hell, indistinguishable, tricky, disappear, dual, rife, prominent, carrier, glottal, unpredictable, 
+vol, root-pattern, fahd, petroleum, saudi, documentation, al-watan, exhibition, multi-lingual, non-l
+inear, sloven, al-omari, multimodal, wicentowski, larity, transduction, legal, past-tense, ponent, i
+nflection-root, transformational, indo-european, affixational, schema, lookup, substance, residual, 
+mentation, stand-alone, lenge, large-coverage, canonical, rough, anism, aggregate, connectionist, fi
+rst-order, partition, affixation, stem-change, supervision, notable, dilemma, phological, lion, non-
+parametric, histogram, density, informative, root-inflection, estimable, lemma, vbinf, cosine, selec
+tional, predominant, context-similarity, portance, levenshtein, shtein, trix, distinction, re-estima
+tion, erative, abilistic, cialization, word-internal, deliverable, lemmatization, ther, pigeonhole, 
+ciple, ant, first-choice, inventory, super, emerge, foildl, competitive, pable, collaboration, fixat
+ion, ewan, klein, ory, prominence, metrical, odic, mastroianni, representational, inheritance, logy,
+ phonology, impose, plex, descriptive, liberman, stress-assignment, fasten, cloak, gsearch, chomsky,
+ nuclear, acceptability, nsr, pragmatic, narrow, non-binary, ditranstive, pierrehumbert, nespor, fig
+, phonetic, blurry, intonational, ip, lower-level, bachenko, signature, monosyllabic, zwicky, rhythm
+ic, juncture, dte, p-wrd, mtr, obey, head-initial, leaner, ale, head-complement, n-bar, dom, full-mt
+r, distr, ght, martha, noel, unhappy, mutt, host, gover, head-specifier, head-final, functionfor, ex
+tmtr, specifier-head, post-head, extender, mkmtr, awkward, mismatch, postmodifier, sister, disjunctu
+re, th, full-mt, possession, samurai, sketch, synsem, specification, metr, tr, repor, discourse-neut
+ral, beckma, janet, jon, discourse-level, inquiry, chicago, scott, prevost, elisabeth, stefanie, sha
+ttuck-hufnagel, alice, tutorial, auditory, arnold, syllable, multivariate, karin, bernd, detlef, pre
+scher, institut, maschinelle, sprachverarbeitung, qualitative, meaningful, lable, neme, conversion, 
+pronunciation, suitability, nary, two-dimensional, dimensionality, german, pseudo-disambiguation, ph
+onotactic, data-driven, nunciation, variate, dimensional, sist, timation, discovery, em-algorithm, b
+aum, stuttgarter, zeitung, non-empty, coda, medial, sional, rooth, pect, high-frequency, dominant, n
+uclei, dominate, front, diphthong, word-initial, complimentary, word-medial, insofar, infrequent, ph
+onemic, grapheme, ciation, expressive, branch, re-written, phoneme, graphemic, terpart, uct, celex, 
+foreign, ition, damper, muller, bell, comparative, emphasize, bouma, sproat, insufficient, lease, le
+onard, norman, gosse, kjell, royal, esca, stefan, glenn, multilingual, pitch, shimei, pan, columbia,
+ julia, hirschberg, labs-research, medical, louder, stressable, excursion, cent, ploy, mis-informati
+on, reliance, presentation, magic, intensive, presbyterian, operative, patient, undergone, media-spe
+cific, graphical, ligibility, correlate, gate, eliminate, fluence, marchand, multi-speaker, fifty, e
+leven, charge, gone, cardiac, tobi, convention, tonal, nine-element, correlation, predictable, coeff
+icient, predictability, lute, dictability, uncommon, discount, unidirectional, bidirectional, point-
+wise, marginal, tainty, symmetric, asymmetric, unigram, igram, hensive, pointwise, cell, saver, inap
+propriate, diction, ripper, plore, tease, prehensive, unacceptable, ap, non-contextual, preparation,
+ nsf, iri, nlm, trastive, ford, cutler, nonparametric, acm, lee, ecologic, transmission, ist, sigdat
+, emnlp, chinese, pinyin, zheng, chen, kai-fu, pc, bi, zi, facility, popular, yuan, mode, word-input
+, reality, cumbersome, tolerate, woshiyigezhongguoren, adequate, beam, chin-hui, rewritten, frederic
+k, geometric, cross-domain, slm, billion, per-character, mandarin, southern, preview, wait, toleranc
+e, variability, single-character, layout, finger, typist, transposition, reversal, skill, requiremen
+t, hanzi, validate, bahl, lm, forget, tri-syllable, emit, non-english, survive, acronym, lower-case,
+ tri-letter, mistake, usable, enter, resident, jianyun, nie, li, shang, hai, jianfeng, hai-feng, fu,
+ icassp, kuldip, william, springer-verlag, accoustic, balabnce, disclosure, lei, zhang, tsinghua, ha
+ihua, kong, tri-gram, abnormal, one-character, categorize, ji, real-word, replacement, matter, dissi
+milar, five-stroke, browse, extraordinary, typewriter, four-character, subscript, restore, long-dist
+ance, ol, diate, compatibility, non-projective, lai, courtin, robinson, pend, projective, icate, mov
+ement-like, presssion, conform, specif, icat, subsection, pendency, governor, ria, retain, deriviati
+onal, linugistic, meddle, portability, retical, daughter, chomskyan, reverse, junction, alive, verti
+ble, romance, auxiliary, pull, reversion, formalism, adequacy, subclassification, sub-word, minal, f
+acililate, sergio, balari, luca, marie, lyne, da, alma, sonja, anna, polguere, sylvain, damien, cons
+iglio, nationale, delle, instito, linguistica, haim, eva, chunfa, zhishi, huoqu, jufa, fenxi, nancy,
+ greg, advisory, bong-yeung, yang, bong, yeung, jost, gippert, multilinguale, jahresiagung, gesellsc
+haft, iische, daien, verarbeiiung, enigma, posium, ton, oriental, tal, igor, makoto, carl, pollard, 
+ivan, jane, office, nization, stanley, pinter, ficient, sang-zoo, jun-ichi, hae-chang, korea, seongb
+uk-gu, seoul, sparse-data, mitigate, unreliable, brown, pendence, argmax, hmm, consult, simpliest, a
+d, cabulary, non-uniform, bio-molecular, silviu, cucerzan, paradigmatic, inexpensive, resist, maxent
+, herein, non-existent, inflective, analytical, uation, pute, universal, by-type, tity, fixed-length
+, polation, borrow, previously-seen, singular-present, noun-consistent, evident, large-vocabulary, n
+on-probabilistic, l-r, tiny, low-count, respectable, greatest, associational, hajr, hepple, regent, 
+portobello, sheffield, shef, whereby, realise, degradation, initial-state, ator, amongst, samuel, ul
+ary, aware, neutral, quency, freedom, iar, sequential, consequence, scan, ine, informal, hash, width
+, indirect, dow, upto, blame, cision, non-lexical, eight-fold, four-fold, ger, eric, eugene, neil, e
+leventh, cial, ternational, inductive, logic, doug, julian, penelope, torbjorn, y-tbl, emmanuel, roc
+he, terministic, lazy, forida, geoff, webb, energy, constant, seminal, damerau, transpose, gale, spe
+ll, checker, ristad, damerau-levenshtein, peterson, somebody, nonmatch, fractional, laird, accumulat
+e, rescore, fisher, hall, precompile, pointer, static, dell, iii, k-best, cg, superset, posit, arbit
+rary, obviate, resort, query-relevant, summarization, vibhu, mittal, henry, faq, usenet, faq-like, r
+etail, tral, distill, triage, page, characterization, marization, merit, disagree, formational, ingr
+edient, ument, publicly-available, unorthodox, enlist, thousand, streamline, customer-response, amen
+able, rfc, extraterrestrial, mutual-fund, munity, sato, fidelity, gehrig, mislead, evance, sheer, am
+yotropic, lateral, disease, rence, germane, theme, steer, dictation, optical, wew, egy, handful, ext
+ractive, zero-probability, variance, depiction, convex, ben, manner, quick, call-center, previously-
+unseen, harmonic, rightmost, portable, lengthy, swer, inclination, didate, vector-space, tfidf, tool
+box, stricter, blance, ization, source-channel, non-extractive, brock, factorization, attack, hovy, 
+bloedorn, flaw, pseudo-relevance, xu, fit, non-heuristic, salvo, battle, conquer, promise, partnersh
+ip, award, claritech, tech, acknowledge, thoughtful, ucla-okapi, chin-yew, ponte, inadmissibility, w
+itbrock, headline, one-page, thematic, yoshio, nakao, fujitsu, kamikodanaka, skim, readability, quar
+ter-size, three-sentence, realize, rhetorical, vague, header, distinguishable, decimal, erarchy, coh
+esion, derstand, relate, tory, assist, heading-like, archy, arate, fixed-width, four-item, consecuti
+ve, tokenizer, librium, professor, prologue, cultural, utive, vance, equilibrium, increment, umn, su
+mmation, dicate, impression, subclause, haliday, ruqaiya, marti, multi-paragraph, expository, ipsj, 
+sig, gerard, mandar, hypertext, yaakov, texplore, itory, cvif, tab, norbert, reithinger, kipp, ralf,
+ engel, gmbh, functionality, reuse, trec, tipster, federal, forgotten, dle, singular, sor, vebbmobil
+, insert, suggestion, terface, sub-module, irrespective, ternal, rary, accommodation, schematic, tud
+e, inter-object, reject, stack, sponsor, block, german-english, okay, midday, ok, welchem, safe, mir
+ror, ality, multi-party, alexandersson, macquarie, cai, interlingua, planation, michele, banko, tott
+en, pond, coyote, hill, palo, inability, herent, wire, salience, sell, macintosh, revision, strain, 
+summarizer, succinct, periment, deficient, tax, news-wire, mark-up, font, normalization, plest, gaus
+sian, product, linearization, story, discourage, whelm, punctuation, article, zero-level, imation, e
+rtia, president, clinton, mideast, madeleine, albright, peace, envoy, session, prime, minister, benj
+amin, netanyahu, palestinian, leader, yasser, arafat, warn, withdraw, nine, percent, west, rael, gre
+e, lap, chelba, shelf, darpa-tipster, syntactical, quartile, word-error, collective, tractive, tempt
+, multi-sentential, co-occur, ciprian, gerald, frump, wendy, lehnert, lawrence, erlbaum, eduard, chi
+n, yew, scalable, hongyan, daniel, marcel, jade, jaime, dragomir, radev, kathy, kiyotaka, masaki, oz
+aku, hitoshi, isahara, nishi-ku, irex, petition, irex-ne, connectivity, sub, stitute, cult, conseque
+nt, tj, formal-run, mainichi, revise, quisition, dation, pheme, wick, muc-ne, syin, chan, yun, niu, 
+blk, nanyang, technological, singapore, cause-effect, accessible, late, depression, cure, cowie, sag
+e, daniell, ksiezyk, explanatory, sidiropoulou, berry-rogghe, scientific, substantial, garcia, causa
+tive, oddy, myaeng, fdg, khoo, altenburg, typology, priate, paclitaxel, clinical, ceptual, pcomp, at
+tr, causality, mandatory, activation, java, digestive, ratory, fair, felt, tifier, dpat, adverse, ox
+idase, orolingual, dyskinetic, tongue, cine, sub-tree, drug, physiological, zidovudine, augmentation
+, ctl, co-reference, synthesize, pothetical, firmation, disconfirmation, swanson, locate, silver, ie
+ee, fish, chikashi, kansai, hyogo, ny, nyu, edu, modularity, executive, cession, vehicle, rocket, ar
+tifact, dry, numerical, bagga, meta, uniformity, numeral, meral, timex-numex, desirable, logarithmic
+, enamex, numex, acter, culiar, connect, restri, clc, culty, nominator, arrest, nigel, collier, yuji
+, sadao, osamu, yuu, profile, memory-efficient, thread-safe, quasi-destructive, lohuizen, delft, con
+sumption, trative, buffer, overhead, footprint, multiprocessor, quad, commonplace, parallelize, conc
+urrent, cache, destructive, disallow, impair, duplicate, enlarge, reusable, permanent, comp-arc, cia
+te, array, valuation, wise, consume, absarc, catch, nil, elseif, atomic, push, fwd-dg, arc-list, new
+idx, newcopy, fwtab, thread, contrary, invalidate, reset, nice, feature-structure, data-structure, s
+ubgraph, violation, speedup, footnote, subsumption, defer, cept, atom, decode, heap, objective-c, kb
+, mb, utilization, vantage, postpone, lel, reserve, equality, ploit, allocation, deallocation, garba
+ge, cern, ecution, parallelization, ciety, witout, akker, op, puter, jul, hideto, parco, sixth, jeff
+rey, vitter, nondestructive, howard, telligence, optimality-theoretic, kuhn, universitat, stuttgart,
+ azenbergstrate, earley, deduction, ot, cursion, timization, ject, cross-linguistic, typological, de
+viate, quantifier, ot-lfg, expletive, max-io, conjp, conj, violable, language-specific, tesar, symme
+trical, erality, ley, resentation, passive, bar, topmost, skip, tableau, clarity, trigger, specifier
+, completion, unfaithful, harmony, double, cyclic, undergo, decidability, rectional, prolog, wedekin
+d, nential, formalization, polynomial-time, koller, kurt, rambow, duchier, derspecification, egg, is
+fiability, doubt, nance, inance, unproblematic, enumerate, ancestor, enumeration, hole, constructor,
+ stant, arity, n-ary, literal, unsatisfiable, non-deterministic, mial, np-complete, inequality, theo
+rem, graph-theoretical, disregard, orem, right-hand, disjunct, left-hand, disjunction, normality, ex
+istence, emanate, hypernormal, satisfiable, dundant, omit, corollary, depth-first, irredundant, satu
+ration, workhorse, equivalence, elimination, quadratic, configurability, nullary, fiability, image, 
+practicability, superior, ernst, gert, sven, sfb, dfg, configuration, axiomatization, johan, claire,
+ gardent, leda, platform, combinatorial, order-independence, intuitionistic, correlativity, rean, wo
+rd-unit, morpheme-unit, sbo, tiili, doctoral, lingusitic, ocr, masaaki, nagata, cyber, kanagawa, gra
+pheme-phoneme, ngram, kanji, kana, handwritten, sonal, credit, card, market, couple, uncompositional
+, crossover, idential, directory, to-phoneme, formulate, arg, max, legitimate, grid, troduce, simula
+tor, dundancy, lary, ficult, chinese-korean, jin-xia, daejon, republic, yanbian, yanji, jilin, key-s
+un, choi, shin, ker, english-chinese, pure, enhance, clarify, employment, asian, altai, french-engli
+sh, ideograph, colloquial, pronuncation, prolongation, regularity, svo, sov, ckct, t-score, fung, fa
+vour, tongyici, cilin, mei, midterm, gotten, adverb, dic-coefficient, eqution, maybe, upturn, upgrad
+e, viewpoint, word-level, phrase-level, informaton, pietra, computional, ulrike, schwall, language-n
+eutral, sandra, thompson, bak, baek, roscheisen, yun-qi, hong-xiang, synonym, shanghai, jung, tanaka
+, takaaki, yoshihiro, matsuo, cise, nalization, interest, museum, dict, cessive, suri, somehow, init
+ion, subclausal, pharmaceutical, third-person, possessive, judgment, replicability, latest, multicla
+usal, mccoy, pearson, kameyama, terance, infinitival, inanimate, ownership, attentional, inary, leaf
+let, kameyama-style, fewest, cb, uration, isfy, anyway, looser, sidner, basketwork, plicit, vicevers
+a, decoration, drawer, gilt-bronze, military, flank, medallion, portrait, dutch, fought, imperial, c
+abinet, treaty, jewelry, worn, membership, brooch, subjecthood, armorial, reproduce, colour, crystal
+, plement, adult, doctor, actor, satisfactory, donia, epsrc, hua, renate, henschel, rodger, hitzeman
+, perception, intra-sentential, hypermedia, passonneau, meta-scheme, ofdefinite, rough-shift, essay,
+ e-rater, contributor, justify, continuity, pronominal-free, peg, student, tational, graduate, teria
+, gmat, plicability, joshi, herence, favorite, music, arise, tinuity, cf, cp, clausal, miltsakaki, d
+inate, adjunct, crosslinguistic, indefinite, everyone, pro-arb, prince, discourse-salient, paragraph
+, incoherence, incoherent, resoluion, absent, reflection, regression, subordinate, junct, hurewitz, 
+ganization, putation, earter, t-test, reasonalby, erater, discrepant, maximize, instructional, instr
+uctive, supplementary, inalization, jill, burstein, seth, weiner, ramin, hemat, grateful, avind, ali
+stair, knott, clarendon, multiparagraph, intrasentential, thesaural, phi, delta, ish, bilateral, fre
+theim, vocabulary-management, ide, vassar, cristea, romania, vt, forth, rst, rst-specific, nucleus-s
+atellite, elementary, vein, therapy, conjecture, nuclearity, satellite, interposition, chief, office
+r, mcneil, ortho, co-referential, adjacency, scrutiny--to, provision, bush, veto, bill, volitional-c
+ause, unresolvable, twenty-two, lighter, elsewhere, staunch, democrat, endorsement, chairman, allair
+e, atlantic, richfield, lodwrick, cook, zenith, approval, co-referent, inter-unit, intra-unit, re, s
+enator, emitter, recuperation, correct--that, prevalence, spokesman, bartlett, attributive, postulat
+ion, nuclear-satellite, viability, marcu, left-satellite, finish, valentin, tablan, azzam, romary, g
+undel, hedberg, zacharski, hirschman, chinchor, amorrortu, romera, eiichiro, sumita, atr, soraku, ac
+company, knowledge-intensive, developer, general-purpose, automation, lexicography, case-frame, inve
+rse, mature, trial, english-japanese, incorporation, non-relevant, sentence-wise, repetitive, discri
+minative, accidental, angle, hand-made, thesauri, vsm, fatal, physical, bottleneck, kadokawa-shoten,
+ transfer-driven, ribeiro, departamento, faculdade, tecnologia, universidade, nova, lisboa, quinta, 
+torre, caparica, portugal, gabriel, mexia, homograph, pascale, afford, waste, rectangle, dispersion,
+ filtration, case-study, anchor, simard, plamondon, mistaken, spondence, distant, slope, gather, cou
+rt, justice, parliament, greek, portuguese, finnish, swedish, cognate, tuguese, champollion, deciphe
+r, setta, prone, reluctant, wonnacott, band, narrower, co-ordinate, nacott, non-misalignment, baf, c
+hel, corridor, methodology, joaquim, critique, jacal, character-set, para, jennifer, mercer, industr
+ial, disk, term-translation, johnson, campbell, wiley, chichester, brisbane, toronto, sylvie, gence,
+ isabelle, och, fertility, hidden-markov, zero-order, baum-welch, egypt, eter, cope, distortion, ver
+tical, forbid, multi-component, suite, walnut, set-local, tree-local, scriptive, adjoin, mctag, tl-m
+ctag, generable, gra, stru, deriv, tiona, fo, nitio, becker, el, men, ind, catin, elemen, tre, trust
+, aset-local, sl-mctag, d-tree, stitution, tag-equivalent, multicomponent, nondirectional, adjunctio
+n, wherein, expressivity, two-component, one-component, site-segment, prive, foot, weir, object-leve
+l, nt, r-mctag, simulate, fuse, bination, excise, assemble, iliary, restate, spine, rf-tag, bridge, 
+npvp, vsthat, lyze, dsg, subsert, kulick, cky-style, fringe, pseudopod, iom, feet, pop, pop-push, bi
+guity, gaifman, ena, goall, rl, adjoinable, tution, non-immediate, vor, clitic, confluence, deeper, 
+stituency, subject-auxiliary, oretical, tilman, aravind, owen, c-command, uwe, reyle, christian, par
+sin, reidel, leon, sitivity, dowty, chiang, st, philadelphia, pcfg, ltag, and-butter, shift-reduce, 
+plain, parasitic, aside, incapable, ementary, ptag, sister-adjunction, gorn, tig, gest, imaginary, r
+econstruct, percolation, encodable, codable, head-percolation, quarter, nonempty, nonlocal, treebank
+-style, grandparent, anew, sparser, backoff, predicative, sen, tree-template, once-seen, casual, twe
+lve, ordination, extractor, lp, shanker, verb-argument, chor, sitional, ibility, aro, ralph, socatio
+n, joshua, assocation, gunter, maximum-entropy, conception, cubic-time, parsable, malism, bunt, bang
+alore, lexeme, tigate, word-bag, formidable, predicate-argument, valency, supertag, fear, chooser, t
+inct, underway, seeable, synset, supersynset, syntactic-choice, top-down, tentative, optimize, sonab
+le, inferior, persynset, christiane, tronic, water, unite, hardware, fi, fxe, fx, rr, till, escape, 
+piq, sr, sd, parent-child, brother, alike, grandpa, prentice, englewood, jersey, february, arden, yo
+rktown, picky, beatrice, sui, zhao, budapest, information-theoretic, log-linear, riezler, parsebank,
+ charniak, elworthy, pereira, perimental, insufficiency, parametric, exact-match, chaotic, haviour, 
+incomplete-data, darroch, ratcliff, complete-data, singly-iterative, im, closed-form, obtainable, ho
+od, maxima, configurational, non-parallelism, oblique, adjunctival, dative, accusative, pre-disambig
+uation, routine, maxwell, helbig, buscha, cf-structure, disambiguator, categorization, helbig-buscha
+, cutoff, non-negative, pre-disambigution, provement, pseudo-likelihood, beil, lexicalizaton, ration
+, nigam, dipper, bettina, schrader, pargram, inside-outside, gerhard, joachim, deutsche, ein, handbu
+ch, edwin, zhiyi, alto, kamal, andrew, atsushi, fujii, tetsuya, ishikawa, library, jp, resultant, ex
+haustive, viate, seldom, introspection, trieve, mccallum, encyclopedic, anytime, newline, dant, whit
+e, standardize, flow, sultant, foreground, browser, mainingu, latent, orate, rom, encyclopedia, pedi
+a, bunsetsu, toha, de-aru, setsu, dia, born, chasen, wo, duct, tuation, itemization, miliar, shimbun
+, alyzer, hbc, experimentation, judgement, nag, title, trieval, patent, goo, concede, polysemy, ital
+, cd-rom, iwayama, takenobu, tokunaga, noriko, kando, oren, food, digital, kazuko, hiko, sigir, kupi
+ec, akira, tatsuo, tomoaki, kristie, jian-yun, allel, jong-hoon, kyungsoon, technologyresearch, yuso
+ng-gu, hardship, moreover, bi-lingual, fifty-seven, etri-kemong, seventy-six, neighbor, within-group
+, recalculate, inter-point, dissimilarity, euclidian, rnn, chemical, chemistry, astronomy, exception
+al, parenthetical, capital, standardization, gui, bunsan, kt, c-value, non-nominal, korterm, culture
+, tourism, sejong, fund, kosef, terminological, etri, judith, muti-word, padro, rigau, talp, departa
+ment, politecnica, barcelona, taxonomy, dgile, ldoce, taxonomic, mrd, attach, snap, netic, incompati
+bility, patible, lundh, hyper, nection, hypernym, mediate, iib, ponym, iio, cancel, nymy, aie, aio, 
+descendant, hypernymy, arrow, ia, aa, coincidence, coarser, wn, precision-recall, princeton, tlink, 
+diccionario, ilustrado, lengua, espanola, graf, tzigov, boulder, lapata, brew, catgorization, framen
+et, termediate, anticipate, traveler, miller, riloff, tionary, terrorist, schmelzenbach, protagonist
+, pat, agenthood, drove, integral, nication, one-tenth, caveat, erage, multi-way, velopment, plish, 
+guideline, signifance, soft, conjunction, movement, ej, terpolation, sparsity, collin, berkeley, bla
+heta, fillmore, bach, academy, hofmann, ray, maria, dekang, ellen, kohlhase, revisit, quantification
+, cardinality, pustejovsky, sight, beauty, mony, conjunctive, philosophical, omnipresent, cion, co-c
+omposition, qualia, busa, dotted-pair, higher-order, peculiar, book-shelf, qua, customer, non-physic
+al, abuse, refrain, congruence, alphabetic, wherever, type-safe, extention, prescribe, subtype, refl
+exivity, covariant, contravariant, lish, weaken, montagovian, truth, predication, type-e, book-speci
+fic, ontological, extensional, existential, tological, second-order, barwise, one-place, striction, 
+dualism, exocentric, endocentric, reconsider, coercion, reinterpretation, copestake, chronic, diachr
+onic, polymorphic, sigma, barrier, native-english, recommendation, suggestive, chinese-english, cons
+ultant, hopeful, tm, pinyin-chinese, pinyin-english, polyphone, ki, algebraic, geometry, piny, chine
+se-phrase, sheng, tiejun, min, xiaohu, meng, xin, shenghuo, dekai, xuanyin, xia, han-feng, lee-feng,
+ keyphrase, diagnstic, jaanese, fr, cmuter-assiste, secn, kakegawa, hisauki, eitar, fujika, makt, it
+ami, khji, ith, deartment, alie, univerity, tkyo, yamazaki, na-hi, chiba-ken, astrct, alicatin, prse
+, nstic, atin, cntext, imlemente, tye, cmnent, intructin, classrm, prmte, ecme, functinality, deenen
+ce, orer, int, curage, ruce, recgnize, inarriate, misuse, alreay, computr, assstd, languag, samle, e
+ctin, detecte, cmse, paer, rert, frmalism, lexicalize, se, seeme, mst, well-knwn, tw, lke, mre, siml
+e, cnvenient, generatin, anchr, hea, anchre, infrmatin, knwlege, situate, aearance, lcal, sn, emlye,
+ unificatin, all-rceural, exclue, s-calle, deenency, classifie, yugen, taigen, yp, tp, alng, belng, 
+categry, self-cntaine, wr, mify, cnnective, cnstructe, vi, tinal, attitue, cutr, prsinal, mality, in
+tentin, lcutin, illcutinary-act, elementry, elmntary, examle, exresse, nte, polite, opertin, sai, an
+ther, rt, unifie, ajine, inserte, ft, searate, sustitutin, junctin, jine, manatry, thse, optinal, pu
+rse, unintene, tin, cnitin, mifie, ren-yu, frm, withut, ecte, rentai, unifrmity, a-rentai, kinshi, w
+hle-art, situtin, exressin, aitinal, situatinal, situatin-eenent, lcate, territry, outsie, emathy, r
+elatinal, emee, unerline, thugh, inicate, prsitinal, functin, giving-enefit, whse, giver, givee, sie
+, camera, suse, situatin, stan, diagnse, incrrect, tale, lexicn, lcutr, musuk, ga, hbsan, hn, ynd, m
+rau, cmsite, ave-mentine, wwivt, cnsierale, numer, precee, mificatin, cntrl, clumn, frce, ver, mlity
+, ry, tentin, c-ccur, positin, prsitin, cnfience, deman, rain, wa, osraku, huru, daru, yo, marker, c
+lime, yama, ill, unag, befre, prcessr, cnsiere, stck, memry, caniate, mifier, ket, possile, insecte,
+ poppe, grate, saturatd, intal, teste, aear, permitte, excet, unesire, fun, thus-far, mae, sit, auxl
+ary, prvie, rea, ahea, sustitute, prceure, inectin, yu, attache, sat, pushe, descrie, algrithm, rela
+tinship, latinshi, unifiale, searche, auto, licate, prceural, fille, use-case, slt, variale, unuse-c
+ase, trate, bottm, pk, wrd, transferre, likewise, cncatenate, unuse, laine, omitte, slash, thus-cnst
+ructe, whle, lustrate, relatinshi, vie, ferre, prcesse, fin, divie, pstultin, cmsitin, therefre, mrh
+lgical, availale, shul, aske, reresente, chilren, linke, princile, semntic, agnstic, operatin, temra
+ry, aen, recre, prvisinal, aene, reasnale, interretatin, mentine, obtaine, crrecte, wrng, errr, cnfr
+m, suitale, hel, mif, marke, returne, exlaine, ave, cmmente, far-mae, fllw, stuent, ha, ut, shwn, cu
+l, etect, afrementine, relatin, liste, obstacle, relace, tgether, crssver, ffl, committee, wsd, hwee
+, pedersen, selective, mittee, mild, dure, kaist, free-order, nominative, liere, blum, freund, littl
+estone, warmuth, rem, goff, tie, jump, burden, abundant, iita, cho, bae, bun, jonja, dari, thirteent
+h, kaufmann, jose, vicedo, ferrandez, universidad, apartado, qa, pal, snippet, text-snippet, non-pos
+sessive, murax, olution, sentence-extraction, salton, register, bureau, cisi, cranfield, lisa, cacm,
+ ommend, pansion, lat, sary, phologic, allelism, gue, ptsc, gordon, derek, nual, sanda, rada, roxana
+, vasile, jianqiang, anni, valerie, addison, donald, att, toru, ad-hoc, open-domain, goodrum, method
+ist, lasso, uate, battery, abductive, plausibility, feed-back, lexico-semantic, ducive, brance, sine
+, nant, organize, inate, radix, intrinsic, sign-score, sentence-score, vdistance, nist, erful, speci
+al-purpose, walz, smart, hight, harabagiu, ana, moldovan, dawn, kilyoun, kr, noun-verb, curate, near
+est-neighbor, pseudo, wrod, futher, subspace, mension, gebraic, lationship, discrete, multi-dimensio
+nal, contextual-usage, lsa, co, mle, svd, ematical, reduced-rank, probabilty, invetigation, degratio
+n, folding-in, statitical, aitrc, gao, stolcke, subunit, loosen, poisson, idf, specificity, kmixture
+, non-content, df, optimise, proofread, svm, platt, style-specific, style-independent, disadvantage,
+ time-specific, time-independent, subtraction, chien, academia, jian, zhu, superhighway, drapa, tran
+scriptionand, philippine, rachel, edita, salle, taft, archipelago, nationwide, government, pampanggo
+, pangasinan, fortunato, boholano, allan, borra, kroeger, austronesian, musgrave, foley, latrouite, 
+crawford, interrogative, wh-movement, potet, trost, rubino, in-depth, filipino, ilocano, atn, semant
+ically-close, cl, socio-economic, demographic, oceanic, ucsb, umi, indonesia, bobby, id, emergence, 
+seeker, bahasa, establishment, keen, muhadjir, evolution, hardjadibrata, monash, colleague, error-fr
+ee, derived-word, spelling-error, corrector, activity, multi-national, root-word, educate, bu, pak, 
+lembaran, sastra, edisi, dengan, menggunakan, pengurai, kalimat, vietnamese, vietnam, phan, huy, kha
+nh, danang, duan, telex, restitution, diacritic, ngo, thanh, versa, thi, dinh, nguyen, quach, tuan, 
+english-vietnamese, french-vietnamese, v-f, sino-vietnamese, trung, cong, alphabetical, fev, nhan, h
+oang, phe, compose, rhyme, tabular, tone, coan, conformity, byte, pivot, fourier, akshar, vineet, ra
+jeev, sangal, indian, hyderabad, india, anusaaraka, relax, kannada, equivalend, hindi, participial, 
+south, email, mantra, matra, categorisation, join, download, sanskrit, paninian, ramanujan, ucsg, su
+b-categorization, chaitanya, prentice-hall, cdac, pushpak, bhattacharya, radhika, ak, disambignation
+, thai, virach, tanapong, chai, wutiwiwatchai, pradit, mittrapiyanuruk, parsit, webpage, thailand, t
+erlingual, orchid, siderable, arnthai, unclean, fuzzy, idiosyncrasy, differrent, nectec, catenation,
+ demisyllable, jamjunya, varasarai, sium, kiratiratanaphung, fourior, genetic, potisuk, tesprasit, m
+alaysia, zaharin, yusoff, universiti, bernard, groupe, traduction, autonatique, geta, usm, english-m
+alay, malaysian, utmk, teknologi, cicc, atlas-ii, east, utm, dewan, pustaka, itnm, kuala, lumpur, ka
+nta, johor, stable, kebangsaan, bangi, malaya, technologi, mara, shah, appreciation, rush, profitabi
+lity, country, expertise, decline, contract, collaborator, shell, jemah, lisp, siskep, mercury, popu
+larity, look-up, spell-checker, publication, edition, accessory, rakanbm, processsor, user-driven, t
+oggle, maht, mata, mainframe, unix, dbp, french-malay, string-tree, graphic, sstc, fuel, setback, ve
+nture, edi, portal, durbin, sanger, wellcome, hinxton, sa, jean-luc, lori, martine, claude, langzhou
+, yannick, kercadio, orsay, mid-term, dio, indexation, near-term, dissemination, sdr, pean, lvcsr, s
+peaker-dependent, voice-interactive, limited-domain, ronmental, transcribe, partitioner, non-speech,
+ straight-forward, wide-band, the-art, ognizer, radio, television, decoder, alpha, multilinguality, 
+characteristic, terest, nizer, multiword, non, bandwidth, brf, contemporary, may-june, alarm, harmfu
+l, jacent, igure, february-june, bimodal, sharp, multi-scale, duration, recombination, stamp, non-st
+ory, ropean, transcript, demonstrator, audiovisual, cross-language, film, forefront, riety, thong, s
+ylvia, hermier, patrick, paroubek, participation, dave, thisl, nov, adda, luc, tober, cedric, garofo
+lo, hauptmann, djoerd, wessel, tim, kenney, beth, pedro, valencia, camino, vera, long-term, maximun,
+ wsme, cycit, del, mination, consistence, evalute, algorithmn, ep, fieaa, distribition, mcmc, propp,
+ transit, coincide, collapse, nism, gramatical, porate, amaya, viterbi-like, treebanck, postag, base
+-line, word-category, probabilitie, envent, inicial, mantain, acordance, aposteriori, cedure, improv
+d, prelimary, wer, wole, multispan, aproach, tut, lari, baker, laface, inside-outsude, sertation, ma
+ximim, comunication, high-performance, dumber, timothy, contiguity, order-sensitive, tiguity, nirenb
+urg, bulk, brute-force, orthogonal, add-in, preempt, moreso, impinge, kitamura, kawase, croft, norma
+lisation, plicable, pivotal, nakamura, tsutsumi, tack, matrix-level, reflective, parison, suffice, a
+ccelerate, ifi, normalise, multiplicative, quential, inbuilt, foraiven, perior, tangible, mainder, r
+eproducibility, juman, machinery, opment, loan-word, congruent, allowance, breakdown, katakana, pari
+ty, meager, arisen, jeida, tition, sub-standard, warrant, strongest, fan-out, chinery, rior, seek, d
+isparity, timum, vicinity, import, discover, acm-sigir, wagner, prototypical, fortunate, confusable,
+ efficacy, everywhere, attain, perceptron, complementarity, as-yet, engelson, negligible, endpoint, 
+agreed-upon, santa, diversity, brunswick, colloquium, fifteenth, catalina, barbu, wolverhampton, sta
+fford, wv, sb, kingdom, bereft, parser-free, cogniac, knowledge-poor, workbench, secure, re-implemen
+t, clearer, aone, super-tagger, head-modifier, pron, sg, usedfor, coref, usability, coreferential, s
+ubmit, knowledge-poorer, rap, consultation, non-robust, fairer, developement, reflexive, minimize, i
+ntervention, insightful, chinatsu, scot, operational, feldman, manolo, simon, botley, niyu, branimir
+, joel, inria-rocquencourt, domaine, voluceau, chesnay, champ, ism, nomial, worst-case, rcl, forest,
+ nondeterministic, oracle, ptime, recognizable, byo, fyi, igi, ecep, tiation, prcg, non-combinatoria
+l, cubic, sume, sequel, rcg, unary, descent, crease, ceptable, schemata, stay, two-step, pre-termina
+l, dag, glue, mhz, gcc, guidingparser, tinent, deductive, fsa, throughput, derant, ruin, prcl, annue
+lle, sur, traitement, tomatique, linear-time, lakshmanan, springer, semi-automatic, multidocument, b
+eaugrande, proximate, interchangeability, emma, burst, comfort, console, paraphrase, rendition, lite
+rary, erary, creative, dian, cussion, inevitable, sauri, undertaken, canadian, tinction, irregularit
+y, shone, premodifier, noun-modifier, non-parallel, vassiloglou, dlcotrain, determiner, itive, stret
+ch, kappa, whom, evaluator, sequent, onym, lexico-syntactic, macro-syntactic, morin, noemie, elhadad
+, barzilay, rd, measurement, ltg, gann, bierner, cooper, follow-up, netscape, shoe, auction, hoeksem
+a, nlir, hearst, afghanistan, bidfind, thrust, von, fintel, exceptive, presupposition, assertion, st
+alnaker, beaver, webber, derivable, particle, combinatory, egorial, ccg, excision, syn, asser, back-
+end, isa, sociate, gine, system-specific, erational, alog, document-retrieval, mentor, lehn, electri
+city, tutor, confront, responsive, green, cylinder, knob, fare, edgar, poe, electric, romantic, clut
+ter, tioner, grain, salt, centage, terize, benthem, jacob, ception, jaap, choon-kyu, oh, karen, ume,
+ tricity, earl, twentieth, kai, presuppositional, zelle, raymond, ion, isolate, eisner, deteriorate,
+ node-substitution, isomorphic, prohibitive, guarantee, prohibit, weischedel, hyphenation, diminish,
+ subtree-depth, nonheadword, surmise, stig, beforehand, maximalist, uncontroversial, schapire, beta,
+ bodirsky, katrin, erk, niehren, saarland, deemter, lambda, lelism, payatt, jar, ax, hol, descri, re
+dex, lematic, mula, reduct, ub, correspondent, nonlinear, recourse, enforce, elliptical, lawyer, rid
+, rule-induction, eindhoven, antwerp, belgium, time-table, present-day, fault, litman, hyperarticula
+te, soltau, waibel, ulate, cheap, atic, nlu, fiddle, incidental, per-feature, asr, krahmer, question
+-answer, schiphol, munication, henceforth, misunderstood, bow, low-frequency, ficant, archaic, ult, 
+bibliography, brent, xiaopeng, tao, box, washington, mo, knowledge-free, teahan, regimen, adaptabili
+ty, ppm, word-boundary, hear, dahan, viterbi-style, ph, nese, language-independent, five-step, non-b
+oundary, sentence-boundary, unorderd, permutation, numerator, multinomial, overestimate, asymptotic,
+ timal, analogy, permit, phabetic, hansard, secutive, logarithm, punctuation-bound, exposure, diverg
+e, helicopter, borneo, palmtop, segmenter, million-word, researcher, witten, integral-bit, word-like
+, artificial-language, native-language, hockenmaier, retargetable, checklist, literacy, capability, 
+first-draft, life, conflict, proficiency, multinominal, bernoulli, larkey, laplace, comprehensible, 
+straight, elaboration, six-fold, f-value, re-use, generalizability, ept, cross-topic, freshman, impl
+ication, teufel, high-stake, severe, essay-specific, instruct, marisa, hilary, todd, andrea, dialect
+ical, siegel, mellish, intellectual, nedjet, tipper, inuie, cahill, peat, realisation, parability, r
+e-usability, underpin, bullet, over-commitment, reusability, inter-module, event-driven, semrep, syn
+rep, docrep, docattr, feature-value, pseq, publish, municate, hander, tectural, wake, lifecycle, fin
+alise, synthetic, lc, rend, sf, pharmweb, eye, blackboard, nose, blow, wash, unscrew, bottle, liquid
+, tilt, dropper, touch, brighton, rhetrep, ro, outer, text-level, naliser, realiser, realpro, realis
+edby, finite-domain, isfaction, indvidual, ordinator, and-arrow, crete, organisation, velop, setup, 
+predecessor, lynne, jo, broad-coverage, lavoie, christy, caption, tecture, gestural, facilitation, g
+esture, gesture-speech, lester, rickel, pedagogical, sub-action, cassell, interlocutor, overload, ey
+ebrow, synchronization, gaze, look-away, look-toward, takeuchi, nod, posture, reformulate, non-compu
+tational, kendon, engage, trunk, condon, osgton, scheflen, blom, gumperz, spatial, momentary, ericks
+on, proxemic, knew, grocery, backchannel, pseudo-monologue, aggregation, initiation, open-floor, wai
+stline, monologue, interrater, rho, normalize, discourse-segment, inter-segment, wrt, energetic, con
+gregate, dseg, collagen, existent, um, vision, non-verbal, animation, renderer, recipe, nonverbal, i
+nter-discourse, intra-discourse, findhouse, transportation, showhouse, elm, activate, high-energy, l
+ow-energy, subdialogue, initiate, three-way, gandalf, rea-posture, providence, ri, immediate-head, s
+br, brian, roark, perience, worthy, speech-recognition, ify, polate, grammar-model, winner, language
+-model, anticipation, dovetail, hit, sentence-final, lose, immediate-bihead, tree-bank, capitalizati
+on, bihead, gration, interpolate, immediate-trihead, night, monday, trigram-like, trihead, right-sis
+ter, lauer, no-op, tandem, luck, grammar-trigram, trigram-higher, progressive, complicate, criminati
+ve, ineligible, encourage, unk, manent, sub-optimal, amend, lieve, ofthe, dept, finality, vijay-shan
+ker, preservation, tighter, lability, multifoot, simulable, squeeze, yond, erable, gcfg, regular-for
+m, alphabet, simulability, trary, back-pointer, dereference, destroy, bijection, aho, mmtag, rf-mmta
+g, zero-foot, encapsulate, d-edge, pertain, non-adjunction, lost, meanwhile, job, ticomponent, nent,
+ naoki, learnability, algebra, pembroke, alex, yy, ventura, panama, sag, wasow, shieber, respondence
+, disentangle, figur, expressin, malize, rectify, rational, hook, vocabular, convenience, ternary, c
+oindexation, dination, scopal, ofzero, supervaluation, non-sentential, append, standpoint, vian, tri
+ple, valence, necessitate, qeq, multiplication, nerbonne, prolog-style, divorce, volve, dexation, me
+talevel, exercise, nonmonotonicity, grammar-specific, preparatory, esrc, poznanski, henk, calder, ni
+ck, glyn, nitive, gamon, brockett, redmond, system-internal, ringger, su, alshawi, nyberg, momodific
+ation, winmt, mamaximal, ajp, avp, top-level, ascii, subsume, enforcement, fluency, opaque, slider, 
+discriminatory, pinpoint, margin, visualize, emulate, idiomaticity, carlson, msr, moisl, commercial-
+quality, word-perplexity, dikovsky, rue, bp, cedex, pd-grammar, projectivity, gorial, lambek, norm, 
+non-projectivity, meaning-text, non-tractable, lombardo, meta-projectivity, pseudo-projectivity, res
+ource-dependent, mutativity, associativity, discontinuity, cf-tree, d-structure, compl, grnn, determ
+, fa, saturability, grv, ofpairwise, polarity, ourself, defect, axiom, tee, cite, dt-language, lc-fr
+ee, sical, charter, totic, illustration, lency, inacceptable, brute, dv-structure, fa-saturation, gp
+sg, heartfelt, gratitude, pertsov, groote, rand, monica, oxford-new, earley-type, grammaire, calcul,
+ sleator, librairie, hockey, gawron, rialist, nasa, diego, moffett, hu, iyer, ostendorf, bellegarda,
+ sector, tellme, heyanita, analog, workable, rayner, lemon, gauthron, colineau, impediment, commandt
+alk, psa, sethivoice, eau, explosion, carter, gemini, tug, shorthand, npsingular, vpsingular, npplur
+al, vpplural, rive, permissive, nuance, bnf-like, kleene, closure, gsl, iterate, fixed-point, kiefer
+, krieger, most-general, restrictor, unifiable, non-singleton, inactive, side-effect, walk, deer, cp
+u, non-local, ultra, gb, singleton-elimination, separation, beam-search, algorigthm, ullman, compact
+or, til, left-recursion, compaction, vnppp, baor, right-recursion, right-recursive, poorer, hopcroft
+, left-corner, coorelate, multi-span, bratt, non-initial, left-recursive, please, cgf, in-domain, ol
+iver, multi-modal, spoken-language, left-recusion, americal, assocationsfor, thirty-fourth, uary, or
+al, coronary, constraint-satisfaction, titative, icu, wearable, recorder, tag-set, eown, cooperation
+, busy, motif, fixed-order, splash, pretty, agglomerative, inter-cluster, centroid, relevancy, clear
+-cut, vancy, checkable, test-set, treshold, content-planner, tif, wild, backbone, top-category, regi
+na, smaranda, muresan, nadjet, incompatible, mukesh, michelle, yong, univeristy, fangfang, hudak, ma
+rcela, barry, desmond, elizabeth, shabina, andre, vimla, surgery, tensive, isidore, torial, wildcard
+, topological, postfach, debusmann, iomatization, land, word-order, einen, zu, lieben, versucht, ext
+raposition, stipulate, license, opt, didactic, obligatory, non-finite, wird, flip, infinitive, iary,
+ climb, v-projection, perfectizer, atory, hat, haben, scheint, bal, equate, intraposition, cohesive,
+ tische, arbeiten, guistische, niemeyer, erhard, tsuneko, hapaxlegomena, cance, strata, superficial,
+ homogeneity, spect, adjn, pnv, pn, metaphoric, switzerland, collocativity, instable, stability, sus
+ceptible, sl, weeber, precondition, tire, paxlegomena, proximation, hypergeometric, fidence, thin, d
+elimit, instability, acknowledgement, krenn, austrian, ulrich, heid, wolfgang, methoden, zum, vergle
+ich, engineeringfor, brigitte, automatische, extrahierung, idiomatischer, bigramme, tagungsband, lin
+guistischen, hinrich, south-central, helmut, wojciech, thorsten, rein, baayen, lowest-frequency, jii
+, non-linguistic, hance, reformalize, clopedic, clopedia, standable, understandable, google, hyperli
+nk, cyclopedia, entific, rogative, qualify, quadruple-choice, autumn, fifo, lan, prager, recast, law
+, medicine, finance, biotechnology, ecology, oceanography, nichigai, gai, katunobu, itou, loren, lin
+klihood, sergey, brin, anatomy, hypertextual, akihiro, takashi, hiroshi, kouhei, naohide, pacific-as
+ia, yoshitaka, robertson, xiaolan, ismael, varea, castilla-la, mancha, universitario, francisco, cas
+acuberta, candide, ineni, papineni, wang, tillmann, simplification, fj, hotel, trainpp, testpp, i-th
+, reorder, computable, position-independent, jochen, dietrich, monotone, ye-yi, scientifique, thater
+, axiomatic, tag-like, surge, ofen, modulo, depart, dg, monotonicity, dtg, tdg, tague, abbreviate, g
+ray, top-most, s-node, schematise, cnf, lift, complementizer, multi-propositional, neo-davidsonian, 
+unsatisfactory, lexicalist, monotonic, determinism, intersective, devoid, vertex, essence, non-deter
+minism, fierce, exhaust, constraint-propagation, advocate, inconsistent, vestigial, terminate, regim
+e, termination, non-termination, iomatic, icalist, quirement, near-deterministic, cat, ewnlg, cornel
+l, retic, cheng, glot, holland, ofacl, kahane, nomena, subcategorization, inspiration, damental, kat
+hol, reape, malization, x-bar, topology, freer, dozen, lesen, versprochen, diesem, buch, niemand, se
+parable, copular, somewhere, vorfeld, mittelfeld, nachfeld, lennerz, uszkoreit, insist, gleich, schr
+eien, shout, weigh, linearize, telfeld, cative, border, detachment, phic, comma, emancipation, thirt
+y, liebt, eine, einahmequelle, rel, fusion, permeability, fn, av, ev, vfin, vinf, vpp, xp, comp, vc,
+ vf, mf, nf, unterfeld, emancipate, np-internal, figurational, russian, vfinal, germanic, mentizer, 
+sche, california, admiralty, mization, high-polynomial, sensible, coder, ce, clair, hypothetical, in
+visible, permute, non-head, vacant, nul, null-tra, slation, frenc, wor, positio, best-first, initial
+ize, to-right, multistack, zero-fertility, save, monasson, entendu, il, parle, belle, victoire, hear
+d, beautiful, heautitul, victory, stepwise, non-trivial, integer, salesman, tsp, tour, populate, lik
+eliest, tel, non-null, sub-formula, finite-cost, darpa-ito, jonathan, ginzburg, sweden, nonsententia
+l, bo, spunyarn, laugh, joke, matt, adore, presuppose, negotiative, trip, malvern, quickest, hou, re
+quisite, bohlin, formalize, spawn, ercion, ignorance, ofphrasal, clarifiable, erwise, mother-daughte
+r, illocutionary, latest-move, polar, focal, counterpart, cont, outscope, react, root-cl, prop, slui
+ce, godis-like, dimitra, purver, colloquia, queen, westfield, economic, indi, jubileumsfond, elisabe
+t, staffan, hulstijn, maryland, source-language, clusion, lexical-semantic, gridrobabilit, eurowordn
+et, round, same-synset, entirety, solo, arguable, voter, whichever, indv, simplewtdsum, plesgl, maja
+ggr, plepair, priorprob, sim, semsim, simpleprod, majsimplesgl, majsimplepair, forcement, concert, v
+ariation-specific, abstain, recall-precision, exotic, tomap, combo, fell, shy, next-best, hind, cred
+ible, dod, olivier, bodenreider, dorr, mari, broman, antonia, mexico, kilgarriff, tzoukermann, assoc
+iationfor, type-logical, reversible, curry-howard, homomorphism, asymmetry, powerfull, commutative, 
+commute, compositionality, vovabulary, acg, exemplify, accomodate, ptq, unicorn, morrill, carpenter,
+ dalrymple, applicative, proof-search, merenciano, pogodalla, transductive, ductive, reminiscent, tr
+iplicate, rudimentary, connective, cartesian, moortgat, ranta, citizen, door, rozenberg, ofrichard, 
+ameliorate, contact, utilise, abundance, prerequisite, alvey, grover, thereafter, briscoe, lemmatisa
+tion, invaluable, precursor, lard, subcategorisation, machine-readable, non-alphabetic, preclude, er
+ratic, hand-written, developedvbn, variablejj, suctionnn, systemnn, irrigationnn, aspirationnn, vitr
+ectomynn, studiedvbd, valuenn, carbonnn, dioxidenn, monitoringnn, transportnn, radiographicjj, evide
+ncenn, diminishedjj, stabilizedjj, pleuraljj, effusionnn, wordtag, egorisation, pipeline, alcoholic,
+ retrospective, subcategorise, tokenisation, formulaic, unanalysable, labour, subcomponent, unwieldy
+, detrimental, largejj, bodynnof, hemoglobinnn, boundnnvvn, ghostnn, membranenn, reassign, posite, v
+isualise, gold-standard, pre-processor, specialist, tailor, kasper, lexicographyfor, lt, lrec, bruce
+, rij, xmlperl, api, bethesda, serial, czech, ifal, mff, prague, czechia, pavel, icnc, ff, karel, ol
+iva, itcl, fixed-context, hungarian, basque, eastern, plain-old, pdt, brazilian, oflazer, tur, trade
+off, automaton, twofold, bullet-proof, intricate, vocalisation, trospection, flective, vocative, gul
+ar, equal-weight, perfection, heldout, bucket, fold, nate, reinsert, deficiency, harm, genuine, sepa
+rator, manual-rule, ti, morphosyntactic, ijs-dp, disambiguace, samuelsson, tapanainen, thede, petr, 
+sgall, tectogrammatical, intersentential, tfa, journalistic, fiction, morphemic, cnc, hladka, cca, a
+nalytic, autosemantic, economical, etymological, panevova, appurtenance, irreflexive, temp, rstr, ob
+j, radiokomunikace, musi, tomto, roce, rychle, splatit, dluh, televiznim, debt, radiocommunication, 
+vrbova, semantico-pragmatic, kruijffova, theune, previ, functor, associative, salince, episodic, per
+ipheral, dosud, pokryvaji, hitherto, by-signal, a-half, territory, nezachyti, ani, prvni, borderline
+, a-number, the-first, of-czech, totiz, the-division, televize, zada, urychlenou, vystavbu, novych, 
+of-new, crc, ctv, cr, csf, federation, transmitter, nam, vystavba, sedmi, lokalitach, stala, uvolnit
+, jen, the-construction, of-technical, equipment, we-can, proto, jedname, uvadi, ekonomicky, radiote
+lekomunikaci, miroslav, dalsich, korun, si, vyzada, signalu, poetic, bulletin, honour, jarmila, kibb
+le, summer, kruijff-korbayova, praguian, tx, nize, reformulation, eventual, sentative, iditarod, ima
+l, hawaiian, entailment, inventor, invent, wealth, luther, mrar, enhancement, margaret, fan-fang, xi
+oayan, inquery, general-knowledge, que, stion, kisman, masson, paule, selim, dinstl, comoutational, 
+rohini, srihari, hardt, copenhagen, denmark, realizer, submission, vpe, mr, coxon, cash, elide, fien
+go, alizer, ptb, inter-annotator, anova, dental, caught, replicate, tenfold, ofartificial, tanya, ga
+rland, voicemail, watson, grown, versational, listen, caller, joe, flex, hi, pre-caller, sub-graph, 
+second-level, person-name, number-structure, non-background, unpleasant, themaximum, time-overlap, t
+io, informatio, investigat, followin, tex, tha, correspon, rec, calle, identit, phon, numbe, wit, co
+rrec, manua, redi, corruption, racognition, appelt, mene, ji-hwan, sean, becca, oncina, enrique, sal
+im, dana, acyclic, laurent, vandoeuvre-l, francee, proliferation, counter, extensible, pivotformat, 
+serveerve, rdf, lisp-like, aat, render, ar, np-sbj, paulul, ibmcould, category-specific, non-xml, pr
+oject-specific, dcr, application-specific, xslt, xsl, syntagme, aml, inter-operability, hub, dialect
+, intermediary, anotherther, subjfor, aof, differentent, xcomprelation, init, sphr, dependency-style
+, asp, bracket-precision, flattreebank, areare, dumbb, downparser, thehe, atwell, intractable, opera
+bility, site-specific, scheme-specific, commonality, abstraction, registry, separatelythat, biron, a
+shok, paoli, mcqueen, brickley, ezra, claudia, mitch, tomek, patrice, ora, lassila, davy, beth-ann, 
+avarind, po, pasi, timo, murray, hideki, isozaki, merical, trec-qa, taj, mediocre, ature, sassano, f
+ifteen, in-house, tokenize, inter-word, typewriter-style, float, common-noun, aka, yokohama, honda, 
+sony, one-word, hint, non-numerical, hama, senior, atypical, concatenate, dummy, nobel, arbitration,
+ zeroth, damage, borthwick, crl, gallippi, utsuro, otaka, tsuneaki, eisaku, shigeru, kenichiro, shum
+eet, rahul, jim, constantine, named-entity, learningfor, takehito, hiroyuki, romi, masao, bllip, nan
+do, apologize, nih, mcle, word-tag, bootstrap, similiar, bitag, pearl, two-element, isomorphism, loo
+k-ahead, guard, binarization, lookahead, lafferty, counter-intuitive, bottou, non-lattice, eighteent
+h, dayne, seventeenth, ofplausible, alexandra, kinyon, grefenstette, unsuitable, propernoun, foresee
+, determinization, minimization, javacc, lex, declaration, demonstrative, npcoord, unfair, punctutat
+ion, vn, vninf, coord, inc, advp, postnominal, femme, qui, pense, viendra, woman, aime, inversion, l
+ui, voit, tu, vu, debate, postverbal, disposal, guesser, comprise, mn, demo, penntreebank, treetagge
+r, advertise, bergen, toussenel, tenny, atala, veenstra, ecai, kornai, karlsson, heikkil, antilla, m
+outon, marcinkiewicz, schmid, vergne, etude, syntaxe, syntaxique, dossier, diriger, super-cubic, non
+-black, non-white, dot, ram, temporary, time-efficient, strictive, grammar-driven, scc, reachable, s
+ame-span, reachability, size-one, drag, exponent, outgrow, categorical, lower-exponent, higher-expon
+ent, addend, best-fit, sal, jay, ascent, function-argument, gravitate, highly-efficient, longest-mat
+ch, tle, sirable, atum, lesmo, adj, simplex, clause-final, conjunct, field-model, dann, ich, viellei
+cht, noch, vorschlagen, donnerstag, elften, und, freitag, zw, friday, twelfth, vxfin, vafin, pper, a
+dvx, adv, advmd, vvinf, elf, kon, zavrel, subroutine, quantitive, syntactic-semantic, pseudo-code, u
+nderscore, perimentation, backing-off, envisage, caroll, wojiech, stochastische, dem, robusten, vali
+a, stylebook, leonardo, vincenzo, oflrec, britta, hlt, simone, korpora, craig, stanfill, rosmary, he
+ike, mcdonald, noun-noun, collocate, lidity, pseudo-word, elicitation, omy, lectional, perb, defy, s
+ad, proud, classesby, tributional, jensen-shannon, shannon, kullback-leibler, wealthy, deliberate, s
+pective, latitude, randomly-chosen, stimuli, sensory, cowart, ferential, ordinal, world-wide, vergen
+ce, inter-subject, unfamiliar, guilty, giant, innocent, firm, master, surface-syntactic, characteris
+e, gurman, antonella, steffan, shari, cratic, lillian, slava, amalia, katherine, grammaticality, lam
+bek-style, formulae, subformula, logico-grammatical, binatory, minimalist, subsystem, sameformula, t
+ree-like, head-movement, vso, sitionality, semantical, malist, plicational, diary, flection, tect, r
+eprompt, drastic, detectible, ive, labeler, misrecognition, corr, ergy, ofpause, turn-level, one-fac
+tor, tempo, posthoc, bonferroni, p-level, post-error, inent, ard, str, tiative, four-way, ruleset, m
+inority, corraware, confusability, lapse, isaware, durational, rejection, nofeat, quest, thesize, ji
+min, liu, seng, chua, spn, pre-screen, alleviate, minsky, sub-topic, tong, compromise, karov, weerd,
+ arbitrator, arbitrate, lpn, sectio, multi-layer, feed-forward, piecewise, differentiable, trim, mod
+apte, markovitch, leacock, chodorow, tishby, proc, askman, ijcai, marina, mercial, ebmt, tmem, veale
+, multi-engine, smt, ster, distorsion, specialize, english-french, aucun, syndicat, particulier, dic
+at, ftmem, ptmem, secretary, stick, high-standard, germann, bien, tendu, kenji, maruyana, bitext, he
+rman, cutting-edge, andy, cmu-lti, yamada, holistic, stereotypical, dulay, gent, michaud, near-nativ
+e, icicle, two-sentence, resubmit, non-grammatical, grade, eighth-grade, ficiency, slalom, coy, zpd,
+ deliver, mastery, progression, inter-coder, esl, twe, danger, carletta, spread-out, manova, nitude,
+ mid-level, insignificant, smarter, soloist, intent, prevalent, asl, nect, highest-level, navigate, 
+delaware, litza, stark, camille, heidi, brigham, leap, linda, acl-iall, florida, pher, caph, assisti
+ve, schneider, august, death, drink, wine, consistant, eventuality, intra-phrase, gation, prover, co
+lombia, slot-allocation, originate, azenbergstrasse, bilistic, out-perform, bct, capitalize, tt, emp
+lary, disyllabic, trisyllabic, fricative, syl, sonant, bisyllabic, mono-phonemic, probabability, act
+erize, admit, tage, terion, zoom, alisation, scandinavian, vroomen, sonority, juliette, strap, sylla
+bic, tractability, penter, sld, implicational, type-antecedent, typable, resemblance, compilable, lo
+w-degree, non-disjunctive, would-be, dedekind-macneille, taxonomical, semi-lattice, impractical, mac
+neille, bertet, supertype, type-intensive, erbach, irreducible, pletion, meet-reducible, join-incomp
+atible, compile-time, ometric, memoise, run-time, introducer, bot, bool, intro, intractability, susp
+end, propsymbol, trueconj, falseconj, disj, truedisj, falsedisj, trueneg, falseneg, trueform, falsef
+orm, complexity-theoretic, non-maximal, non-atomic, latticehood, postponement, hide, storagefor, fra
+ser, habib, bit-vector, ordal, frantz, vichot, wolinski, informatique-cdc, berthollet, greece, nerc,
+ etteer, gazetteer, innovative, nymble, alembic, robotag, ecran, autoslog, pand, ml, obsolete, retra
+in, web-page, signaux, recognise, categorise, stemmer, delimitation, sub-stage, hospital, kyocera, t
+apie, teristic, tomisation, pany, contingency, du, reinsurance, highway, airplane, un, famille, hell
+enic, adiet, bennett, lovell, bikel, schwartz, defense, cuchiarelli, luzi, velardi, farmakiotou, kus
+hmerick, wrapper, cucchiarelli, quinlan, stricker, califf, mooney, ferri, urbani, dillet, haustive, 
+system-initiative, determiner-noun, tenance, lexico-structural, anecdotal, amelia, gin, likert, lize
+, interior, sp-tree, implicit-confirmation, alize, text-plan, spr, rankboost, the-shelf, icf, implic
+it-confirm, special-case, one-way, wanner, decrement, better-quality, cipal, massive, teenth, benoit
+, smoking-cessation, erature, costliest, levine, stationary, postage, reply-paid, staff, habit, recr
+uit, disapprove, britain, cigarette, calmer, appetite, biscuit, remember, diet, all-out, tough, your
+self, broke, no-letter, cessation, smoker, tang, cost-effective, quit, tionnaire, followup, of-chang
+e, multiple-choice, black-box, letter-comparison, younger, small-scale, refuse, mccann, annette, her
+mse, yaji, scottish, guiseppe, malcolm, jin, liesl, roma, alise, werner, horn, ching-long, diana, si
+ntef, tele, og, blindern, norway, paulo, rocha, minho, mct, cetempublico, semester, medium-size, con
+troversial, motor, crossword, regret, unfortunate, kobayashi, cryptographical, checksum, character-m
+ethod, duplication, exclamation, disclose, spielberg, com, swayze, sid, caesar, attribution, added-v
+alue, foolproof, plethora, non-standard, strange, non-portuguese, nd, crept, polysemic, macroman, bi
+cycle, uncover, jspell, cinema, defficient, armstrong, rarer, mail, rubbish-like, johansson, enpc, v
+ftor, joao, almeida, floresta, evert, cqp, engh, susana, afonso, raquel, separagao, analise, linguag
+em, masja, dominique, reinhard, rubio, bruno, anja, jarle, knut, norwegian, bengt, altenberg, alexan
+dre, jornalfstica, processamento, computacional, lingua, portuguesa, escrita, falada, terje, ydstie,
+ comparagao, resultado, revisao, primeiro, milhao, eckhard, gavriladou, guerra, caso, quando, toda, 
+uma, companhia, norte, steel, bayonet, leo, kieron, busca, honesta, voluntariosa, querem, formar, de
+scobrem, podem, decidem, raptar, coen, sempre, atraiu, vez, faz, curto-circuito, banda, ao, burlesco
+, ou, tipo, objecto, evidencia, obra, exibe, gozo, evidente, trabalho, hunter, nem, por, isso, deve,
+ ignorar, perante, arizona, biographical, schiffman, va, kristian, concepcion, non-redundancy, hoard
+, multi-document, single-document, glance, book-length, criminal, book-quality, impeachment, vernon,
+ lewinsky, pete, hyde, polay, founder, nametag, cross-document, macmillan, lawmaker, by-pp, within-d
+ocument, occupational, resign, police, policeman, occupation, manifest, white-collar, prosecutor, sc
+orer, lieutenant, unaware, capsule, promiscuity, multitude, strengthen, extrinsic, condensation, may
+bury, sra, paice, saggion, pranav, brianne, gideon, thelen, sussex, startc, startw, deprive, emi-mpi
+, pi, unusable, billot, lang, multiset, satta, portional, category-span, ifparse, dren, lopar, corme
+n, assimilate, head-head, anand, walde, giorgio, schulte, frederic, schuler, single-tree, spectable,
+ ahead, inform, efit, personnel, jet, safety, winograd, sub-derivation, vironment, composeable, thre
+e-dimensional, situationally-dependent, quasi-logical, non-isomorphic, space-efficient, subexpressio
+n, and-or, falsity, button, ronment, situational, ccg-style, non-universal, planatory, scarcity, air
+craft, syntacto-semantic, inasmuch, cad, electrical, addressable, dawg, crochemore, dfa, fan-in, nfa
+, down-equivalent, down-similar, up-equivalent, up-similar, isimilar, sink, succession, traverse, se
+lf-evident, successor, thick, grater, secretariat, gertjan, mark-jan, gerdemann, burak, emir, amore,
+ morimoto, snover, morphographemic, tunen, stem-final, sybillant, schone, jurafsky, suffix-discovery
+, language-independant, jee, invariant, psuff, ili, promote, demote, demotion, pendix, participle, s
+pelling-change, uine, mis-step, additon, syeem, persistent, hikaridai, maximum-probability, mura, ka
+n, beeferman, kozima, uninformative, pr, sender, receiver, minimum-cost, editorial, dotplot, uoob, r
+edhat, linux, tilinguality, domain-dependent, freddy, subtopic, full-length, sixteenth, oskari, min-
+yen, nobuyuki, kikuo, maekawa, hanae, forward-dp, takeo, multi-processor, distribute, mimic, alyze, 
+guish, queue, typed-feature, threadgen, isidle, idlegen, steal, macamba, chitecture, cali, single-pr
+ocessor, enterprise, ultrasparc, clock, trasparc, eu-page, upenn, fb-ltag, scheduler, cilk, makino, 
+takaki, nomiya, geert, ablex, blumofe, twenty-fifth, siam, arithmetic, pet, matteo, keigh, sigplan, 
+affinity, shared-memory, kentaro, nurkkala, vipin, oepen, enrico, gopal, janyce, minoru, communicato
+r, julie, boland, louisiana, lafayette, paradise, logfile, exploratory, struck, isard, esc, itinerar
+y, hung, speech-act, nicative, airline, ancillary, framep, commp, econ, cinstruct, creqamb, cnoinfo,
+ sitinfo, tripc, rental, task-subtask, bookingc, reqdate, reqtriptype, leg, ackrental, accomplishmen
+t, pricec, flightinfoc, faction, transaction, mda, stallard, lynette, amy, patti, candace, rospeech,
+ target-language, ibm-style, word-insertion, case-marker, n-table, dex, imize, japanese-english, dar
+ker, major-node, alpha-beta, translational, lon, pability, tivity, inite, nectivity, directional, n-
+th, class-word, euclidean, liability, mulation, reasonability, ite, rainer, gruhn, shuanghu, haizhou
+, baosheng, deligne, hirokazu, shoichi, yosinori, variable-order, tohru, hirofumi, yoshinori, cross-
+word, toshiyuki, tsuyoshi, nori, yamamoto, winnow, snow, khardon, grove, criminant, edy, hoc, gradie
+nt, dient, non-convergence, non-separable, winnow-like, b-x, i-x, esg, b-np, i-np, chunker, doh, twe
+nty-three, datum, minute, chunk-type, gentile, hinge, taku, kudoh, linear-threshold, vasin, punyakan
+ok, volker, erik, wpdv, zukerman, horvitz, carta, crosoft, fourteen, provider, tail, erbate, tersect
+ion, perfectinformation, visit, heckerman, ofnatural, wallace, trick, minization, programmer, journa
+l-length, tweak, patch, forward-backward, meric, random-walk, regexp, mohri, dendroid, non-coaccessi
+ble, coin, learnable, per-state, exp, eterization, gem, tangle, berstel, reutenauer, determinize, de
+rivative, single-source, reducible, localize, cyclicity, recombine, chip-level, lative, reintroduce,
+ to-end, imization, sian, esslli, mehryar, epsilon-removal, epsilon-normalization, rao, movel, icsi,
+ endre, extendible, cability, rosenfeld, rearrange, albeit, outermost, ecute, overfit, minka, conjug
+ate, noisier, attributable, xxx, non-equal, paucity, csiszar, logistic, adaboost, gibbs-markov, kris
+tina, striegnitz, alization, conceivable, and-bake, verbalize, hamiltonian, prospective, figuration,
+ mozart, propagator, indef, departmental, pentium-iii, immense, toy, nore, petitive, nitrogen, amalg
+am, per-operation, substantiate, sentence-level, nlpwin, winmine, eighteen, genitive, flesh-out, moo
+d, downstream, verb-initial, verb-second, periphery, verb-final, extrapose, frage, krank, meagre, en
+cyclopaedia, one-step, extraposable, concomitant, verb-position, upstream, geiger, punadlik, inlg, e
+isenberg, deutschen, marce, intra-constituent, segregatory, sonderforschungsbereich, mihai, surdeanu
+, weakest, fm, verbatim, codification, anaphore, speculative, industry, evidential, niagra, niagara,
+ volkswangen, volkswagen, main-task, gen, wh-word, rotary, insuccessful, apricot, horne, usd, ciproc
+al, disable, specialization, shot, sub-collection, deepak, ravichandran, hand-tag, birthyear, altavi
+sta, breaker, egrep, composer, fame, birthdate, qa-pair, webclopedia, discoverer, laureate, settle, 
+rocky, imitation, busiest, river, explosive, lyndon, democratic, election, county, beach, canonicali
+zation, birth, october, karamchand, data-intensive, factoid, construe, undecidability, expressible, 
+fp, titanic, universe, c-structural, f-annotation, fv, subj, om, topicalization, insta, functional-u
+ncertainty, defective, ot-relevant, local-subtree, c-category, gumentation, violation-free, offline,
+ parsability, f-structural, recursion-free, contradiction, gpsg-style, lfg-style, recoverability, jo
+an, shipra, unnatural, joost, jeroen, cuny, dick, ron, tracy, kie, zuraw, lay, prehension, rewrite-r
+ule, fosler, cumb, smolensky, hale, arrange, optima, ot-style, notational, outfit, unconventional, m
+onic, incomparable, sympathy, ellison, salvage, hack, non-regularity, mold, regular-relation, hiller
+, pre-ot, ognize, perceive, ceptible, fresh, trouble, accrue, suboptimal, underlying-form, left-asso
+ciative, disharmonic, novelty, machine-level, laid, assimilation, archive, cole, sigphon, colorado, 
+union-find, unbound, inherit, bind, fixed-arity, conspire, earn, outset, wary, terpretable, callmeie
+r, wam-style, mise, codomain, non-classical, systemic, common-sense, bcpo, versal, encodability, typ
+ability, trailable, mutable, prospect, unscalable, intensionality, three-colorable, ularization, thr
+ee-clique, recurse, acyclicity, join-reducible, satisfier, conundrum, circular, prd, distinguished-v
+alue, pictorial, substructure, extra-logical, aggoun, universitaet, bruynooghe, graph-encodable, dya
+na, term-encodable, apt, untangle, udrt, terpretation, grinder, postal, harry, qlf, ascertain, kamp,
+ subordination, resolutio, substitutional, crouch, re-entrancy, agate, proviso, nurse, wife, lucky, 
+jeweler, station, evaporate, vanish, phantom, meta-variable, istential, kehler, teacher, bifurcation
+, testify, him, lae, gregor, modeltheoretic, vard, donna, byron, corefer, npc, switchboard, non-npc,
+ phora, strative, father, short-term, coerce, hand-simulation, gerund, eventive, eckert, simplistic,
+ counteract, closed-domain, knowlege, callaway, istituto, ricerca, scientifica, tecnologica, carolin
+a, multi-page, joyable, misinterpret, unsound, vital, fictional, agreeable, heeman, circumstantial, 
+authorial, flexive, mice, parameterization, utterer, forgot, full-scale, drew, tivate, uational, par
+titive, dividual, quote, ago, totypical, prose, cable, rative, fairy, interannotator, animate, to-da
+te, definitional, pler, itc-irst, intellimedia, wim, graeme, elena, longman, brady, iter, distributi
+ve, cholinguistic, distractor, gleton, generalise, incrementality, board, retary, holstein, stein, h
+indrance, combinatoric, nality, rabbit, unary-relation, bowl, non-minimal, junctive, marilisa, amoia
+, conseil, lorraine, ofnominal, meta-algorithm, extra-linguistic, contradictory, knowledge-lean, co-
+refer, boldface, chi-square, ancestor-descendent, high-precision, fragmentation, low-precision, re-t
+rain, reclaim, precipitate, animacy, vestigate, nederhof, elettronica, padova, undecidable, minology
+, bar-hillel, unfavourable, hunt, rosenkrantz, bership, pspace, corazza, lavelli, correct-prefix, si
+lon, pda, yv, completer, sence, nonrecursive, mtang, xiaoqiang, luo, rebuild, digression, bulm, righ
+t-most, breiman, pair-wise, qi, qj, hz, evalutate, one-third, unparseable, venue, reconcile, kishore
+, spawar, jerome, zoubin, yoav, eli, tali, householder, cynthia, elaine, constituent-context, povert
+y, ristic, pressure, no-overlap, full-sentence, size-zero, tree-equivalent, renormalize, renormaliza
+tion, constituency-conditional, equal-prior, outnumber, distituent, skew, multiplicity, ccm, flatter
+, short-span, mid-size, post-verbal, identifiable, posterior, first-round, equal-size, sitive, chica
+l, liant, pieter, substructural, itr, sam, displacement, inception, century, wh, linguitic, pretermi
+nal, renumber, pre-order, shallower, qp, vbnt, aux, vbdt, co-indexation, penalize, pattern-matcher, 
+occurence, long-range, michell, toutanova, stantial, typographic, non-word, kernigan, to-phone, conv
+erter, jor, nettalk, fourgram, phoneset, training-set, jiang, netalk, conext, sejnowski, clough, pia
+o, yorick, meter, plagiarism, benign, prescriptive, audience, reporter, ler, limo, slang, exaggerati
+on, summarisation, take-up, infeasible, journalist, nalist, lexical-level, fulfil, authorship, lyon,
+ containment, n-word, set-theoretic, hapax, legomena, substitutable, sng, swd, weka, stratification,
+ eskin, bogosian, n-way, pd, wd, mml, coincidental, mis-classification, easiest, hardest, sication, 
+sifier, tainment, human-written, memorandum, serguei, mayo, radiology, discharge, rheumatology, ra, 
+biomedical, repository, helath, yarowski, cardiology, error-prone, mikheev, sub-domain, clinic, comp
+laint, soap, byrd, shutze, predefine, lrabr, rheumatoid, djd, sub-corpora, lcm, section-level, non-m
+edical, discrinmination, amia, waterloo, hamish, kalina, deploy, unicode, customise, visualisation, 
+brary, export, plane, programmatic, isation, ipate, scene, muse, ace, football, programme, splitter,
+ performant, extendable, annotationdiff, ange, non-coextensive, develeopment, light-weight, msc, tem
+aa, danish, standoff, htk, entropic, calypso, zero-value, seymore, steeper, kendall, rank-order, ash
+ley, hang, hisami, suzuki, asia, tianjin, kana-kanji, questionable, math, sub-model, ideographic, ni
+kkei, yomiuri, envelope, quantization, dellapietra, mixed-order, peng, error-rate, ppl, parametrizat
+ion, adjoin-left, adjoin-right, word-predictor, multi-stack, most-recent, deleted-interpolation, din
+ary, over-parameterization, sanjeev, constancy, pronounce, aylett, austen, overestimation, mator, ab
+normality, per-word, deserve, dge, plotkin, paola, merlo, geneva, suzanne, stevenson, vivian, tsang,
+ ch, gianluca, allaria, inethodology, extractable, butter, contractor, saine, psych, inake, cator, n
+on-stativity, admire, parole, resentative, gerundive, crossvalidation, anim, transferable, decomposa
+ble, assuine, periphrastic, sublexical, resultative, tilingual, transferability, aspectual, levin-ty
+pe, atoinic, onymy, def-head, tsukeru, suru, oneself, takahashi, satoru, masahiro, akio, kentarou, y
+oshifumi, oyama, yoshihiko, iwanami, daisuke, kawahara, keiko, kurohashi, kiyoaki, jyunichi, reikai,
+ shougaku, kokugojiten, tetsuro, tomoya, ryu, sushi, post-conference, post-hoc, verb-frame, gorisati
+on, proxy, enden, wissen, kriegen, zustellen, segeln, interpretieren, pochen, trinken, schneien, dat
+a-rich, data-poor, recoverable, manhattan, kl, amalgamation, strehl, penalise, finement, inhabit, in
+itialisation, erarchical, abetter, undertook, repertoire, subdivide, toire, arbeitspapiere, tian, an
+tje, joydeep, gloria, tenth, unfeasible, unmanageable, tablish, sanderson, neighbour, worry, nearest
+-neighbour, moby, quarie, antonym, culate, performer, under-perform, tara, commonwealth, sydney, but
+ional, gir, sharon, carolyn, curran, siglex, wi, darren, gerda, gildea, modality, propbank, bury, by
+-frame, invoke, overrepresentation, philosophy, per-predicate, optionality, roleset, release, known-
+boundary, argo, base-level, righthand, stock, model-like, nia, hiyan, ligence, megumi, mabry, garet,
+ miriam, kingsbury, canary, sift, soumya, rosario, uc, pret, ship, descend, subhierarchy, sumatripta
+n, tolerability, acute, graine, declare, subpart, two-word, kitchen, knife, plastic, putty, ofbody, 
+musculoskeletal, abdomen, migraine, urogenital, biliary, rity, sub-hierarchy, nective, tissue, embry
+onic, concentration, nc, scalp, heel, shoulder, ankle, limb, forearm, eyelid, thigh, domen, arm, che
+st, skin, physician, outpatient, donor, knee, farther, non-unique, diagnostic, milk, intra-category,
+ extra-category, juxtaposition, mortal, animal, environmental, investigative, avg, desc, len, anxiet
+y, quandary, finin, vanderwende, rindflesch, factual, barker, szpakowicz, barrett, budanitsky, hirst
+, buitelaar, contend, veterinary, congenital, cheobronchial, lung, maiorano, ahlberg, sual, naacl, b
+urton, tralian, sadaoki, furui, mohan, lucy, mona, diab, widespread, tleneck, crux, tragedy, directi
+onality, diferent, compound-noun, senseval, noun-group, community-wide, inter-system, pseudo-transla
+tion, rion, longer-term, strictest, discern, broad-vocabulary, io, case-base, cl-research, anlp, pie
+k, julio, duffy, ikuni, hillview, blatt, paradoxical, shawe-taylor, sler, lodhi, log-probability, ce
+ptron, dual-form, high-dimensional, gerstner, downweight, inclusive, tific, tron, singer, ofnaacl, c
+onvolution, ponential, fewest-chunk, ploitation, npzero, vtype, dr, xle, frame-verb, adjp-prd, expir
+e, altogether, serialization, non-full, parse-quality, eacl, jebara, geman, ubg, miyao, subg, charac
+terisation, signment, regularization, maximisation, generalisation, kochanek, fl, ex, visitation, fa
+ctorize, soft-decodable, yusuke, padhraic, a-star, familiarity, schtitze, expend, snug, istic, j-k, 
+nab, eval, best-path, fsm, re-score, tokenization, non-markov, catalog, garden, lier, riley, hans-ul
+rich, ce-channel, equivocation, fire, five-gram, vation, ser, mwer, bleu, sser, iner, ier, probabili
+stic-interpretation, neural-network, mada, t-table, oval, venient, ranker, four-word, decoded-tree, 
+junk, top-n, lective, r-table, to-sentence, passable, madam, behalf, urban, cantonese, amendment, fp
+j, viterbi-ratio, misalignment, gitimate, tinguish, overgenerate, decay, brevity, single-reference, 
+t-distribution, divine, makhoul, bbn, doddington, perseverance, baldridge, geert-jan, kruijff, brid,
+ resource-sensitive, reverberate, ucg, inl, spatio-temporal, kowalski, favorable, blackburn, avm, pe
+rspicuity, parcel, tableaux, represention, predicate-valency, linkable, underspecifiability, mrs-sty
+le, alechina, dgl, transferal, nonsensical, informativity, reap, itance, accumulation, nissim, negra
+, maarten, road-map, flum, ivana, normal-form, formative, end-result, interpretable, relativisation,
+ dag-like, galore, supertagger, komagata, ccgbank, emphasise, time-out, label-set, in-situ, hadfor, 
+naivety, situ, osborne, nobo, word-word, single-model, complement-adjunct, treebank-cfg, lexcat, br,
+ commensurate, pos-tagger, non-surface, misdirect, prima, bb, schutze, kikui, mihalcea, nu, nbc, mb-
+b, mb-d, payment, encarta, yao, mangu, ng, villa, rapp, advent, iosyncratic, wagstaff, ghani, histor
+ic, np-level, antegramfunc, antenpform, anteagree, anagramfunc, ananpform, anaagree, coreference-lev
+el, wdist, mdist, synpar, stringident, substringmatch, antecedent-anaphor, dn, non-pronoun, whatsoev
+er, pioneer, outweigh, tschira, lutz, avrim, tnt, kiri, rayid, wee, tou, chung, justification, itude
+, cacy, tuitive, gupta, opposing-view, nontrivial, quadrant, zontal, abandon, verge, nority, mcalles
+ter, briefest, lowest-cost, swap, simistic, contour, sanjoy, pac, abdessamad, echihabi, derstood, sa
+le, high-technology, craft, warfare, anti-radiation, battlefield, non-factoid, discourse-relation, p
+urchase, rwanda, low-noise, currence, ho, beginningofsentence, endofsentence, non-adjacent, well-wri
+tten, six-way, blipp, non-bold, cue-phrase, lower-noise, lynn, sigdial, mick, preetam, maloor, speec
+h-pen, restaurant, theatre, tablet, next-generation, keyboard, pen, ible, subway, standalone, client
+-server, circle, unimodal, callout, prompt, downtown, brooklyn, ommendation, goodfood, facilitator, 
+mcube, oaa, kqml, reside, activex, zoomable, ink, stroke, tap, to-speak, disrupt, ston, mmfst, timeo
+ut, johnston, facilate, re-establish, mdm, trindikit, deicticnp, overlay, mode-independent, nyc, tim
+odal, decor, compare-a, superb, replay, viewer, continual, mulate, sizable, bottom-right, top-left, 
+apartment, matchto, reservation, adoption, emergency, pensate, pro-active, drive, elliot, mazin, nik
+a, oviatt, helen, wright, rashmi, gorin, pdi, cart, domestic, multileg, surrogate, slu, non-task, st
+-paul, saint, newark, sessionnumber, postprocessor, rize, groundcheck, acknowledgment, topline, turn
+sontask, journey, multi-leg, threshhold, multi-variate, non-automatic, monterey, prasad, archical, d
+ca, expedient, run-on, pattern-action, slippery, jection, shona, clara, structuraltransfer, arul, re
+-rank, cavalry, regiment, offensive, infantry, withdrawal, ambush, december, reservoir, northeastern
+, sub-category, bic, to-one, back-transliteration, ve, transliterate, al-hnazyr, pound, nwab, sub-ph
+rase, document-wide, extrapolate, identifinder, coffee, wild-card, predate, extrapolation, orthodox,
+ spotty, www, andrei, calire, ea, katharina, probst, dicitonary, hand-align, alence, berg, gaussier,
+ rebuilt, flectional, p-value, serhiy, jinxi, orientation, turney, entation, automobile, vacation, a
+kumal, newsgroup, loglou, pmi-ir, wiebe, automotive, nnp, toefl, star, pmi, four-step, different-ori
+entation, same-orientation, sentiment, subjectivity, flame, pleasant, evil, cancun, resistant, metho
+dical, arrogant, harbor, sick, keanu, fishbourne, trailer, theater, war, bomb, enemy, deck, courtesy
+, cism, entertainment, littman, gradability, centro, judged-answer, presley, linen, mineral, mlhr, p
+l, ccp, sippi, sissippi, sub-pattern, non-symmetric, idation, delegate, diogene, subbotin, parative,
+ assumed-perfect, sbj, tmp, nom, machine-learnable, nofunc, function-chunk, aha, fine-tune, today, t
+ribl, ll, xx, attenuation, break-even, mbt, snapshot, morph-short, conll, bour, feature-relevance, s
+omeren, re-examination, berthold, anette, feiyu, stuhlsatzenhausweg, meta-information, dnlp, snlp, w
+ham, trichotomy, component-specific, oop, accessor, sppc, fullform, pre-built, sceletal, manet, germ
+anet, sub-phrasal, conceive, theory-neutral, partiality, sub-sentential, pos-driven, lk-fin, gerne, 
+deep-syntactic, preference-driven, synergy, whiteboard, nachfolger, miscke, dietmar, hopp, entwicklu
+ngsabteilung, zufolge, scarce, utmost, multilint, flag, metaphor, eurolan, hamp, berlin, delberg, pi
+skorski, tadepalli, hal, non-important, unimportant, sentence-simplification, subsidiary, maticality
+, shaky, by-sentence, doe, disfavor, mayor, ds-tree, nuadpav, d-project, d-expand, descendent, share
+d-forest, expansion-template, lest, sate, selector, constrast, human-built, additionall, re-election
+, concat, cality, usc, dean, fellowship, daume, guidon, yvonne, siobhan, aphasic, kavi, duc, summac,
+ ntcir, tsc, stigma, mmr, ua, twin, croatia, off-topic, slovenia, yugoslavia, gerber, drought, disas
+ter, relief, ashington, salvation, brutal, windfall, buddy, introductory, synchronize, mid-june, pee
+r, debug, retention, assessor, quake, inadequacy, totalnumber, inter-human, outscore, sub-sentence, 
+chrzanow, pub, m-y, tadashi, nomoto, shinagawa, matsumoto, nara, takayama, ikoma, tradictory, tegrat
+ion, probdt, reduce-redundacy, tfdif, non-past, mdl-dt, mdl, akaike, ssdt, gini, spherical, undergra
+duate, gong, find-diversity, zechner, non-diversity, two-node, plug-in, yihong, machael, annaka, fra
+ncine, developmnet, acquistion, indejeet, nihon, keizai, nen, jorma, mandara, haixun, ofjapanese, he
+ng, mui, keng, terrace, macro, lasie-ii, netowl, meme, handcraft, ne-chunk, word-feature, non-disjoi
+nt, containsdigitandalpha, firstword, capperiod, sub-feature, idendifinder, roman, muddy, sept, conv
+olutional, tsoi, bai, shuanhu, kent, ridge, tey, guodong, oct, consuela, longtime, staffer, chairwom
+an, thographic, snor, single-language, seeger, goldman, pac-like, co-operation, teach, unreasonable,
+ inadmissible, uner, mner, aviation, launch, leong, chieu, nineteenth, yan, rerank, begun, peal, max
+-ent, global-feature, blend, ij, wk, vwk, tunable, ficulty, pacity, wasteful, versus-rest, tivation,
+ icopost, rwcp, ipadic, lyzer, tbl, multi-expert, multi-stage, even-zohar, erin, ethem, alpaydin, ce
+nk, corinna, vladimir, yair, horacio, josep, masayuki, kazuma, tetsuji, rabiner, biing-hwang, kawasa
+ki, vapnik, apowerful, kudo, cellent, schohn, tow, ragana, smo, close-up, crement, markable, mehran,
+ cikm, electoric, leaine, daphne, issco, boulevard, slovene, phology, scent, cea, mize, berta, psych
+o-linguistic, finite-dimensional, byproduct, e-step, pseudo-distance, geometrical, manifold, nian, t
+ensor, bio-informatic, idionsyncratic, co-build, infant, wehr, bundle, foidl, nakisa, nonce, pseudoi
+rregular, ppi, ipi, pseudoregular, ipr, unibet, unjustifiable, tomaz, erjavec, colin, arlindo, jaakk
+ola, associator, plunkett, sandeep, prasada, combat, concept-instance, textmap, leak, overgeneraliza
+tion, cold, bourbon, omega, orthography, fleischman, celebrity, capriati, information-rich, insure, 
+envision, pain, mini, miruna, ticrea, philpot, berland, jimmy, ulf, aaron, tomizable, event-level, n
+ewsworthy, frame-like, templette, domain-relevant, yangarber, tomata, pattern-free, near-similarity,
+ argm-dir, argm-loc, argm-tmp, five-feature, cooccurr, pvcmax, hancement, tium, iv, deanu, customiza
+ble, patricia, erica, sundheim, radu, rosie, tapainen, silja, qa-specific, question-type, pasca, wor
+d-overlap, specter, vichy, isi, cyc, lcc, fertile, reproduction, snt, faithful, anniversary, answer-
+document, km, giza, quizzone, qa-base, quiz-zone, solar, votinganda, seward, hermjakob, trec-specifi
+c, clarke, question-factoid, factoid-question, sartre, reran, qu, sql, one-time, mrr, abraham, ittyc
+heriah, system-trec, deniz, finley, adrian, adriana, orest, krysztof, attract, ne-chunker, cution, p
+ki, pke, liner, merate, cernible, jesv, prefixspan, sub-sequence, double-array, basket, xeon, ghz, g
+byte, xqk, general-style, ebc, jdp, ordered-tree, hisashi, kashima, teruo, huma, nello, tsutomu, mae
+da, hdag, neat, cristianini, elucidate, gereral, chair, pep, baseball, ssk, dsk, cabocha, crl-qa, bo
+a, mantical, taikei, cyril, grm, therein, tomaton, tropical, lu, shortest-distance, grmcount, intel,
+ wfa, on-demand, fline, backoffbigram, procedurejust, grmmake, grmshrink, grmconvert, spoken-dialog,
+ pilation, practicality, library-grammar, nifer, andrej, ute, korhonen, judita, thomson, scf, goriza
+tion, non-predominant, putative, extant, semcor, spearman, backs-off, comlex, duluth, roland, subcat
+ecorization, sarkar, metonymy, malvina, katja, markert, seat, metonymic, iranian, naval, deaux, crit
+ic, african, othermet, non-literal, dl, tinez, topical, pmw, untrue, unpredictive, rasp, solute, emm
+y, noether, lowship, forschungsgemeinschaft, semi-productive, kamei, martinez, zvika, marx, interdis
+ciplinary, hebrew, dang, dancy, levin-style, zipfian, semi-predictable, neighbourhood, ploration, pu
+rity, ysemic, homonymic, spectral, gran, allerton, clir, ticle, kengo, bungei, shukan, sponsible, gu
+nfire, lice, kimiko, two-story, akabane, exterior, bedroom, stylistic, suro, mxterminator, avsim, cr
+iminate, sntscore, welch, clamation, dtl, high-recall, dustrial, educational, late-october, uri, hig
+h-school, psycho-linguist, masaya, incur, clone, re-order, non-isomorphism, aggressive, multimorphem
+ic, multi-morphemic, quartic, terry, kristen, chung-hye, na-rae, eon-suk, context-specific, bonell, 
+timator, word-alignment, world-alignment, stantiation, thehost, allthe, redistribute, okan, sister-h
+ead, dubey, keller, semi-flexible, wordorder, poniert, gestern, musik, non-syntactic, eit, komponier
+t, semi-free, hd, oc, lefthand, negra-specific, np-oa, cusative, np-da, s-oc, s-rc, sub-baseline, ne
+ben, mitteln, flate, honest, head-sister, rable, sbar, sucategorization, measuresfor, topp, interlea
+ve, rival, crysmann, urgent, shallow-deep, data-centric, cross-fertilisation, pre-structure, patibil
+ity, featural, macro-structure, disamb, front-end, transformer, commodate, xpath, permissible, bidde
+n, ority, rameterisation, reckon, prioritisation, parameterisation, speed-up, expectable, non-optima
+l, ofsyntax, schiehlen, interpretability, acylic, resolvable, infrequency, repertory, proj, nth-tag,
+ handy, kennt, karl, oa, tachment, einige, gedanken, werk, f-val, prec, optim, discernible, von-phra
+se, ac, bitpar, rohrer, amanda, dragomia, vivid, gasperin, shimohata, contingent, unparallel, sasha,
+ waiguo, gamallo, agustini, mirella, formalisation, discrimination, lowe, conceptualisation, paramet
+risable, lorry, nalise, oblength, length-neutral, balota, transient, tiger, lorch, livesay, amine, m
+cd, hodgson, perordination, ordinate, truck, antonymy, friend, leash, yallop, ponymy, onomy, chy, pa
+rametrize, curt, dominic, tum, irrelevance, nippon, telegraph, muchmore, crisp, quantum, onal, ortho
+gonality, thogonal, hallmark, chip, silicon, term-term, term-document, credence, turtle, post-retrie
+val, buckley, dunlop, mid-frequency, syndicate, subtlety, single-argument, post-search, demonstratio
+n, ricardo, berthier, garrett, birkhoff, demic, landauer, itg, invert, forbidden, knuth, bottom-top,
+ cyk-style, non-consecutive, mobil, aminer, verb-group, shapiro, boostrap, empleo, dominio, catalan,
+ truecaser, jargon, sharper, dictor, talization, thicker, precedent, aquaint, sentence-begin, uneven
+tful, uppercase, smoother, intangible, apr, centration, fat, conducive, security, legible, xinhua, t
+ruecasig, kill, isaac, geo-political, wei, multi-reference, zero-one, mmi, hypothesi, han, criter, l
+f, nity, tima, one-dimensional, italic, re-definition, paciorek, whole-sentence, plug, ayuso, lopez,
+ shankar, kumar, roni, saul, hassan, nicola, ert, erential, assault, cessible, anteexptype, npformco
+mp, sdist, ananppref, anavppref, anaspref, antetfidf, anteic, wdistic, spref, antetfifd, non-np, tf,
+ ic, ihaka, gentleman, rpart, neuter, entiate, yval, susanne, wilhelm, wind, wadsworth, bruckstein, 
+kazuhide, ostension, infocomm, twin-candidate, cedent, single-candidate, inst, endif, ante-sel, muc-
+style, hamper, qualification, ize, s-list, anaphoricity, friedman, burger, phoric, non-anaphoric, gd
+, metagrammar, direct-object, ditransitive, framework-dependent, hypertag, grammar-lexicon, acanonic
+al, re-interpretation, open-source, starter-kit, cross-framework, austin, token-internal, multi-toke
+n, sub-token, fehl, arbeit, ung, token-level, deko, ement, synchronic, yap, schiller, fic, unmanagab
+le, hof, string-adjacent, affix-derivation, alistic, rtn, xi, sub-automata, rtn-method, compiled-out
+, ofjust, sub-automaton, rtn-approximation, overgeneration, word-formation, right-peripheral, gal, i
+nexact, definite-clause, non-selective, artefact, resource-intensive, boullier, unification-grammar,
+ arne, anke, maria-eugenia, entwicklerhandbuch, zur, entwicklung, einer, matik, fuer, studienarbeit,
+ cosmin, munteanu, memoization, first-argument, failure-driven, head-corner, textbook, best-case, at
+tainable, myriad, breadth-first, stake, ale-like, perative, popescu, ninomiya, retractall, clength, 
+non-loop, non-leftmost, protect, unwound, efd-closure, auxiliry, od, while-loop, greibach, gnf, offl
+ine-parseable, cfg-like, efd, dispense, pre-release, offline-parsable, torisawa, commonsense, anish,
+ nair, milena, petrova, cal-semantic, monsense, adversarial, litical, everyday, breadth, development
+al, reboul, schizophrenic, chological, dertook, presidential, aggression, wartime, islation, mexican
+, civil, gulf, threat, servation, makepeace, intex, laboratoire, documentaire, guistique, blandine, 
+sparsest, taker, rater, inter-rater, ter-rater, concept-level, delve, broaden, deepen, army, ioral, 
+daad, cooperative, competency, sabatier, psychiatrie, psychologie, dso, seminar, juan, bautista, sca
+led-down, latin, te, tient, instrument, fmln, deputy, miguel, angel, bartra, vag, vpa, v-prep, to-de
+ath, monserrat, terior, add-one, nb, incident, havana, hum, dateline, perpetrator, randomization, al
+ice-me, nltoolset, mnr, oqueli, guatemala, boast, of-art, kian, pattern-match, kiyoshi, sudo, object
+-verb, scenario-template, garber, terrorism, weapon, regularize, peso, chain-model, chunk-level, dfi
+, mulative, derer, murder, knp, c-post, c-offence, place-holder, subt, nario, lessen, overly-general
+, scenario-specific, pointment, fessional, ministerial, restraint, shinji, tatsuya, hiroki, setsuo, 
+ofknowledge, kn, sharable, scenario-level, ayman, farahat, parc, translingual, crash, funeral, hurri
+cane, tdt, cmu, lnk, spelled-out, term-frequency, tf-idf, hellinger, lavrenko, source-specific, non-
+target, cdf, on-topic, raghavan, stop-list, kolmogorov-smirnov, std, preproc, same-event, different-
+event, stoplist, hema, hubert, chun, personalisation, recommender, kraaij, renee, veera, pirkola, mo
+rinosato, wakamiya, prise, add-on, synthesizer, agement, bobrow, nakano, miyazaki, maier, low-score,
+ finalfluet, murase, ald, junnifer, ryuichiro, noboru, mikio, akinobu, kiyohiro, kohji, takeshi, nea
+l, stephanie, kimihito, hideyuki, masanobu, multi-form, zue, gang, tat-seng, pore, yong-cheng, multi
+-tier, illiterate, vocal, srinivasan, sqp, tier, ognition, qm, excessive, twenty-eight, jiao, goto, 
+bin, ise, homophone, viavoice, chinese-language, mis-recognition, hsin-min, lin-shan, rau, leiserson
+, rivest, pui, hui, hsiao, tieh, pu, haixin, qin, singhal, strzalkowski, wai-kt, lo, lake, yongcheng
+, hai-nan, teng, lua, kazunori, komatani, shinichi, ueno, okuno, novice, ivr, cellular, hazen, lamel
+, elzer, barge-in, submissive, shijo-kawaramachi, arashiyama, voicexml, othe, spur, utter, hasty, ma
+ruyama, tofukuji, nishioji-kujo, indeterminable, speaker-open, headset, ginkakuji, hurry, naire, use
+r-adaptive, theresa, sophie, samir, limsi, cecile, janienke, teractive, povo, designer, full-page, t
+hree-mile, island, plant, migration, expansive, grote, stede, submodule, single-proposition, multipl
+e-proposition, rtpi, post-revision, cede, appropraite, ride, diesel, mall, hard-wire, statute, empir
+ically-driven, tinue, semiautomatic, dictate, icalization, ginia, polytechnic, terrence, harvey, kan
+trowitz, carla, feng-jen, hee, mu, xiaoshan, wenfeng, xiaodan, dai, lunch, aabb, morph-lexicon, ln, 
+pluralplural, gain-like, re-annotate, segmentor, ab, high-frequent, sion-recall, mm, mainland, gilbe
+rt, kam-fai, ee, tung-hui, keh-yi, chilin, word-segmentation, mcnad, zimin, gwyneth, morph, creutz, 
+helsinki, finland, morpheme-like, substem, neuvel, baroni, kit, icance, gamma, pdf, zipf, mandelbrot
+, factorial, egant, low-ambiguity, eralization, re-align, cursive, logprob, lingsoft, engtwol, timiz
+e, sortium, guistica, nizable, no-segmentation, amd, duron, plementary, krista, krister, jansche, bi
+nomial, gamma-poisson, beta-binomial, extra-poisson, mosteller, constitutional, federalist, madison,
+ nonstandard, re-occurrence, nonzero, zinb, pawitan, taboo, zero-inflation, inaccurate, garg, lum, d
+irichlet-multinomial, realm, overdispersion, unknown-word, callum, one-parameter, reparameterize, re
+parameterization, zation, multidimensional, quasi-newton, mcnemar, extra-binomial, webkb, inter-tria
+l, ashutosh, jack, jin-dong, iob, complain, spoil, vbpvbp, mobility, tbilisi, pla, keihanna, uniersi
+ty, chunk-wise, vere, local-maximum, baggage, breakfast, hello, ninety, pineni, non-subjective, wata
+nabe, wong, word-wise, fumiaki, seiichi, taro, chunking-alignment, feature-rich, discrepancy, restru
+cture, portuguese-english, europarl, untranslatable, word-align, schmidt, koehn, compound-split, eag
+er, timid, frame-work, ashish, venugopal, tency, levenstein, diffratio, corrective, ofpossible, path
+way, lenth, zj, onaizan, reiterate, dense, bi-directional, appreciate, ofstatistical, modelfor, trea
+l, yunbo, cao, lian, fudan, handan, laborative, dasgupta, ucc, supervisor, ur, cucc, non-course, chi
+o, jihong, cymfony, essjay, near-human, non-iterative, substitutability, infoxtract, pro, etzioni, c
+onsolidation, ramada, argentina, loc, org, troy, prudential, photoshop, bonderman, directorate, carr
+ie, pine, afrl, isoquest, hlt-naacl, sub-type, courant, wander, duality, eligible, conexor, many-man
+y, wight, onward, by-product, resignation, deny, revenue, interplay, inhibit, lawsuit, abide, data-p
+oint, conf, irisa, universitaire, beaulieu, leclerc, foret, pregroup, bek, pessimistic, unlearnabili
+ty, non-associative, gentzen-style, gentzen, derivability, cut-free, iif, deductible, ien, ofrigid, 
+k-valuedfor, non-learnability, landscape, lambek-like, product-free, quasi, arithmetical, buszkowski
+, meulen, lacl, sterdam, costa, folli, maciej, marciszewski, alain, rapport, mati, geeft, hij, cross
+-serial, argument-cluster, npr, lenient, undirectional, nalize, gressive, covery, studentship, merat
+ion, heigth, wnd-graph, solvable, non-trival, contradict, michigan, wai, lam, arda, blitzer, danyu, 
+alabama, drabek, meta-evaluation, sar, administration, municipal, lemmatizer, mead, inter-sentence, 
+websumm, graph-connectivity, summ, algn, co-selection, interjudge, sakai, rc, tau, overtake, non-ran
+dom, ru, mid, gary, malgorzata, addison-wesley, akiko, aizawa, chiyoda-ku, survival, holder, lytical
+, ingful, upper-right, thor, pearance, stylomctric, illegal, unintentional, thorship, resource-fruga
+l, proprietary, buckwalter, arabic-english, unsup, lsi, harsh, agence, afp, prietary, wel, dorsement
+, betheen, leah, young-suk, sama, hany, ossama, emam, cairo, word-root, wicentowsky, circumfix, ayrf
+ayn, hl, fy, mrkz, awl, nmsa, eam, mady, syar, fyrary, alam, drwry, hsb, fryq, jagwar, lwsyanw, bwrt
+y, mkan, alfwrmwla, ibm-egypt, wakrrha, lyst, alfnt, alxam, wanma, illegitimate, improbable, three-s
+tep, disproportionate, voc, over-segmentation, pinyin-hanji, yin, hanji, wristwatch, inethod, single
+-tap, inobile, assigninent, shakespearian, full-size, liminary, manber, nl-seminar, handheld, interf
+face, nakagawa, termextraction, tegic, divergent, interrelationship, jain, niyogi, wexler, hone, ldd
+, dp-internal, slash-feature, non-audible, imp, fodor, eschew, makeup, non-generative, macwhinney, e
+ve, cleanest, villavicencio, xp-internal, web-interface, peruse, indecipherable, latex, server-side,
+ untenable, obligatory-wh, avoidance, berwick, manzini, kapur, gibson, edbg, tla, svc, nishimoto, st
+l, sstl, unambiguity, treelet, mc, lac, psycho-computational, thrive, flounder, nondeterminism, surm
+ountable, eiji, yana, erika, atsu, yukiko, shafto, langley, coevolution, vanilla, context-freedom, c
+lever, listic, ticeable, devset, markovization, unsplit, weird, accident, head-outward, rightward, h
+orizon, co-exist, constructible, conflation, specific-word, cornerstone, non-canonical, dollar, mark
+ovize, subcategorize, individual-lexeme, imaginable, flation, present-tense, profitable, dismal, tay
+lor, booth, caraballo, head-automaton, istence, label-sequence, viterbi-search, verb-phrase, non-app
+arent, phasize, search-space, basil, levy, factored-model, narrow-coverage, well-understood, non-eco
+nomic, vv, relative-clause, local-context, cestor, coord-attach, profession, err, function-word, non
+equivalent, heretofore, independence-assumption, dressable, fixable, head-dependent, countermeasure,
+ flict, yasuda, akiba, hpat, imamura, re-translate, three-fold, five-fold, yasuhiro, furuse, michiko
+, keh-yih, ming-wen, jing-shin, keiji, ichi, masuzo, yee, objectivity, ambiguate, defeat, good-quali
+ty, sense-tag, racetrack, adherence, irina, felisa, florian, yoong, keok, countability, knowledge-ri
+ch, linguistically-precise, countable, uncountable, bond, dispute, vatikiotis-bateson, miner, termin
+er, constructional, burnard, subject-position, bipartite, phenation, low-recall, perl-style, fntbl, 
+inter-chunk, partite, plar, lemmata, make-up, tinysvm, all-countable, lower-frequency, higher-freque
+ncy, cloud, blind-annotate, countability-idiosyncratic, leonoor, caitlin, catherine, bjoern, stefano
+, fritz, syllable-tag, eojeol, kwon, changeable, koma, hantag, loquial, virtue, contest, kang, cbkma
+, mophological, csj, non-professional, uchimoto, indispensable, ppp, post-positional, adf, anterior,
+ slander, feature-type, low-probability, inducer, bolic, segmental, audible, phrase-final, impede, s
+emanto-syntactic, marsi, minimality, reoccur, custom, sentence-internal, pre-punctuation, post-punct
+uation, diacritical, chunk-initial, chunk-internal, legomenae, mvdm, herwijnen, single-best, cf-rule
+, punc-rule, non-punctuation, outlier, hinder, closed-loop, perceptual, olga, terken, flemish-dutch,
+ usaf, kohavi, burgh, postposition, ib, nrl, braintech, sloot, syntatic, hangul, infomration, expose
+, pertagger, surpertagger, two-phase, tacher, projection-base, pmm, uesd, pertag, becuase, sigmoid, 
+next-state, memm, lextract, ltag-style, vulnerable, anxn, icml, sha, xiuhong, yuankai, pv, bolinger,
+ mistag, continuum, sciullo, separability, linggo-erg, mono-stratal, lingo-erg, modifiability, vg, p
+ost-particle, rieger, lexicographer, person-day, non-developer, tester, english-zone, website, ice, 
+hair, el-driven, bottom-line, runner, inseparable, segond, verb-particle, dlm, planar, demarcate, em
+-like, yuret, cy, re-estimate, miuri, hbm, kana-kanj, saturate, undue, eia, untoward, seneff, bra, d
+enotation, beneath, lieu, dinality, uppermost, quantifier-variable, sub-span, promissory, girl, pars
+imony, lemonade, ade, indivisible, denotation-sensitive, finitie, alonzo, yale, tine, philipp, word-
+semantic, worked-out, salsa, frame-semantic, utilisable, coalition, fee, bought, subcorpora, unequal
+, emplify, virulent, gleichwohl, versuchen, offenbar, indem, insurance, nachhaltigste, korrektur, pr
+ogrammatik, umbau, gefordert, rosenzweig, underspecifi, semantic-pragmatic, utilizable, gerd, silvia
+, agnostic, inter-sentential, laidlaw, approve, ct, descriptional, operationalize, noun-pronoun, pro
+noun-pronoun, dec, bankrupt, cayley, ternet, tidocument, lication, mative, katj, gan, eleazar, atago
+, eca, derneath, signify, restart, direction-giver, mixer, nv, uu, damsl, dyadic, visibility, go-ahe
+ad, ligation, times-out, mack, knowledgebase, atop, wacom, head-pose, tracker, whistler, lcd, projec
+tor, dm, gm, rotation, kiosk, within-uu, landmark, rp, evience, to-human, havior, to-face, candy, ni
+shida, kyo, emotional, dof, pre-set, dicative, sonneau, dicator, menter, utiyama, sub-topical, minim
+a, windowdiff, pervasive, sudden, speakership, multi-source, js-divergence, ovr, sil, errorful, abet
+h, lexcial, pevzner, wahlster, stent, gustafson, innovation, outrank, cheapest, boye, visireddy, liv
+an, chi, roa, constructivist, co-development, nativist, pinker, gradual, observational, operationali
+se, sensori-motor, peircian, tivist, eralisation, peirce, trajectory, enact, calculus-style, lump, b
+rand, abduction, inhibition, syntactisation, extra-information, gorise, tighten, superunit, ba-parti
+cle, ba, pick-up, put-down, csl, esf-omll, teasley, apa, ofevent, meyer, tyler, brain, hagoort, prim
+e-target, compound-cue, mcrae, meld, plaut, ient, quadrilateral, unspecific, stern, dirichlet, shrun
+ken, mechanistic, parameterize, diffusion, sholl, datapoint, tonym, tiple-prime, testable, replicati
+on, objection, sir, ernest, career, tunity, gail, mckoon, mixed-language, attractor, cerebral, besne
+r, two-choice, magdalena, wolska, fachrichtung, computerlinguistik, telegraphic, verbalization, labo
+ration, imprecise, ological, desideratum, void, drt, course-book, thenb, komplement, gemeinsamen, el
+emente, imprecision, proof-step, schon, dadrin, somit, auch, davon, logfi, meta-communication, habe,
+ aufgabenstellung, nicht, new-line, sub-structure, sub-formulae, generalrelation, catch-all, tifi, p
+rop-loc, hasproperty, genrel, prop-from, direction-from, mmccg, enthaelt, togrammatical, mulae, proo
+f-relevant, subdialog, distract, muessen, universit, horacek, semi-formal, stub, interregnum, denver
+, regnum, describable, terregnum, dum, minimum-edit, tomorrow, non-repair, bi-tag, keith, word-latti
+ce, first-stage, left-context, lexical-syntactic, preselect, ballo, goldwater, fom, sublattice, comp
+ensation, adjustable, speech-like, attshift, sixfold, csail, crf, khudanpur, woodland, povey, weintr
+aub, mmie, kuo, banerjee, zero-mean, benson, optimizer, a-posteriori, feature-vector, allauzen, non-
+ngram, regularizer, overtrain, pruned-lattice, ob, dev, sctk, satish, curfman, petsc, argonne, satan
+jeev, jorge, preprint, distribution-free, hong-kwang, murat, discriminitive, beutnagel, psola, hnm, 
+dcd, bulyko, preselection, salomaa, kuich, halfphone, analogue, lower-order, lauzen, sizer, unshrunk
+en, juergen, gheorghe, waveform, thierry, diphone, conactenation, preston, content-dependent, empowe
+r, ferguson, solicit, real-user, configure, convince, diagnose, uncooperative, thetic, metropolitan,
+ credit-card, handicap, menu, longitude, lifroni, originator, commence, key-value, persist, lator, s
+urface-form, intelligibility, urable, re-formulate, configurable, geographical, lax, geography, fond
+ue, laxation, cuisine, ritter, araki, dead-end, graceful, denecke, dzikovska, feng, gaasterland, lop
+ez-cozar, riedl, scheffler, yi, hilda, suny, cristian, bryce, mckenzie, duke, menu-driven, spare, in
+strumental, galaxy, telephony, vocalizer, galaxy-compliant, nearly-new, cunningham, versatility, jap
+e, retune, fallback, six-digit, spontaneity, debit-card, expiration, chu-carroll, premium, mistook, 
+inouye, verifyid, checkbalance, spoke, enjoyment, five-point, stella, middlesex, debit, overnight, b
+ye, round-trip, lengthier, information-technology, maynard, ursu, isle, rosset, dialogic, biermann, 
+cu, brook, rj, sparky, midtown, nicate, nr, spg, relativize, decent, chanpen, tp-tree, alt, sentence
+-plan, preorder, inferrelative, ancestorperiod, content-specific, rogati, adaptivity, kristiina, jok
+inen, danieli, athosmail, safer, kari, kanto, inexperience, yankelovich, familiarize, pre-use, pre-s
+ession, enthusiasm, cooperativity, familiarise, dasex, session-specific, mailbox, three-level, long-
+time, ddasex, sdai, notify, dase, gex, ohlp, otim, hlp, dasex-dependent, women, interview, afraid, g
+uilt, pave, bother, terse, scare, annoy, kth, etex, sprachsynthese, connexor, timehouse, morena, eli
+sabetta, antti, kerminen, jyrki, graham, emiel, mariet, mieke, ronnie, nicole, unread, matti, jaana,
+ sakari, synchrony, ssn, recurrent, imity, agation, cross-entropy, non-prediction, post-word, tag-wo
+rd, gssn, dgssn, dssn, non-significant, inative, nsw, beowulf, tek, itew, local-rule, naparkhi, mrf,
+ ferty, absorb, left-child, fslc, fabrizio, paolo, giovanni, raj, cancedda, culation, volution, abac
+, cedda, redefine, fssk, apriori, smp, fixspan, oroginal, postorder, timetop, threeodality, sk, cate
+sthat, morishita, ofacm, cikminternational, tionship, youthful, trendy, lure, corefere, anareflexive
+, ante-candidefnp, ante-candiindefnp, ante-candipron, ante-candiproper, ante-candinetype, ante-candi
+human, apposition, candinoantecedent, subject-role, pron-resolve, downto, ante, refine-classifier, l
+ain, alprithm, iida, srl, compuational, nanda, kambhatla, kitchawan, cheriah, entity-mention, mentio
+n-pair, non-reflexive, ace-value, entity-level, development-test, mention-entity, ecm-f, top-tier, d
+evtest, fluctuation, mp, ace-style, hard-decision, wellner, razvan, xiaofeng, mereological, wood, he
+ighten, scenic, eighteenth-century, ionic, bronze, lund, vectorial, part-of, uryupina, discourse-new
+, vieira-poesio, five-sentence, maxwndist, sigle, asher, ham, husk, terioration, single-parameter, m
+isclassification, servative, probablistic, learner-specific, feature-weight, adhere, npaper, nwire, 
+non-anaphoricity, cblo, fblo, cbgo, fbgo, tuition, eastman, kodak, constantin, gareth, renata, ortho
+graphical, foreign-chinese, virga, ncm, digraph, trigraph, phonic, language-dependent, onomastica, m
+ultiple-step, unfold, pre-alignment, wai-kit, asru, mlner, sung, eunok, interlanguage, yajuan, seret
+an, echizen-ya, smadja, xtract, one-one, e-c, c-e, no-compositional, keohn, mutural, yoshi, koji, ho
+ngzhao, weijun, ilya, violeta, luka, kaoru, callison-burch, talbot, m-step, source-target, aer, stan
+d-in, one-eight, corduneanu, likelhood, tamil-english, quicker, bang, lational, blinker, clairvoyanc
+e, cjk, three-tier, graehl, english-katakana, unihan, eng, non-asian, romanji, romanji-kanji, hexade
+cimal, kjapanesekun, kane, kjapaneseon, kin, kkorean, kum, kou, back-transliterate, ko-izu, kanji-ro
+manji, mixed-lingual, baby, enamdict, gs-gn, gs-sn, three-kanji, romaji, latin-origin, al-onaizan, c
+avnar, sung-hyon, wen-cheng, changhua, hsin-hsi, handel, toshiya, motoko, setsuko, kousaku, regulato
+ry, hurdle, biomedicine, biocreative, blaschke, regulation, regulator, non-informative, organism, th
+eory-driven, semi-automatical, genia, eukaryotic, swiss-prot, boeckmann, lowercase, whitespace, hyph
+en, retag, tein, ncbi, overexpression, promoter, latory, tigersearch, sualization, tionable, high-th
+roughput, yeast, hooper, jensen, bundesministerium, forschung, trembl, ondary, suchwerkzeug, konfere
+nz, verarbeitung, natrlicher, perez-iratxeta, madden, schriml, ananiadou, nijmegen, forensic, luxury
+, frr, eer, accuse, fourth-year, non-fiction, nium, chivalry, cross-sample, featurewise, fluctuate, 
+profit, uit, niet, reconnaissance, trough, amazon, roc, pane, incredible, obstinate, ticipation, ann
+eke, fiona, jadt, arno, poster, scheltema, nelleke, marco, nacional, distancia, madrid, goldstein, c
+lef, russia, humanitarian, invasion, haiti, semble, hunger, racism, years-old, in-place, exam, biamb
+i, rangement, qarla, co-ocurrence, wilcoxon, ocurrence, dication, fatigue, rouge, trinsic, mop, ciud
+ad, universitaria, modern-day, guerrilla, acquilex, abreast, dical, highly-technical, neology, minol
+ogical, sublanguage, special-domain, glossary, cial-domain, thesaurii, blem, fill-up, sociology, pee
+r-review, paralinguistic, ingest, oxygen, hollow, dissect, semiotic, constitutive, announce, rey-deb
+ove, autonymical, hic, articulate, angular, quanta, neologism, emo, evolve, plateau, inferable, lead
+ing-edge, non-default, discursive, override, stump, implementingan, non-metalinguistic, shame, radig
+matic, tistic, histology, ciology, copulative, nltk, loper, hugo, filtered-out, feature-label, wp, t
+ransport, py, anaphora-resolution, cographic, scriptor, citizenship, zenship, autonym, definder, per
+sival, neological, ne-readable, pestake, vossen, ke, expert-domain, cauldron, customization, laymen,
+ rumshisky, tfsg, quick-check, bold-face, ext, timeline, plemental, non-unifiable, source-code, two-
+layer, erg, complex-antecedent, slowest, cousot, chart-parser, model-optimal, task-specific, word-pr
+edictive, single-path, lor, sclite, three-year, time-stamp, speed-accuracy, profiler, lattice-parser
+, non-ideal, mosur, re-examine, perceptible, description-level, liturgical, then-current, inclusiona
+l, morphism, sponsibility, ll-ph, intensional, modularizable, multi-dimensionality, erode, avant-gar
+de, shortest-path, relation-free, clp, cuf, disjunction-free, pone, consequential, semi-latticehood,
+ troll, residuation, semi-colon, whentype, suspension, var, cousin, unsuspend, reimplement, delay-fr
+ee, hp, laptop, cessor, goetz, lilog, telligenz, temic, communiciation, meta-theory, ep-conjunction,
+ divual, unsolvable, merging-free, configaration, admission, cident, sauna, cafeteria, alect, multi-
+user, sanne, youngjoong, sogang, sinsu-dong, mapo-gu, kyj, jungyun, rocchio, tcfp, bennet, demiriz, 
+uci, low-density, slonim, slide, context-cluster, edelman, breakeven, m-th, low-cost, sentimental, a
+lmaden, builder, morinaga, pang, siloglou, univariate, logit, antiquity, intercept, lynx, scatterplo
+t, hastie, kushal, peanut, toshikazu, shivakumar, billion-word, text-categorization, cross-sentence,
+ document-level, vaithyanathan, beineke, polarity-classification, ceive, chawla, subjectivity-detect
+ion, item-specific, timent, lean, individual-preference, near-linear, agrawal, unigram-presence, pol
+arity-dataset, per-item, minimum-cut, proximal, loath, tinguishable, same-length, last-n, jectivity,
+ polarity-classifier, sanity, n-sentence, movie-review, edge-weight, context-aware, paragraph-bounda
+ry, graph-cut, non-graph, yejin, shimon, sloan, sridhar, yirong, trevor, shuchi, sanjiv, giampaolo, 
+affective, aurelio, pero, alison, wayne, cor, hoste, conrath, superordinate, wn-similarity, precompi
+lation, detective, imaginative, first-sense, sfc, tative, factotum, liance, sacaleanu, magnini, pant
+el, ciaramita, siddharth, patwardhan, web-scale, lesk, bogdan, massimiliano, supersense, jordi, bern
+ardo, gabriela, alfio, randee, lauren, hoa, trang, sigkdd, cpan, banerj, indrajit, lise, getoor, yos
+hua, bengio, iro, bengioy, ventory, gun, kermorvant, flavor, gio, tialization, globalink, systran, s
+ingle-sense, interdependence, dissociation, sightful, departement, informatique, versite, kilgarrif,
+ hownet, puzicha, province, ceta, verb-specific, g-wen, athree-level, intermediate-level, conjunctio
+nal, preset, nmi, verbl, ichul, ishuol, nmi-ratio, itic, nianwen, xue, ching-yi, fu-dong, lewandowsk
+a-tomaszczyk, hofinann, sepcial, fiir, bor, quality-quantity, halcea, ht, thresh, seval, cotton, fin
+e-grain, ste, perpdiff, sdc, ularity, nonexistent, kadri, hacioglu, jessica, enthropy, heta, jijkoun
+, ahn, schlobach, sisay, aoife, ruth, dublin, ireland, penn-ii, dcu, psg, genabith, left-right, mona
+dic, shallow-parser, governable, nongovernable, a-pcfg, p-pcfg, gf, pa-pcfg, tree-fragment, pcfg-typ
+e, zealand, butt, loglinear, reshape, pursuit, troller, dead, phism, non-stochastic, loci, pretable,
+ dislocation, right-extraposition, shorn, empty-element, relocation, relativization, non-sbar, entai
+l, plementizer, controller, subphase, right-node, single-origin, jn, dd, non-infinitival, whnp, acc,
+ testset, non-relativization, surface-dependency, lag, inconsistency, cross-model, development-set, 
+caution, s-initial, fall-off, plaehn, jenny, finkel, sektion, alessandro, moschitti, rome, cioglu, p
+af, svm-light, superlinear, tianini, nearer, based-on, bejan, sameer, malte, gabsdil, scotland, dial
+ogue-state, acoustic-prosodic, train-timetable, amplitude, aerial, mission, uav, isu, dialogue-level
+, task-level, dmt, anl, in-grammar, re-ran, crosstalk, tower, dial, in-between, tiop, edinburgh-stan
+ford, ananlada, chotimongkol, computer-human, erwin, simo, kate, forbes-riley, kort, bhatt, ang, bat
+liner, shafran, cepstral, itspoke, packet, earth, gravitational, notator, nnn, ene, npn, maj, marize
+, rose, tutoring-dependent, silliman, annoyance, frustration, isca, biometric, expo, pedagogy, coach
+, gomez, optimistic, troponymy, stative, inf, prep-cp, source-t, kite, flew, skimmer, bird, moon, wh
+ithin, preter, over-specification, over-generalization, cardinal, glasnevin, ioda, egorization, clea
+n-up, non-coordinate, arsenal, co-index, subcategorisable, function-cfg, spec, quant, pform, xcomp, 
+outlaw, np-np, cf-psg, comlex-lfg, deduce, gard, accession, function-category, oald, penn-iii, ircse
+t, oflanguage, techical, semframe, rinaldi, kozlowski, evoke, framenet-like, seller, fellbaum, chaff
+in, non-phrasal, subgoal, frame-name, catvar, minimal-overlap, majority-match, root-level, outpace, 
+multi-step, co-locate, lehrer, nizar, kaarel, hierarchic, wolf, non-tree, msword, mitra, luhn, schue
+tze, buyukkokten, corston-oliver, ono, european-built, asymmetrical, effecteffect, elab, in-degree, 
+pagerank, median, scroll, biserial, bortz, orkut, hector, dianne, perry, hongyuan, horst, kazuo, sei
+ji, krause, modellierung, felicity, sio, mainstream, nocb, passoneau, ior, bfc, text-type, dimitroma
+nolaki, competitor, protection, mpiro, manolaki, beaten, soutter, leen, aggeliki, hisar, maruli, ele
+ni, rosemary, loria, henri, manurung, gnome, formalise, atsp, gatsp, chetti, fischetti, ilp, laporte
+, integrality, scil, cplex, approximability, england, revolution, dispersal, monumental, medal, marq
+uetry, cockerel, triumphant, eagle, empire, bravery, two-place, ern, lodi, ruli, asymmmetric, noon, 
+corpus-evaluation, regeneration, non-hierarchical, risky, gradable, sective, lexicalisation, gradati
+on, haddock, dq, mis-estimation, attrib, non-recognition, tiword, quotient, chef, sebastiaan, hasega
+wa, rdc, dran, person-gpe, ignorable, company-company, com-com, per-gpe, similari, agichtein, oak, a
+ron, culotta, sorensen, sula, support-vector, haussler, cumby, zelenko, gravano, yih, np-vp, hyperpl
+ane, relation-argument, imbalance, burdensome, sharpen, plain-text, chad, fawcett, pertext, brodley,
+ wen-tau, fien, bioscience, ographic, interferon, two-dose, wouldfacilitate, immunization, pretreatm
+ent, craven, pertise, hmm-like, predicator, bnt, matlab, hyperbolic, moid, ofdl, ofemcl, zhai, bunes
+cu, rmn, tite, short-form, softer, marginalization, sum-product, approximate-inference, gertj, alfa-
+informatica, pobox, alpino, beek, structionalist, volkskrant, je, bent, roept, franca, non-neuter, c
+opula, het, doodzonde, dat, slaapt, mortal-sin, pity, keek, naar, toren, r-pronominalization, dupe, 
+jouw, victim, daar, weeg, wij, laten, tenzij, eten, vaak, topic-drop, panic, zien, problemen, coordi
+nator, gij, zult, thou, shallt, trouw, twnc, cpu-time, pionier, claudio, lucchiesi, tomasz, udi, ac-
+siam, robbert, blaise, litp, clin, een, brede, computationele, thollard, pcf-like, pseudo-rule, gene
+ration-rule, pcf, cw-tree, meta-rule, alergia, mdi, unstable, pos-dependent, leftside, rightside, pc
+w-parser, dupont, infante-lopez, many-automata, krotov, cw-grammar, head-annotation, rijke, carrasco
+, chastellier, time-sensitive, multi-character, iwp, awp, nwi, k-mixture, pre, customize, cation-spe
+cific, class-type, bi-character, bakeoff, emperson, digm, in-vocabulary, nw, possion, tion-free, xia
+ozhong, mcgraw-hill, sighan, andi, zixin, parallel-text, bloc, ei, non-constituent, livre, constitue
+nt-candidate, rightward-tendency, pos-tagset, xpyp, ypxp, ypx, xyp, probablity, pouvez, poser, au, m
+oyen, donne, higher-fertility, roparl, conclusive, bastian, menno, ctb, obscure, paskin, below-rando
+m, outward, dmv, adjacent-word, colate, above-baseline, all-binary, hew, full-span, constituent-indu
+ction, suzanna, zach, eytan, concave, non-concave, initializer, ima, high-entropy, language-structur
+e, free-energy, hinton, equiprobable, sualize, ueda, merialdo, emission, sistant, higher-entropy, in
+terchangeable, bumpier, well-chosen, sda, tag-sequence, random-split, seven-tag, inter-parameter, iz
+er, constituent-label, fannie, hertz, tromble, goldlust, dyna, memt, ponder, watered-down, schwenk, 
+flm, alm, svr, regressive, hogan, yardstick, nikmai, cpc, ejp, lit, hf, rover, by-m, tpat, tejp, tcp
+c, sv, inside-data, grew, gression, m-precision, opm, hindsight, regressor, downside, gressor, backf
+ire, non-regressive, jamie, fabio, henrik, pietro, mang, rober, sergei, summit, reeder, holger, kohe
+i, takubo, mitsunori, shinbun, calandra, sooyon, clare, tomohiro, hiromitsu, factorisation, propriet
+y, to-m, licence, droit, augmente, m-n, modate, nmf, plsa, orthogonalise, riori, expectation-maximis
+ation, aic, eg, onmf, post-edit, sofistication, stabilise, romanian-english, factorise, xrce, kantha
+k, python, command-line, extensibility, wfst, exemplary, showcase, teger, gorithmic, getsymbol, data
+type, straigthforward, phabet, swig, cutable, pipe, executable, postfix, weighted-finite, stall, dec
+essor, athlon, allocate, bilanguage, acceptor, fub, genericity, loadable, chiori, hori, millenium, d
+rei, ciaa, lakemeyer, lnai, subsentental, aligment, nonstructural, dotal, interation, rarest, pedien
+t, unspoken, intial, likelihood-ratio, llr, null-word, ablation, inital, word-weight, meredith, sury
+a, rique, eamt, smorgasbord, re-interpret, shahzad, dot-product, cumvent, intralingual, sub-space, e
+igenvalue, cholesky, nokourov, symmetry, exponentiation, comparale, dsir, information-geometric, tom
+mi, hideya, naonori, ryohei, ministic, search-result, geographic, main-specific, dialectal, halpern,
+ borin, taiwan, tor-space, context-vector, dreamer, tc, hk, padua, push-down, language-equivalent, i
+nui, ppda, non-proper, deterioration, acterization, cpp, subcomputation, spp, ppdt, plify, plr, elr,
+ miur, prin, chitrao, soisalon-soininen, karlovy, avec, tabulation, pushdown, ill-understood, recapi
+tulate, sippu, reverse-proper, nwo, durbuy, earlham, kroch, tree-adjunction, unitary, embodiment, wh
+-question, subj-aux, wh-form, conceptualize, theory-internal, third-level, third-order, tree-yield, 
+fourth-order, subject-object, c-node, intact, average-case, formity, masako, linquistic, sunil, pora
+l, soviet, embassy, non-temporal, recomposition, ceske, krzysztof, czuba, deprecate, end-run, qdc, s
+hrdlu, lunar, piquant, schank, occupation-specific, follow-on, vinci, paint, expectancy, nardo, doub
+le-check, mento, reciprocation, qbd, knowledge-base, trec-style, betray, life-cycle, end-user, adult
+hood, sufficiency, mickey, mantle, doubtful, wordsworth, langston, jackson, pollock, elton, garth, m
+elissa, bryan, sinatra, straint-satisfaction, rocal, anderson, bayesian-like, compound-term, nicknam
+e, crater, won, oscar, middle-performance, singer-flautist, jethro, tull, rock, conglomerate, austra
+lian, advisor, supplier, nasty, highest-confidence, skirt, filatova, blair-goldensohn, multi-strateg
+y, vldb, wenjie, guihong, inter-clause, multiple-clause, causation, ineffective, chenbach, reichenba
+ch, durative, thirteen, punctual, telicity, atomicity, non-incremental, tdidt, mantaraz, ta, pao, na
+, sap, semi-automate, cuhk, strategic, oberlander, dillon, statistical-heuristic, catlett, cohn, bri
+nker, multi-criteria, perplane, cosine-similarity, ribeiro-neto, troid, repartition, repeatflag, str
+ike, distrib, info, ohta, hwang, mima, rosenberg, eq, discretization, breakthrough, context-independ
+ent, skip-bigram, quacy, leusch, turian, rouge-l, gunman, in-sequence, ferentiate, rouge-w, in-order
+, labor-intensive, nocase, gtm, dark, ency, implement-evaluate, verbosity, stop-word, soricut, babyc
+h, hartley, onymic, s-score, word-type, over-estimate, examen, ont, fait, eux, confrontation, unordi
+nary, under-generation, gestion, prioritise, etymology, modulation, zheng-yu, dong-hong, chew-lim, t
+an, mensionality, predefinition, modha, gmm, advancement, cord, alpha-numeric, covariance, fukumoto,
+ companion, pca, hkust, kpca, rian, diagonalize, takamura, asoociation, hiroya, predisposition, glea
+n, np-trace, wh-trace, whadvp, whxp, non-subject, double-object, ptb-style, syntax-aware, multitext,
+ mtg, gcnf, d-span, multitree, degenerate, pseudocode, inside-probability, viterbi-derivation, pmtg,
+ orchestrate, lower-dimensional, synchronizer, ya, kota, kormil, tantamount, higher-dimensional, to-
+word, titree, mtsmt, data-flow, mt-specific, kolak, wellington, ofmt, gradenigo, gmtg, mcsg, titext,
+ bertsch, sky, groundwork, examino, indict, detektiv, maxpep, start-symbol, binarize, narization, nu
+llable, non-original, weak-generative, capactiy, multi-participant, cency, dhillon, spurt, inter-lab
+eler, eexp, first-word, last-word, sentence-initial, question-accept, hesitation, downright, relsome
+, interactional, cmm, non-sequential, label-dependency, jacency, dressee, dustin, hillard, atkinson,
+ schegloff, buffalo, yasemin, altun, suprasegmental, relay, accentuation, rhythm, tonational, conkie
+, maximum-margin, gistic, inter-label, observation-label, etobi, swbd, swdb, wightman, nier, fosler-
+lussier, transcripti, articifical, hutchinson, hesion, hypotactic, denial, suzy, veridicality, ofjud
+gement, boardroom, pata, npi, kullback-leibner, prp, liesbeth, wilbert, multidisciplinary, d-ltag, e
+ssli, istair, riccardo, serafin, cefriel, fucini, flsa, callhome, word-document, maptask, customary,
+ letta, hcrc, initiator, diag-nlp, mechanical, diag, determinant, kanejiya, reinforce, ig, fomance, 
+darrell, heena, maarika, dharmendra, arun, surendra, lager, twenty-third, sumoto, low-dimensional, p
+ac-style, aso, algori, thm, ando, word-cluster, performa, svd-aso, appreciable, lear, predictfrom, o
+fa, erm, eci, word-prediction, aso-semi, upper-case, insensitive, nimd, rie, kubota, xavier, golub, 
+jethran, tongzhang, non-independent, data-set, lmvm, clique, multi-label, inter-classifier, ecoc, in
+ter-row, inter-column, bch, regularisation, tuotanova, dalone, sutton, dcrf, error-correction, curb,
+ dietterich, ghulum, gillick, khashayar, perparameter, lop-crf, lop, susceptibility, hyperparameter,
+ kl-divergence, malisation, softmax, monolithic, lithic, jecture, ooihcurg, ooihcrg, ae, organise, l
+abour-intensive, migrate, ramita, persense, beginner, lex-file, imise, wordspace, grok-opennlp, pre-
+attachment, post-attachment, fall-back, massi, anita, burgun, koby, crammer, ultraconservative, upal
+i, kohomban, chklovski, person-year, relieve, heuristical, snyder, gambl-aw, k-nearest, crestan, pen
+n-treebank, temperley, placeholder, exemplar, gnu, most-frequent, ofperformance, decadt, jcn, macro-
+average, bart, ofinternational, ehsanul, mallet, dobj, sent-comp, adjunct-like, frameset, ratnaparki
+, pb, argm, ambition, quantifiable, ican, ren, haller, wisconsin, parkside, valparaiso, graesser, tr
+oubleshoot, faulty, furnace, deployable, burner, gregation, scm, gregate, assemblage, consultind, cu
+rriculum, riculum, consultru, posttest, pump, photoelectric, soot, disprefer, contentful, guesswork,
+ ficacy, directive, administer, cogentex, cholm, davide, xiaoron, armin, paiva, biber, non-reusable,
+ dimarco, langkilde-geary, dosage, alisability, subnetwork, dose, two-gram, propnet, linearity, grid
+-shape, blur, sigley, realisable, producer, controllable, producer-sorter, penman, fuf, halogen, inf
+ormation-slim, idl, inapplicable, idl-expression, idl-graph, lock, non-cut, premature, admissible, h
+igh-complexity, kneser-ney, inverse-lexicographic, honcho, saitama, pcfg-la, grange, multiplier, sts
+g, em-style, base-np, brendan, relu, jodi, libin, syuuji, jst, immediate-dominance, exponentially-ma
+ny, phen, impossibility, unpack, hyper-parameter, limited-memory, opteron, polynomial-size, large-ma
+rgin, nient, vintage, taskar, nivre, scholz, torization, algorithm-specific, mira, blow-up, slack, y
+mptotic, head-rule, justifiable, margin-sensitive, joakim, max-margin, pseudo-projective, metu, auxz
+, auxp, harper, foth, holan, projectivize, deprojectivize, ofprojectivity, dep, ddt, tvorba, zavislo
+stniho, syntaktickeho, maayan, geffet, pascal, chandran, pado, ponymy-hyperonymy, tailment, ita, sha
+char, mirkin, idan, szpektor, harold, glickman, zelig, hajic, multi-point, twist, eree, koppel, schl
+er, graph-theoretic, classifcation, clause-level, disgust, urgency, criticality, five-star, calibrat
+ion, enclose, rating-scale, cross-author, notch, one-notch, random-choice, misclassify, four-star, f
+ive-category, two-category, rating-inference, reader-author, review-data, ebert, author-specific, ro
+tten, mixed-author, ova, lurio, referee, smola, three-point, item-similarity, recount, hand-label, h
+ibit, psp, three-category, interprete, class-specific, non-majority, triangle, positive-sentence, ge
+ntial, metric-transformation, calibrate, reg, author-independent, multi-category, rifkin, klautau, p
+radeep, moshe, pre-print, hospitality, subcontract, kevyn, thore, bernhard, davi, nombank, wordnet-l
+ike, herd, sawa, ontologize, luk, noy, musen, tsunami, trail, sweep, coup, sect, cbc, fuchsia, mcgil
+l, legislative, vulgarian, trustworthy, odology, tology, inter-conceptual, grail, slob, fever, mix-u
+p, part-whole, spin, nagatsuta, midori-ku, electron, magnetization, inquirer, inoue, boltzmann, vari
+ational, lagrange, mean-field, less-noisy, carlucci, magnetic, paramagnetic, maximizer, posteriori, 
+bethe, multiple-entry, gtc, pride, multi-state, louise, yukito, nishimori, domenico, nozomi, society
+for, memo, dexter, marshall, kazuyuki, kukich, low-coherence, sessment, unpaid, foltz, straw-man, lo
+w-quality, cross-sentential, teriorate, non-salient, re-conceptualize, caroline, chao, siddharthan, 
+leibniz, halliday, hasan, tutability, venn, stitutability, observer, forty, stddev, pseudodisambigua
+tion, rubenstein, advaith, clustering-level, shafer, non-coreferent, closest-first, aggressive-merge
+, resolver, under-penalization, lenko, data-sparse, defnp, samesent, nearestnp, paralstuct, firstnp,
+ formal-test, ne-recognition, possessive-noun, zero-count, n-pron, p-pron, affirm, veal, semmag, par
+astruct, modj, reranker, left-to, beam-width, chow, second-best, nobody, amethod, second-stage, gran
+d-parent, add-hoc, oracle-rate, grimshaw, koo, zler, liang, inter-annotater, jimenez, iapr, titov, d
+ufour, shen, tsuda, tangent, classificaton, tag-unknownword, non-sparsity, ofassociation, ofnorth, i
+nterdependent, gant, non-redundant, zaki, lexicalized-cfg, interpretablity, guizhen, lavie, sagae, i
+psyn, mlu, mor, bitransitive, sheet, child-parent, extra-grammatical, clan, mensional, k-nn, fey, ch
+annell, cmod, to-point, jacub, klee, mitchel, mario, christophe, parisse, marie-thrse, morphosyntax,
+ ingfor, topic-relevant, non-proliferation, pdn, narration, topic-specific, knn, meronymy, verb-pp, 
+theory-style, bw, trichloride, cultivate, topic-significant, quab, egyptian, anwar, sadat, counterfa
+ctual, similarity-metric, heavier, ferret, navy, usnr, forced-choice, sasaki, qbte, mity, redesign, 
+ipa, qw, upper-bound, qf, habi, lita, lucian, vlad, yiyuan, marisu, qac, hirotoshi, sapporo, ingrid,
+ millersville, tendible, turbine, spike, driest, southwest, income, album, change-trend, analogical,
+ happy, inhibitory, immigration, visa, issuer, club, non-negligible, noyance, chester, corio, futrel
+le, semdial, multilogue, multiagent, fipa, reception, rehearsal, onment, multi-conversation, reliant
+, interactivity, sub-portion, nsu, nsu-antecedent, tilogue, affirmation, majoritarian, sixty, anon, 
+mldsa, mag, clarie, gameboard, discussable, qud, ttr, rificatory, aov, responder, latestmove, zhdano
+v, ceptance, dissenter, maximality, rethink, zoran, macura, fabra, dignum, matheson, traum, immersiv
+e, verena, rieser, function-form, rodriguez, schlangen, pgh, healey, reprise, endorse, nise, cr-init
+iator, decl, repet, cont-repet, np-ref, cont-conf, reformul, alt-q, theoretic-semantic, bielefeld, n
+icator, relaiable, driguez, enquire, no-answer, fragmentary, skantze, severity, rephrase, kepa, reit
+ter, christina, universiry, paek, potsdam, vasive, discourse-management, fragmental, fragment-identi
+fication, fragment-candidate, antecedent-fragment, veritable, weighted-overlap, antecedent-task, sli
+pper, elaboration-type, feature-set, fragment-task, combined-task, terfere, optimisation, ilc, marti
+al, elham, axel, ofnon-sentential, cross-speaker, bannard, josh, schroeder, cumberland, pharaoh, fal
+loff, desirability, morocco, space-economical, subphrase, subalignment, speed-memory, cavalier, supe
+r-efficient, acm-siam, dicrete, alicia, aozhou, shi, bei, bangjiao, shaoshu, guojia, diplomatic, bra
+cketer, english-side, highest-probability, french-side, gigaword, trainer, minimum-error, nitin, chr
+istof, onr, muri, yonggang, ignacio, quamrul, srilm, cherry, postpositional, smt-style, msr-mt, aue,
+ startup, post-modifier, quirk, reattachment, reattach, head-relative, order-independent, lossy, tmi
+, ijcnlp, ddmt, a-priori, marisation, re-evaluate, representativity, efe, summariser, pseudo-summary
+, jenine, turner, coherency, word-bigram, penultimate, truncate, ciality, unsuper, trackstar, mti-pr
+oprietary, lock-manager, raimondi, buyj, rudradeb, xiuli, francine-marie, computationl, sub-message,
+ savvy, irc, ganizational, newman, intra-message, email-specific, wan, galley, gnue, instant-message
+, multi-topic, nonhierarchical, within-cluster, destabilize, elaborative, lka, inter-turn, mini-summ
+ary, participant-written, marcin, dalecki, prioritize, edgeability, ackerman, collins-style, non-fle
+xible, phosyntactic, ponct, ftb, gentle, coordination-specific, ssub, srel, sint, vpinf, vppart, big
+ramflat, annotation-neutral, giguet, annotation-specific, non-flat, lionel, sieht, jungen, violatabl
+e, raphy, re-annotation, cj, witten-bell, re-do, better-known, heritage, art-sb, broadly-applicable,
+ co-ordination, micheal, dickinson, detmar, free-word, marquez, profound, slavic, huck, rayson, blac
+he, underline, hostile, takeover, clei, non-fringe, suburban, broker, vestment, weil, frau, ori, ins
+on, distrust, outlook, langner, dam, osu, kordoni, almerindo, ojeda, ucrel, hinoki, redwoods-style, 
+kilgariff, civit, monostratal, jacy, five-word, rel-clause, subj-zpro, indeterminate, np-frag, hd-co
+mplement, hd-specifier, case-p, blaze, harshest, cross-product, swamp, thy, shigeaki, amano, tadahis
+a, sanae, chikara, kaname, shigeko, montserrat, borja, tomoko, christoper, melanie, dbn, unity, tern
+ate, mci, rv, stp, non-representative, cpt, faith, vice-versa, position-dependent, non-discriminativ
+e, ukkonen, edit-distance, lowrance, shapira, monte-carlo, input-output, sampler, gla, unadvisable, 
+gelfand, identifiability, ilokano, diminutive, dep-io, ot-like, plasticity, jugate, convexity, non-b
+ayesian, stuck, clsp, dreyer, parkhi, wfsa, jl, pectation, dwarf, dilution, borhood, foremost, const
+ant-variance, gcnu, cem, tsuj, trond, andrieu, cowell, blanket, per-entity, per-token, occurrance, m
+inimun, loopy, researchand, answeringfor, uncertianty, grenager, bibliographic, queryable, almost-un
+iform, bay, craigslist, submatrix, simultaneity, uninterpretable, bleach, inject, bibtex, larger-sca
+le, self-loop, per-field, field-specific, state-specific, non-final, advertisement, pasula, breviati
+on, blei, greenwood, document-centric, meronomy, acme, centric, semantic-similarity, currency, eleme
+nt-filler, tiplicative, sub-task, soderland, tator, ico, orable, sooner, behoove, hoped-for, fere, b
+ilexicon, constitution, ouput, sacrifice, doublecheck, disambigation, marine, weifeng, decision-theo
+retic, greeedy, shortage, pervision, chapelle, szummer, replenish, ique, algorithmsmihalcea, algorit
+hmsli, two-moon, poi, bootstrappi, graph-minimum, redid, ground-truth, sigdoc, regain, isfactory, ta
+gmatic, gliozzo, strapparava, giuliano, oier, lacalle, onstrate, gpe, high-confidence, name-name, na
+me-nominal, name-internal, k-fold, pre-prune, insititute, ond-stage, dmitry, lufeng, rdr, hilbert, r
+adial, irrecoverable, fac, wea, veh, emp-org, per-soc, gpe-aff, other-aff, disc, glarf, retaliate, e
+numerable, kosaka, veronkia, interscience, shubin, jie, edt, inprovement, hyper-plane, peform, ceo, 
+bm, cphbnull, other-relative, residence, citizen-of, general-staff, other-personal, other-profession
+al, spouse, short-distance, covolution, mishra, aug, covention, stylometry, topicality, cilitate, la
+ughter, tffidf, versation, same-gender, ff-mm, fm-mf, cross-gender, ff-fm, mm-mf, swear, family-rela
+tion, dude, husband, shit, boyfriend, gosh, fuck, cute, sociolinguistic, gender-discriminative, fill
+-in, topic-irrelevant, gender-dependent, kneser, tranet, outright, privacy, pspl, sdr-trec, trec-sdr
+, evaluation-driven, query-side, q-oov, inner-product, type-weight, proximity-weight, text-document,
+ hr, query-oov, tapered-count, lapel, electro-magnetic, one-sentence, seide, open-vocabulary, assist
+e, saraclar, vocabulary-independent, retrievalfor, gunnar, valtcho, gotoh, christensen, interword, s
+entence-like, metadata, bn, stt, ref, nsf-stimulate, kdi, purdue, kexueyuan, langauge, tiedemann, ya
+smet, terminational, ianpj, symmetrization, tolga, hongkui, deyi, qun, zhanyi, toshiba, plaza, dong,
+ ahrenberg, ultrasound, same-scale, smaller-scale, rochester, of-the, motive, s-itg, probabity, unit
+-width, dynammic, litg, tanslation, hao, multi-field, biographic, cross-field, huffman, per-extracti
+on, rote, add-lambda, interstitial, state-transition, birthday, zappa, guitarist, birthplace, pre-fu
+sion, pseudo-recall, masterson, post-fusion, riptide, nahm, mtand, colognet-elsnet, genomic, intra-s
+entence, bron, kerbosch, nomic, alteration, nucleic, acid, amino, codon, mandel, pancoast, cancer, k
+un, guan, cn, recruitment, borkar, peshkin, sitter, frasconi, ciravegna, announcement, finn, lsp, sh
+rinkage, folder, svmlight, lv, polish, wen, ljolje, tri-tag, gclm, glcm, intj, acle, n-tag, full-par
+se, chuck, nelson, izhak, viren, zhen, xiaojin, superarv, ahmad, cyrillic, lid, prlm, guage-dependen
+t, p-prlm, high-order, mum-likelihood, chu-caroll, knc, marginality, mixture-model, tamil, lre, mmc,
+ text-like, alvin, comm, yeshwant, neena, sarah, schwarm, proficient, lep, teacher-support, flesch-k
+incaid, caid, fog, dinosaur, dale-chall, lexile, callan, collins-thompson, britannica, permission, g
+rade-level, tannica, hull, adult-level, heavenridge, hadad, tendent, hsu, ile, merkungen, damit, eve
+ntuell, abstimmung, uebernehmen, correspondance, niessen, phenonema, pper-sb, vafin-hd, werde, pper-
+da, ihnen, adja, entsprechenden, vvinf-hd, pds-oa, adjd, appr, vmfin-hd, koennen, tival, anmerkungen
+, wir, machen, tuer, auf, s-mo, kous-cp, vp-oc, adjd-mo, pp-mo, appr-da, art-da, nn-nk, vvfin-hd, fo
+rdern, praesidium, ptkvz-svp, konnten, pper-oa, ptkneg-ng, einreichen, ap-mo, adv-mo, mehr, adjd-hd,
+ rechtzeitig, nitival, per-sentence, brooke, cowan, luke, zettlemoyer, ofhlt-naacl, ofemnlp, transdu
+ce, multi-lemma, non-perfect, inter-lingual, dig, sdig, kitty, tree-transduction, yilai, yizhi, zai,
+ eign, nese-english, ali, ryan, verb-noun, young-sook, seika-cho, soraku-gun, tortion, btec, inator,
+ head-tail, context-independence, bivn, tility, cblmc, cbibm, wblmc, wbibm, db, kyonghee, inforce, c
+lump, bigra, probabilit, non-truth, mistake-driven, binary-classification, go-through, phrase-pair, 
+boundary-word, schafer, coercive, companian, panian, skyline, realizability, multi-sentence, residen
+tial, segue, instance-base, town, choppy, sbc, has-attr, insertability, insertable, colonial, sub-se
+cond, pathological, co-op, vikram, swoop, habash, atb, table-lookup, yamcha, resource-rich, berlusco
+ni, idafa, bl, prevelant, elongation, thermore, px, imad, al-sughaiyer, ibrahim, kareem, abdelhadi, 
+guenter, bration, pradhan, natory, feb, zn, statccg, adjunctive, stine, ibration, enmaier, combinedh
+e, remai, charn, ari, mri, aist, scidac, sorship, atmospheric, lightweight, aria, haghighi, high-acc
+uracy, individual-argument, dav, yuancheng, monolingal, acccuracy, dip, multiple-word, co-train, dep
+endancy, over-application, lidija, dirt, deane, noncompositionality, termight, daille, jacquemin, to
+ukermann, anadiou, inappropriacy, lnre, idealization, aberrant, senta, signif, kindergarten, three-w
+ord, nontechnical, characterizable, long-tail, n-n, a-n, consistute, winston, potato, tia, surgical,
+ butch, trey, ruta, skadi, sperm, methane, vienna, daddy, ethnic, lord, nat, overvalue, sheriff, col
+onel, yonge, stuff, dinner, captain, writ, llama, dwahro, reno, mora, millicent, strenght, haystack,
+ ferreira, cheshire, phraseological, pp-verb, euralex, comparaitve, jeremy, multivalent, parser-inde
+pendent, ncsubj, ncmod, tiate, sentence-relation, pattern-relation, underwent, inspect, screenshot, 
+sanfi, esteve, sifi, rohen, bet, lsh, rabin, fingerprint, broder, min-wise, plicate, charikar, willi
+amson, pleb, indyk, motwani, box-muller, unleash, spider, trenkle, near-duplicate, kolcz, paralleliz
+able, terascale, unlv, curse, alspector, near-replica, serbian, affix-stem, jayaraman, matusov, temp
+latic, coexist, cliticization, deepest, shallowest, katbwn, split-off, aragen, affixival, reductioni
+st, portage, word-length, etirr, ummah, burch, one-hot, max-bleu, drc, tb, forster, necip, fazil, ay
+an, meteor, goutte, community-standard, en-ch, uni-directional, english-arabic, cper, gaword, bleu-s
+core, high-coverage, unavailability, phrase-table, stanjeev, konrad, tenenbaum, dielmann, uth, topic
+-word, user-settable, corpus-wide, ferior, meta-dialogue, calo, niekrasz, gruenstein, playback, topi
+c-level, chapman, thilo, maskey, lev, stehpan, fraught, malik, normalized-cut, intra-segmental, mult
+iway, intra-partition, tiway, k-way, information-retrieval, ductory, lecturer, block-level, enstein,
+ karger, char, anisotropic, shane, bergsma, amphitheatre, mountain, path-coreference, marry, obituar
+y, non-coreference, re-bootstrap, search-engine, brittle, verb-direct, contextual-role, jordanian, l
+inear-kernel, farthest, aqt, anc, camp, lara, aleksandr, zitouni, non-coreferential, high-dimension,
+ full-expansion, first-level, neuter-gender, anaphra, milti-lingual, techonology, jihyun, corley, cr
+ocker, garden-path, narayanan, hspm, reduced-relative, reading-time, eye-fixation, foreman, warehous
+e, horse, barn, herit, frazier, reira, object-relative, editor, subject-relative, traxler, atachment
+, katie, gion, biltiy, trueswell, past-participle, testability, refutability, by-region, eye-gaze, m
+odule-internal, economist, np-complement, juliano, aspire, bever, confer-ence, ofsentence, vonk, hem
+forth, rauzy, langage, provence, schuman, icality, pg, tracer, pre-requisite, obligation, erarchizat
+ion, balanci, illustrati, ree, giembconst, gi, ceptability, pp-violation, sorace, prost, christianse
+n, daum, menzel, contructional, schroder, gacl, blunsom, melbourne, inter-dependence, vex, timisatio
+n, beween, romanian, postion, symmetrisation, cannibalise, worsen, parrallel, chengxiang, badminton,
+ consonant-initial, cooccurence, uiuc, kantor, cross-languge, fatiha, masatoshi, shunsuke, su-youn, 
+cheung, one-year, subsentential, lemur, high-probability, symmetrize, concentreze, pe, succesele, an
+ului, printre, communautaire, bbc, shao, shinyama, hara, deng, percy, riao, yuen, jean-michel, herve
+, ogilvie, gina, escudero, bc, agirre, eariler, infinity, isotonic, zadrozny, elkan, pair-adjacent, 
+pav, against-all, curiosity, mizil, eneko, concordance, hian, beng, alexandru, niculescu-mizil, slob
+odan, vucetic, bianca, brody, navigli, dipartimento, dictionary-like, ssi, interconnection, carthy, 
+pitfall, troponym, predominant-sense, arbiter, adjudicator, moval, fscore, irst-ddd, interop, noe, c
+one, saif, homonymy, rong, vickrey, stokoe, language-aware, manually-made, ode, race, semy, pernymy,
+ sema, ect, peec, imu, ption, gambl, koc, dolan, mind-like, shou, ivonne, tree-cut, neric, pennacchi
+otti, disp, viale, politecnico, girju, shepherd, knowitall, fbi, sire, isk, chem, castellan, upper-l
+evel, per-level, medium-frequent, grisman, tradictional, alorithm, discriminatie, lowest-level, all-
+level, hatla, steadier, scholkopf, jeju, univ, jinxiu, donghong, dipre, snowball, mid-context, pleni
+sh, chunklink, dectection, lotta, soresen, infomation, rwebangira, reddy, webdb, seattle, ington, ca
+ld, ghahramani, interrelation, jespersen, ajduckiewicz, molecule, polarization, pug, prefiltration, 
+commutativity, nasr, burroni, dymetman, kinship, quasi-tree, a-tree, r-tree, reunification, polarize
+, hspg, hdtr, kesper, nhdtr, hdtrcat, lareau, zaenen, chronization, non-explicit, larization, piet, 
+sagot, ajdukiewicz, syntaktische, bonfante, guillaume, perrier, cago, kepser, tesniere, construire, 
+kampen, bender, moshier, keselj, makeshift, modularization, candito, encumber, reflexive-transitive,
+ agr, olation, unassociative, suppressedfor, melnik, wintner, francez, fredrik, holloway, vlado, nur
+it, morphology-syntax, turkey, kemal, delineate, totype, urdu, hikayeler, innermost, eski, modifier-
+head, color-with, integrity, kli, elbiselideki, kitap, atype, girl-nom, man-acc, call-past, grocer-n
+om, girl-gen, say-past, grocer, ticiple, clause-type, grocer-gen, obj-gap, say-pastpart, man-nom, tn
+s-asp, manav, girl-dat, causer, objth, causativization, woman-acc, man-dat, woman-dat, hit-past, tub
+itak, tracey, louisa, baitin, bilge, dilek, zeynep, synergistic, syntax-sensitive, reparanda, spilke
+r, frey, formant, silverman, sixty-four, dorf, sub-syllabic, sonmez, phone-level, stylization, kahn,
+ wfr, levelt, bi-conditional, regna, conjoinability, conjoinable, metarule, fidditch, aff, x-phrase,
+ read-off, reparandum-finder, unfinished-category, purification, pseudo-punctuation, schubert, longe
+st-first, syntactically-parallel, combinable, guarum, sdp, nineth, aichi, prefectural, lectual, ohno
+, poll, punishment, hashi, shitaoka, fujio, sentence-end, dance, lisecond, long-sentence, clause-bou
+ndary, in-aid, agarwal, lenhart, kashioka, trace-filler, wdt, vbp, np-adv, kidney, np-tmp, pp-tmp, n
+p-mnr, advp-tmp, vp-initial, domv, misplacement, tractabe, georgila, departure-city, destination-cit
+y, derson, larsson, task-state, inforcement, q-value, state-action, eligibility, sadistic, act-task,
+ municator, unrecognisable, udm, tetsushi, information-state, weiland, frampton, kallirroi, biennial
+, ofdialogue, rotaru, srp, tration, anger, pon-barry, liscombe, man-human, finer-level, acceleration
+, hyperarticulation, perarticulation, fah, sem, cert, rej, angry, frang, screw, non-harmful, crct, d
+isruptive, coarse-level, spotlight, non-neutral, gry, remediation, initiative-srp, tetreault, sodic,
+ schultz, kamm, task-driven, fabbrizio, call-flow, ergistic, lg, engineer, ue, ai-style, pynadath, c
+hunking-style, hardy, customer-agent, vacy, customer-service, ticipate, switchboard-damsl, obeservat
+ion, dysfluency, hollister, haffner, narendra, probabalistic, meteer, slp, njfun, tiful, cozman, sha
+ojun, chi-hoon, russell, greiner, govaert, grandvalet, eracy, valet, xedu, vandenberghe, state-obser
+vation, recurrence, nocedal, aert, hart, vishwanathan, ingenuity, castelli, celeux, lerman, everson,
+ navin, weston, mcdermott, mce, giri, vm, roux, gpd, segment-wise, piece-wise, semi-markov, characte
+r-level, mce-f, quickprop, soft-max, juang, sarawagi, stagewise, blasso, tibshirani, ime, duda, def,
+ fslr, tuneup, shincho, bacchiani, kick, corroborate, speculation, wavelet, turlach, tsunenori, ishi
+oka, entrance, kameda, ricoh, rhetoric, rudner, ucational, intellimetric, sessor, multi-nomial, beja
+r, overreliance, rubric, halo, bereiter, reputable, trait, betsy, aozora, bunko, oto, sax, bup, mslr
+, allotment, asahi, portray, nagao, interquartile, broken-down, tributive, conjunctive-particle, inf
+initive-form, yule, tweedie, alienate, conviction, noya, reason-consequence, clusive, forward-connec
+tion, reverse-connection, pyramid, svdpack, read-in, point-deduction, kakasi, eighty, lut, college-e
+ntrance, tohoku, cross-disciplinary, struggle, isbn, sangyo, gre, fuculty, ryo, koichiro, morihiro, 
+tschichold, izumi, atsuo, kawai, mie, frgnp, quasi-cardinal, rewriter, native-speaker, left-out, min
+nen, efl, ostler, alignable, vanderventer, first-language, lonsdale, misapplication, detectable, who
+lesale, clec, mostly-ungrammatical, cleanup, irritate, spam-like, oversensitive, sporadic, adept, te
+a, alot, provincial, thirty-two, mushroom, mense, native-like, multinational, tise, ramp, casey, whi
+telaw, butler, ogura, ivona, guo, xuexizhe, yingyu, jiaoyu, dongfan, hun-tak, deryle, iwslt, veit, m
+ayfield, tomokiyo, vandeventer, nilsson, maltparser, fgd, bearer, tournament, libsvm, relabel, zeman
+, chih-chung, chih-jen, annatual, vaclav, parser-generator, hyung, joon, higashinaka, rh, scrape, li
+kert-scale, rant, ningham, foodquality, multi-relation, servicequality, mosphere, generativity, sing
+le-relation, by-hand, wolfson, ana-maria, nikhil, mad, intra-lexical, kirby, dyen, ninety-five, ring
+e, benedetto, mcmahon, nakleh, ascribe, language-language, inter-language, toto, heggarty, kessler, 
+kullback-liebler, leary, apical, uvular, word-similarity, language-internal, shillcock, tamariz, eas
+ily-computable, bailey, kidd, kapatsinski, shepard, mini-lexicon, one-fifth, off-diagonal, micchelli
+, chernoff, helliger, normaliser, stop-gap, swadesh, cognacy, analyst, word-derivation, ethnologue, 
+super-branch, armenian, indo-iranian, ossetic, gypsy, slovenian, sardinian, wakhi, midpoint, phyloge
+netic, minate, michle, quentin, language-tree, vsevolod, indiana, brett, luce, natalia, lyle, luay, 
+tandy, lexico-statistic, panorama, luminy, marseille, encoder, lexicographical, wool, remind, cumula
+tion, peripherical, ako, navigational, tiora, systematicity, topicoll, co-occurrent, non-topical, on
+e-side, exploitable, bilac, durgar, dutoit, olatz, alberto, sebastiani, slaven, wataru, taiichi, hoz
+umi, tip, ilknur, el-kahlout, brno, ardi, rila, lexicologie, explicative, gabriella, merryl, zock, k
+ilian, wcdg, decorate, expl, depsy, comparability, pretend, wdcg, overrule, sakar, supertagger-parse
+r, coling-workshop, davidov, jerusalem, rappoport, clique-set, sanity-check, irish, wester, dorow, a
+ll-pattern, single-pattern, chc, hchc, dmoz, inter-vector, triplet, jenifer, steffen, beate, katarin
+a, danilo, elisha, curvature, evgeniy, shaul, de-facto, web-search, murdock, positivity, strawman, r
+-precision, kl-rel, mse, xiaoyong, converence, vanessa, jahna, pertinence, dauer, thonormal, college
+-level, siberian, lra, nence, highschool, terabyte, topher, vivi, nastase, egidio, terra, hybridizat
+ion, pp-attacher, exert, migth, grammar-internal, formalizable, kletterte, mational, welcome, stocha
+stical, whithout, wcdg-conform, beneft, attacher, involvement, helper, undispensible, misfit, cordul
+a, pp-attachment, ingo, kiril, clergerie, projet, atoll, inria, pre-syntactic, form-level, suspicion
+, fix-point, non-parsable, earley-like, non-destructive, campaign, notate, wich, meta-data, probabil
+ization, louis-gabriel, pagne, taln, villemonte, lexique-grammaire, thomasset, obtenir, allay, closk
+y, fortify, of-domain, blush, father-afield, first-phase, second-phase, clegg, chiani, nonfiction, s
+peech-specific, adventure, mystery, ofinformation, jeremiah, technion, haifa, hitotsubashi, domain-s
+ensitive, incomprehensive, spasic, bio, leibler, randomisation, oretic, rinse, immunoblot, yoko, sho
+ko, parantu, dimitrov, drosophila, masato, katsuhiko, toyama, nagoya, hagiwara, commerce, sabrina, k
+ojima, geological-formation, desribe, wordbank, mod, detmod, bisi, plsi, zellig, jerrold, tsukasa, f
+orum, cobuild, mld, shoten, ttest, partake, sahlgren, karlgren, near-neighbour, mutation, houle, sak
+uma, gorman, cordance, cil, burkhard, satisfi, semidefi, piotr, pentti, jussi, co-occurance, mingli,
+ event-relevance, intra-event, event-event, aforesaid, sub-event, grobelnik, web-link, node-specific
+, yoshioka, fabric, weave, norodom, ranariddh, southeast, rever, word-net, sensibility, coincident, 
+summery, reprehensive, cerg, nsfc, erkan, centrality, jure, marko, natasa, linkkdd, event-centric, m
+asaharu, naomi, bucclecuch, havioural, therefor, subtitle, cspan, tokenise, compr, ssa, grammatical-
+functional, semi-grammatical, kulikowski, beata, riedel, minh, susumu, bao, masaru, kaufman, text-ge
+neration, okazaki, earthquake, ibi, ty, succedent, four-dimensional, agl, machine-translation, rutu,
+ ter-annotator, putin, crepant, timebank, timeml, missile, stroy, rithmic, artistic, contex, pernym,
+ non-wsj, greement, multi-classification, explicate, donghui, nathan, compliant, jobshop, godo, poss
+ibilistic, ifsa, cross-pair, zanzotto, disco, milano-bicocca, rte, medicinal, bayer, braz, maximizes
+he, emphasi, cmax, inter-pair, counterexample, intra, ofsun, intra-pair, osama, laden, ofstanford, n
+on-mercer, bmvc, gennaro, chierchia, courtney, rodrigo, mach, milen, kouylekov, usr, rondane, finnma
+rk, oslo, alta, hillside, hnc, wcc, rewritability, rewriting-equivalent, permutable, permutability, 
+inable, dominator, eliminable, eliminability, reduced-chart, complete-chart, dane, ligible, clifton,
+ two-item, multiple-item, vention, by-word, earley-style, tall, confound, quaternary, owe, togram, a
+daption, between-sentence, within-sentence, persistence, alterman, oftheassociationfor, mengqiu, ter
+uko, mitamura, dtree, head-node, tl, spatter, bi-syllabic, multi-syllabic, mic, book-name, evalb, mu
+ltivalue, meta-classifier, emulation, xiong, hearne, attraction, yuchang, oficml, yongsheng, ofijcnl
+p, lll, kiat, iwpt, honglin, shuanglong, shouxun, yueliang, hiroyasu, tricate, subsymbol, matsuzaki,
+ suzaki, workaround, subcategory, quantificational, erase, cooperate, omohundro, split-merge, sm, no
+nlexical, sentence-specific, max-rule, syntactico-semantic, less-split, puncutation, possesive, poss
+essor, assortment, barest, computatoinal, ottawa, false-friend, kondrak, hewson, mazadon, partial-co
+gnate, cog, nb-k, lemonde, endfor, sub-step, mb-e, multi-domain, zine, tolerable, maritime, seum, gr
+zegorz, leblanc, ilan, sub-case, sisyphean, skepticism, musical, ceivable, mid-range, positive-negat
+ive, hypersphere, micro, oration, pseudoword, harbin, soochow, kov, tongyicicilin, downloadable, dis
+criminability, overcame, odolgical, tanja, preslav, nakov, sackville, manchester, feature-equivalent
+, non-entity, jnlpba, bio-ner, semi-crf, linear-chain, tsuruoka, prev-entity, chunk-dependent, ina, 
+yoshimasa, yuka, bio-entity, seonho, juntae, kyung-mi, zhenzhen, micahel, krauthammer, goran, sunita
+, burr, invocation, multi-task, meta-classification, ernmental, caruana, a-time, mtl, single-task, m
+ultitask, base-noun, cade, sub-label, hladki, per-nam, cility, in-one, partially-correct, estimar, z
+henmei, gu, cercone, cheriton, dalhousie, five-tuple, name-location, steam, near-zero, sgt, pre-cont
+ext, hmmcontext, hmmnone, hmmglobal, dochmm, document-wise, extraction-relevant, definable, extracti
+on-relevance, early-stage, gelesma, informaion, chau, url, non-translational, pti, stag, processingi
+nstruction, tion-maximization, hmtl, lish-chinese, australasian, text-translation, chastic, question
+bank, non-question, tionbank, derperform, workload, underperform, yse, what-question, kenisation, re
+trainable, wh-xp, whpp, sq, sbarq, ghandi, non-copular, backtest, wh-constituent, oswald, beta-relea
+se, object-extraction, moot, gibt, zugestellt, sprochen, sententce-initial, wh-extraction, multimoda
+l-ccg, tigertree, ccgderiv, resumptive, liest, immer, beantwortet, jeden, furthest, beer, non-combin
+atory, mairead, paciific, bode, abalistic, possiblity, comodate, word-association, contraint, optimi
+um, addtional, nonmonontonicity, randomize, retry, co-occurence, lacoste-julien, julien, herbrich, t
+o-english, non-monotone, content-independency, btg, first-best, rce, cohere, igr, cstar, case-insens
+itive, amittai, birch, statistically-significant, undone, case-sensitive, outbound, inbound, subsamp
+le, engar, kurdistan, kwrya, mstedp, llsmah, balthqq, anha, tsne, aslhp, nwwyp, diplomat, snrfe, ama
+m, wakd, albradey, alamn, kanwn, mhlp, baradei, elbaradei, lalit, hmm-basedword, philology, uppsala,
+ full-text, caropreso, kotcz, hulth, sionality, forman, basili, sub-set, fernanda, learner-independe
+nt, processingfor, stockholm, jinwoo, aleksander, vidya, jugal, ji-rong, samer, semi-quantitative, c
+haracter-bigram, word-scheme, roborate, single-label, mmword, chi-tfidf, chicig-tfidfcig, ctc, where
+a, dimansionality, dash-dot, two-character, three-character, sub-bigram, intraword, natual, propensi
+ty, complementation, tfidf-like, baoli, yuzhong, shiwen, worldwide, cltc, rability, multiwordnet, ri
+gth-upper, tiwordnet, english-italian, monosemic, totext, trento, word-and, fuliang, weng, zhe, cme,
+ nik, sgc, re-compute, uw, htag, htagcomb, wtcomb, rccomb, atp, bara, darby, yaqian, lide, hauke, hi
+dden-structure, defensible, parseable, hidden-variable, all-zero, bumpy, entertain, vine, nostic, in
+jection, bulgarian, redefinition, bigram-like, spiration, elidan, tidy, conll-x, simov, agonal, saba
+nci, ruhi, sarikaya, diacritization, acritic, acritization, nonnative, dyslexia, poetry, replicable,
+ tanween, shadda, calize, vowelization, el-imam, white-space, shedda, appoach, signer, subject-marke
+r, nahar, touni, axe, voyellation, maghreb, contemporain, phonetization, restorar, kirchhoff, cross-
+dialectal, rani, nelken, tayli, vergyri, diar, critization, client-side, htrdp, teevan, post-query, 
+searcher, morita, xuehua, pitkow, hits-like, high-score, confer, out-degree, re-computation, sparck,
+ pate, ucair, imperceptible, speretta, gauch, jaja, sugiyama, bharat, relativity, personalization, t
+anudjaja, authoritative, okapi, clickthrough, haifeng, radation, to-chinese, ecmt, demner-fushman, o
+ard, babelfish, mcnamee, shida, nunzio, dcitionary, shin-ya, hirosysu, dina, kumano, infromation, vi
+i, kazuaki, kuang-hua, sukhoon, hyon, tno, kui-lam, toshihiko, blake, chapel, sub-document, isf, itf
+, foundational, dium, breakiterator, million-term, bichaw, non-abstract, indiscernible, blog, jacsat
+, mpohbp, lada, adamic, pareto, ferrer, borkur, sigurbjornsson, lenght, quan, tat, shawi, sert, tsa,
+ transversal, haitao, katsuhito, sudoh, hajime, tsukada, suppression, horlock, favre, probability-li
+ke, non-ne, ner-level, unreadable, of-vocabulary, upper-boundary, conf-reject, conf-a, noconf-a, noc
+onf-ta, conf-ub, kamppari, schaaf, zero-anaphora, pro-form, zero-anaphoric, extralinguistic, ryoukok
+u-no, houshin-o, akirakanisi-ta, diplomacy, np-anaphora, candidate-wise, single-step, bact, nament, 
+intra-anaphoricity, bmstr, scmstr, inq, out-quote, outq, in-quote, auc-value, kyungpook, daegu, high
+-accurate, first-step, changingwindowsize, howlargeexpand, howsmallshrink, lower-oder, kook, partial
+ly-free, hantec, ofmarkov, eojeol-block, mochihashi, siu, bo-yeong, literation, cow, semanteme, ssp,
+ uni-gram, rean-english, worldnet, crawler, chile, wkd, sinica, text-vector, kt-set, dd-mt, english-
+hindi, recency-vector, niladri, chatterjee, delhi, hauz, saumya, bengal, storybook, dk-vec, dk, vec,
+ noticd, small-frequency, jeopardize, clidean, sand, sagvall, ananthakrishnan, ramanathan, durgesh, 
+engish-hindi, mongolian, japanese-mongolian, badam-osor, khaltar, kasuga, historiographical, loanwor
+d, romanize, sanduijav, deferent, romanization, hepburn, geology, terumasa, suzushi, ruizhang, pik-s
+han, kil-soon, jong-hooh, shigeo, micheline, enkhbayar, bayarmaa, i-iv, meni, adler, gurion, negev, 
+bgu, fusional, frankel, aldo, lob, levinger, morpho-lexical, carmel, maarek, segal, lembersky, bar-h
+aim, accurracy, duh, hspell, wordlist, baum-eagon, wave, morhpeme, yoad, languge, yoelle, yael, nada
+v, gennady, uzi, morpholexical, morhphological, erel, shlomo, yona, fran, venkataraman, mbdp, uttera
+nce-internal, memorize, infinite-dimensional, tomer, crp, get-richer, power-law, bernstein-ratner, t
+emperature, lower-accuracy, higher-accuracy, lower-probability, pitman-yor, hdp, under-segmentation,
+ exchangeability, and-pattern, multitape, levantine, diglossia, folk, msa, ational, platic, non-temp
+latic, wasayaktubuwnaha, aktub, masculine-plural, alif, akkadian, tosegmental, pulman, lexemic, clas
+h, mbc, non-monotonic, variant-independent, glide, viii, multi-path, diacritic-free, antine, subjunc
+tive, jussive, allomorphic, imperfective, treatise, pile, eme, surfacy, latb, mbc-root, ix, geminati
+on-like, one-level, geroge, pan-arabic, naturel, dalila, goldberg, sheva, simplenp, non-european, re
+source-scarce, over-all, smixut, bound-morpheme, beit, sefer, ha-sefer, the-book, misrad, the-govern
+ment, misrad-o, ha-yarok, the-apple, the-green, null-equative, welfare, committee-const, topic-const
+, israeli, ixn, khan, mongol, wether, interjection, wpnc, wpnce, too-short, netzer-dahan, altman, le
+xicalized-grammar, statisical, single-tagger, single-tag, lore, multi-tagger, multitagger, thoughout
+, discretize, oki, chuo-ku, osaka, asahara, pfr, two-fold, sub-local, hiragana, rwc, kuc, sentence-w
+ide, wide-scope, arnaud, ming-hong, keh-jiann, shinsuke, mori, shaomin, russel, kuniko, saito, nagao
+ka, rg, paign, eck, kazuteru, nut-ntt, ichiro, airspace, lebanese, single-sentence, ze, searchable, 
+costmargin, sgd, up-front, takuma, gakuto, kurata, shimotsuruma, ouault, serif, phonogram, ssc, bazz
+i, elseveir, anne-marie, derouault, tsuchiya, iit, grievance, appraisal, telephonic, desk, cluto, fi
+nest, printer, endeavor, administrative, sub-section, ministrative, hundred-thousand, raghuram, kris
+hnapuram, sreeram, siohan, riccardi, hakkani-tur, swayne, singal, monothetic, roytman, pellom, virgi
+n, fintan, costello, cosy, moratz, human-robot, tractor, logan, sadler, kelleher, perceivable, upper
+-left, lower-right, equidistant, treme, clockwise, gorniak, devault, logic-like, openccg, context-de
+pendence, computatinal, apprehension, regier, overridden, devote, subinterval, ibefore, otc, sputlin
+k, gtag, tlinkable, most-confident, ignorant, verbocean, rule-set, gigantic, bocean, me-c, happens-b
+efore, cean, glund, tempex, habel, ripe, verbocean-like, meml-compliant, roser, marcia, verhagen, sc
+hilder, setzer, weld, kleer, perceptron-style, demande, urgence, parliamentary, tonic, unreachable, 
+swift, constellation, stellation, manifestation, fqrnt, ariadna, reinterpret, approximative, imative
+, tabu, emd, superscript, iteration-dependent, ivanov, sugato, mikhail, yuri, radford, synchronous-c
+fg, form-like, target-side, leviate, gnf-like, phrase-base, itg-constraint, downhill, lesson, dispat
+ch, recipient, village, kazawa, jena, general-language, termhood, frantzi, wermter, tication, inconc
+lusive, dioscovery, lsm, modifiable, lpm, quo, subportion, undo, unfavorable, tn, groupinlpr, terplo
+t, katerina, sophia, gust, tactic-semantic, component-integral, relationship-specific, shortfall, mo
+nosemy, onomic, part-inheritance, non-existence, noun-pair, ancestor-distance, overly-specific, webp
+age-specific, hose, non-hypernym, non-capital, gorize, non-joint, sense-disambiguation, rajat, allis
+on, ndseg, cimiano, cederberg, occurerence, database-like, fast-growth, lambert, payne, kelley, good
+win, griffin, hansen, walsh, burke, boyd, freeman, flynn, hoffman, steele, dunn, rowe, wheeler, mari
+ah, shania, twain, aguilera, crow, britney, celine, dion, whitney, houston, justin, timberlake, beyo
+nce, springsteen, leann, missy, aretha, franklin, estefan, norah, avril, lavigne, kid, kylie, minogu
+e, motley, crue, jam, silverchair, bath, doobie, priest, halen, midnight, pere, ubu, godsmack, grand
+, funk, railroad, zeppelin, aerosmith, limp, bizkit, echo, bunnymen, chisel, lizzy, extremity, anymo
+re, concur, non-justifiable, similarity-driven, english-russian, distillation, synchronicity, mentie
+v, f-index, mueller, dft, endow, ciopcccum, cppocc, cpoccet, doi, reflex, nasreen, abduljaleel, sung
+lim, klementiev, identifi, methodsfor, architect, cay, most-right, most-left, matchable, vecor, hira
+o, custody, declension, kyodai, plosion, modifyee, rera, excel, lawrie, ell, clinically-relevant, hi
+gh-impact, upfront, ebm, bedside, alpha-adrenergic, parlance, metamap, temafloxacin, ofloxacin, fush
+man, disease-specific, blocker, nugget, patient-specific, presentational, expandable, twenty-five, f
+etch, factoid-style, abstract-level, clinician, signed-rank, round-robin, ough, drill-down, cogdill,
+ first-year, delivery, churchill, teresa, pazienza, bicocca, degli, arcimboldi, aroc, class-level, a
+gentive, backward-presupposition, nominalization, verb-subject, timoty, dekan, dirt-discovery, entre
+, partir, computer-detectable, halpin, machine-learner, participatory, re-read, episode, wonderful, 
+selma, lagerloff, treasure, thief, donkey, stole, closed-world, reimplementation, plot-comparison, s
+tork, template-driven, georgia, ttt, judy, ofplot, reasoningfor, multi-representation, nenkova, life
+-long, zaanen, u-dop, ml-dop, uml-dop, richest, zuidema, ml-pcfg, mcclosky, asymptote, reappraise, w
+illem, tugwell, zollmann, chiou, multilayer, confidence-rate, steepest, far-right, far-left, cut-sho
+rt, powerset, uisite, syntax-driven, andjoint, prototype-driven, non-prototype, extremum, reasearche
+r, constitiuent, constituent-type, protoype, donation, karim, insideoutside, klakow, supportive, dtw
+, bnp, keya, renxu, kaisser, linguisitic, ilqua, verbnet, floyd, ingemar, johanson, knock, patterson
+, heavyweight, tanev, sensekey, is-a, r-causation, sim-deriv, di-transitive, abercrombie, fitch, toi
+d, kisuh, gapore, poweranswer, hickl, answerhood, volcano, autoquab, hillclimber, complete-link, agq
+, kirk, hristo, fortieth, rohit, computer-executable, mrl, nextto, string-kernel, semblance, most-pr
+obable, krisp, wasp, scissor, silt-tree, chill, creep, mao, yuk, wah, rashid, abdalla, re-generative
+, lisacek, ferrable, inventive, meta-discourse, phrase-external, phrase-internal, indexer, scholar, 
+goal-type, anthology, accumulator, continuation-type, cmplg, precision-critical, goal-verb, favourit
+e, diambiguation, non-goal, human-chosen, raz, sciborg, essen, edvard, evelyn, jianhua, frederique, 
+sandor, neurodegenerative, probank, spondent, frame-specific, argm-adv, giuglea, multiclassifier, ar
+gument-boundary, semantic-role, interconnect, ecml, valeri, jibiki, lexalp, harmonise, alpine, supra
+national, interreg, iiib, al-pine, sustainable, bistro, streiter, foreseen, papillon, xhtml, harmoni
+sation, standardisation, pillon, intra-alpin, circulation, intra-alpine, alpin, laration, quadriling
+ual, implementability, ayant, leur, rieur, trafic, peuvent, geographical-code, rmre, relationtoterm,
+ acception, rmr, upload, descriptor, namespace, lexalpfra, stylesheet, trator, tributor, gdef, dicti
+onnaire, microstructure, liberty, spacial, non-equivalent, reiner, sonneveld, mathieu, leonhard, isa
+bella, natascia, sia, hoger, instituut, voor, hogeschool, cia, pecina, ficity, general-domain, catal
+ogue, eral-purpose, retranslation, malach, english-czech, prioritization, shoah, chive, informant, p
+oly-hierarchy, birkenau, nazi, czech-english, ginal, mutual-translation, kaji, agricultural, main-pa
+rticular, wantanabe, eliska, alena, prunerova, bhat, msmt, agriculture, dependecy, richment, wehrli,
+ jackendoff, phraseme, inescapable, bitual, gouvernment, adresser, aide, employer, bolsa, comercio, 
+cuota, fondo, permitir, uso, papel, deuda, esterno, federale, creazione, nuovo, posto, unquestionabl
+e, essai, entitle, civile, noise-freer, collocability, idiom, pos-combination, tible, cross-punctuat
+ion, mwe, leoni, pallotta, scherrer, gabrielle, musillo, yaacov, hannah, claredon, orliac, multiling
+ue, context-rich, extractible, ghkm, unaligned-word, or-node, or-dforest, sbtm, minimal-rule, relati
+ve-frequency, composed-rule, altemp, poutsma, inflexion, noun-adjective, em-type, data-dependent, ch
+ou, eterisation, welsh, acterise, cymru, gymru, gar, type-level, minish, basu, embody, mrc, dirty, a
+mta, icslp, sonjia, waxmonsky, biphrase, stipulation, thwart, misinterpretation, mteval, monsky, dec
+lan, yihai, mary-ann, enoch, whye, teh, indispensible, mackay, ishwaran, deter, log-log, yor, hdlm, 
+hpylm, ikn, hpycv, mkn, non-competitive, kuan, endowment, yen, uai, speach, pitman, two-parameter, p
+oisson-dirichlet, flour, pornography, crime, yesky, xscm, timestamp, newest, ment-ii, cngiga, discou
+rsal, emoticon, rightnow, spy, cnet, vember, dengjun, guohua, full-bigram, by-step, kld, product-mom
+ent, fredrick, fuchun, maosong, xuefeng, baobao, hong-kui, de-yi, ming-shun, yu-chuan, huge-scale, e
+genhofer, goodenough, wsdc, one-layer, domz, glomerative, average-link, udn, pitcher, fellow, varian
+tcosine, bandar, textbase, gene-disease, c-reactive, homo, gena, canonicalize, serum, xquery, gxp, d
+isturb, lexhead, sentenceid, entityname, dbsite, eventtype, geneid, diseaseid, genesymbol, genename,
+ nomenclature, masuda, tnf, biologist, ologist, tality, suiseki, sdk, koike, easiest-first, bstract,
+ speller, adventura, peurto, palace, msn, forward-viterbi, farooq, nakanishi, enju, f-str, pristine,
+ anj, valldal, locative, target-landmark, carlson-radvansky, kara, einstein, masuoka, conjoin, shika
+, cate-argument, n-content, murata, headlemma, nextheadword, lastwordlemma, lastwordinfl, isfinitecl
+ause, isdateexpression, isnumberexpression, haspredicatenominal, hasnominalizer, hasfiniteclausalmod
+ifier, parentlemma, lish-japanese, assigner, alterative, dewa, kuroshio, legislate, kerry-bush, ideo
+logy, tinian, israeli-palestinian, unilateral, bush-kerry, sp, guest, abelson, mullen, favorability,
+ consternation, dsw, sense-specific, cross-fold, subjectivity-aware, platter, esuli, veer, opqa, nat
+u, pablo, duboue, impedance, nl-query, block-diagram, qa-system, cm, invertible, qframe, ne-type, hi
+t-list, usstate, second-place, first-place, mileage, answer-list, inter-question, matization, type-d
+ependent, moriceau, rationalize, slocum, multi-question, sevier, shilong, biterm, askbill, chatbot, 
+nitional, song, askmsr, goldensohn, srikanth, question-topic, cui, min-adhoc, bose, three-stage, cop
+land, qe, physicist, prize, bohr, shiqi, shenghua, dwight, guangyuan, zhushuo, fduqa, feinstein, lig
+, non-reentrant, one-reentrant, reentrant, ug, trancy, uivalent, ormal, ore, visitor, dural, gelesen
+, berfeld, opological, uire, odern, ndfe, arge, leroi, comme, endenc, hiyon, grec, input-driven, wid
+l-graph, widl-expression, abstractive, document-specific, hedgetrimmer, transltion, systemic-functio
+nal, thesizer, comic, cad-like, dropoff, all-bi, words-tri, krishnan, local-information, yedidia, ha
+nd-set, token-majority, superentity-majority, vignesh, ganapathy, psm, verspoor, ew, cw, syllabify, 
+chinese-like, gsa, elision, c-rank, psa-psm, f-rank, dqtp, resourceful, katakana-english, transliter
+ated-term, punjabi, shahmukhi, gurmukhi, shardha, pakistan, incomprehensible, mukhi, jabi, pmt, alou
+d, sub-continent, landa, sharda, takri, nasal, paireen, haahaa, seh, heh-doachashmee, loan, vaavaa, 
+raaraa, bone, tionality, maqbal, heer, punjab, northern, baba, nanak, khawaja, farid, mian, muhammad
+, bakhsh, puncham, milestone, jarmo, heikki, guru, asif, adbi, lahore, africa, fareer, uper, ental, 
+urjc, mdc, newsblaster, marizer, mcyt, chuan-jie, emilia, ksper, time-slot, time-period, nanno, dusk
+, cereal, q-function, hand-side, time-unknown, fan, chunking-method, bias-free, ne-time, cha, cost-s
+ensitive, arthur, salvatore, junxin, nathalie, tomoyuki, toshiaki, framenet-style, english-german, j
+onker, perfmatch, edgecover, structure-driven, kursk, governmental, sea, aboard, nationality, iowa, 
+qtermi, jackal]
